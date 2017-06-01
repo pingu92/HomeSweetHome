@@ -20,7 +20,7 @@
 		    "large_jar_recipe" : {
 		      "recipe_name" : "Large Jar",
 		      "description" : "The savest place for Tonics and Herbs. Contains up to 32 Items.",
-		      "flavor" : "So many Herbs inside… Awful!"
+		      "flavor" : "It's a really big storage… Awful!"
 		    },
 		    "small_jar_recipe" : {
 		      "recipe_name" : "Small Jar",
