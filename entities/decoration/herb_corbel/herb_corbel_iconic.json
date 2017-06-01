@@ -1,0 +1,26 @@
+{
+	"mixins": "stonehearth:mixins:item_properties",
+	"type": "entity",
+	"components": {
+		"model_variants": {
+			"default": {
+				"models": [
+					"file(herb_corbel_iconic.qb)"
+				]
+			}
+		},
+		"mob": {
+      "align_to_grid": [
+         "x",
+         "z"
+      ],
+      "model_origin": { "x": -1, "y": 0, "z": -1 }
+		},
+	"entity_data": {
+			"stonehearth:catalog": {
+				"is_item": true,
+				"category": "decoration"
+			}
+		}
+	}
+}

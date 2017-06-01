@@ -1,0 +1,22 @@
+{
+
+"info" : {
+   "name" : "homesweethome",
+   "version" : 3
+  },
+
+  "default_locale" : "en",
+
+  "aliases" : {
+    "containers:herbalist_small_jar" : "file(entities/containers/small_jar)",
+    "containers:herbalist_large_jar" : "file(entities/containers/large_jar)",
+    "furniture:herbalist_bookshelf" : "file(entities/furniture/bookshelf)",
+    "furniture:herbalist_herb-table" : "file(entities/furniture/herb-table)",
+    "decoration:herbalist_herb_corbel" : "file(entities/decoration/herb_corbel)"
+  },
+
+  "mixintos" : {
+    "/stonehearth/jobs/herbalist/recipes/recipes.json" : "file(jobs/herbalist/recipes/recipes.json)"
+  }
+
+}

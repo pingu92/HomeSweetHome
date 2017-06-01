@@ -1,0 +1,36 @@
+{
+   "craftable_recipes" : {
+     "containers" : {
+        "ordinal": 5,
+        "name": "i18n(stonehearth:jobs.carpenter.recipes.storage_name)",
+        "recipes" : {
+            "herbalist_small_jar" : {
+               "recipe" : "file(small_jar_recipe.json)"
+            },
+           "herbalist_large_jar" : {
+              "recipe" : "file(large_jar_recipe.json)"
+           }
+        }
+     },
+      "furniture" : {
+         "ordinal": 6,
+         "name": "i18n(stonehearth:jobs.carpenter.recipes.furniture_name)",
+         "recipes" : {
+            "herbalist_bookshelf" : {
+               "recipe" : "file(bookshelf_recipe.json)"
+            },
+            "herbalist_herb-table" : {
+               "recipe" : "file(herb-table_recipe.json)"
+            }
+         }
+      },
+      "decorations" : {
+        "ordinal": 7,
+         "recipes" : {
+            "herbalist_herb_corbel" : {
+               "recipe" : "file(herb_corbel_recipe.json)"
+            }
+         }
+      }
+   }
+}

@@ -1,0 +1,61 @@
+{
+	"jobs": {
+		"herbalist": {
+			"recipes" : {
+		    "bookshelf_recipe" : {
+		      "recipe_name" : "Potions Bookshelf",
+		      "description" : "Decorative Shelf for all your healing books.",
+		      "flavor" : "Also a Herbalist sometimes needs some help."
+		    },
+				"herb_corbel_recipe" : {
+		      "recipe_name" : "Herbs Corbel",
+		      "description" : "Decorative corbel to dry collected herbs.",
+		      "flavor" : "They smell so seductive."
+		    },
+				"herb-table_recipe" : {
+		      "recipe_name" : "Herb Table",
+		      "description" : "More place to produce healing Items.",
+		      "flavor" : "Only for professional Herbalists."
+		    },
+		    "large_jar_recipe" : {
+		      "recipe_name" : "Large Jar",
+		      "description" : "The savest place for Tonics and Herbs. Contains up to 32 Items.",
+		      "flavor" : "So many Herbs inside… Awful!"
+		    },
+		    "small_jar_recipe" : {
+		      "recipe_name" : "Small Jar",
+		      "description" : "Small but fine container. Contains up to 8 Items.",
+		      "flavor" : "Uh! Did i smell cookies inside?"
+		    }
+			}
+		}
+	},
+	"entities" : {
+		"storage" : {
+      "large_jar_ghost" : {
+        "display_name": "Large Jar",
+        "description" : "The savest place for Tonics and Herbs."
+      },
+      "small_jar_ghost" : {
+				"display_name": "Small Jar",
+        "description" : "Small but fine container."
+      }
+		},
+    "furniture" : {
+      "bookshelf_ghost" : {
+				"display_name": "Potions Bookshelf",
+        "description" : "Collects all your healing knowledge."
+      },
+			"herb-table_ghost" : {
+				"display_name": "Herb Table",
+        "description" : "More place to produce healing Items."
+      },
+    },
+		"decoration" : {
+			"herb_corbel_ghost" : {
+				"display_name": "Herbs Corbel",
+        "description" : "Ideal to dry collected herbs."
+      }
+    }
+	}
+}

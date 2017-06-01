@@ -1,0 +1,22 @@
+{
+	"type" : "recipe",
+
+	"work_units" : 2,
+	"recipe_name" : "i18n(homesweethome:jobs.herbalist.recipes.small_jar_recipe.recipe_name)",
+	"description" : "i18n(homesweethome:jobs.herbalist.recipes.small_jar_recipe.description)",
+	"flavor" : "i18n(homesweethome:jobs.herbalist.recipes.small_jar_recipe.flavor)",
+	"portrait" : "/homesweethome/entities/containers/small_jar/small_jar.png",
+	"level_requirement" : 1,
+	"workshop" : "stonehearth:herbalist:workbench",
+
+	"ingredients" : [
+		{
+			 "material": "clay resource",
+			 "count": 1
+		}
+	],
+	"produces" : [{
+			"item" : "homesweethome:containers:herbalist_small_jar"
+		}
+	]
+}
