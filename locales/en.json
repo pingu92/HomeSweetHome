@@ -49,7 +49,7 @@
 			"herb-table_ghost" : {
 				"display_name": "Herb Table",
         "description" : "More place to produce healing Items."
-      },
+      }
     },
 		"decoration" : {
 			"herb_corbel_ghost" : {
