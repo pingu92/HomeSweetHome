@@ -4,6 +4,9 @@
         "ordinal": 5,
         "name": "i18n(stonehearth:jobs.carpenter.recipes.storage_name)",
         "recipes" : {
+          "herbalist_herb_case_open" : {
+             "recipe" : "file(herb_case_open_recipe.json)"
+          },
             "herbalist_small_jar" : {
                "recipe" : "file(small_jar_recipe.json)"
             },
@@ -20,7 +23,7 @@
                "recipe" : "file(bookshelf_recipe.json)"
             },
             "herbalist_herb-table" : {
-               "recipe" : "file(herb-table_recipe.json)"
+               "recipe" : "file(herb_table_recipe.json)"
             }
          }
       },

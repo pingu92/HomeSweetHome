@@ -4,7 +4,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(herb-table.qb)"
+					"file(herb_table.qb)"
 				]
 			}
 		},
@@ -15,9 +15,9 @@
 		},
 		"entity_data": {
 			"stonehearth:catalog": {
-				"display_name": "i18n(homesweethome:entities.furniture.herb-table_ghost.display_name)",
-				"description": "i18n(homesweethome:entities.furniture.herb-table_ghost.description)",
-				"icon": "file(herb-table.png)",
+				"display_name": "i18n(homesweethome:entities.furniture.herb_table_ghost.display_name)",
+				"description": "i18n(homesweethome:entities.furniture.herb_table_ghost.description)",
+				"icon": "file(herb_table.png)",
 				"category": "furniture",
 				"material_tags": "wood furniture crafted crate furniture"
 		}
