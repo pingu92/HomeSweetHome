@@ -1,10 +1,10 @@
 {
    "type": "entity",
-   "mixins": "file(clay_bucket_ghost.json)",
+   "mixins": "file(herb_case_open_ghost.json)",
    "components": {
       "stonehearth:storage": {
          "type": "crate",
-         "capacity": 48
+         "capacity": 32
       },
       "stonehearth:entity_forms": {
          "iconic_form": "file(herb_case_open_iconic.json)",

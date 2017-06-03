@@ -4,7 +4,7 @@
    "components": {
       "stonehearth:storage": {
          "type": "jar",
-         "capacity": 32
+         "capacity": 48
       },
       "stonehearth:entity_forms": {
          "iconic_form": "file(large_jar_iconic.json)",

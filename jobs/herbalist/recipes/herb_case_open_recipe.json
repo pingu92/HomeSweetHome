@@ -4,7 +4,7 @@
 	"recipe_name" : "i18n(homesweethome:jobs.herbalist.recipes.herb_case_open_recipe.recipe_name)",
 	"description" : "i18n(homesweethome:jobs.herbalist.recipes.herb_case_open_recipe.description)",
 	"flavor" : "i18n(homesweethome:jobs.herbalist.recipes.herb_case_open_recipe.flavor)",
-	"portrait" : "/homesweethome/entities/containers/herb-table/herb_case_open.png",
+	"portrait" : "/homesweethome/entities/containers/herb_case_open/herb_case_open.png",
 	"level_requirement" : 2,
 	"workshop" : "stonehearth:herbalist:workbench",
 	"ingredients" : [
