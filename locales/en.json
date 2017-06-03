@@ -37,7 +37,7 @@
 	},
 	"entities" : {
 		"storage" : {
-			"herb_case_open" : {
+			"herb_case_open_ghost" : {
         "display_name": "Herbs Case",
         "description" : "Collect a large amout of fresh Herbs."
       },
