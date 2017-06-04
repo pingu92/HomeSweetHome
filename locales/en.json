@@ -8,7 +8,7 @@
 		      "flavor" : "Also a Herbalist sometimes needs some help."
 		    },
 				"herb_case_open_recipe" : {
-		      "recipe_name" : "Herbs Case",
+		      "recipe_name" : "Large Herb Case",
 		      "description" : "Collect a large amout of fresh Herbs. Contains up to 48 Items.",
 		      "flavor" : "Well organized!"
 		    },
@@ -38,7 +38,7 @@
 	"entities" : {
 		"storage" : {
 			"herb_case_open_ghost" : {
-        "display_name": "Herbs Case",
+        "display_name": "Large Herb Case",
         "description" : "Collect a large amout of fresh Herbs."
       },
       "large_jar_ghost" : {
