@@ -5,7 +5,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(herb_case_open_iconic.qb)"
+					"file(large_herb_case_iconic.qb)"
 				]
 			}
 		},

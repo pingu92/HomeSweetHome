@@ -1,14 +1,14 @@
 {
    "type": "entity",
-   "mixins": "file(herb_case_open_ghost.json)",
+   "mixins": "file(large_herb_case_ghost.json)",
    "components": {
       "stonehearth:storage": {
          "type": "crate",
          "capacity": 32
       },
       "stonehearth:entity_forms": {
-         "iconic_form": "file(herb_case_open_iconic.json)",
-         "ghost_form": "file(herb_case_open_ghost.json)",
+         "iconic_form": "file(large_herb_case_iconic.json)",
+         "ghost_form": "file(large_herb_case_ghost.json)",
          "placeable_on_ground": true
       },
       "region_collision_shape": {

@@ -7,11 +7,6 @@
 		      "description" : "Decorative Shelf for all your healing books.",
 		      "flavor" : "Also a Herbalist sometimes needs some help."
 		    },
-				"herb_case_open_recipe" : {
-		      "recipe_name" : "Large Herb Case",
-		      "description" : "Collect a large amout of fresh Herbs. Contains up to 48 Items.",
-		      "flavor" : "Well organized!"
-		    },
 				"herb_corbel_recipe" : {
 		      "recipe_name" : "Herbs Corbel",
 		      "description" : "Decorative corbel to dry collected herbs.",
@@ -27,6 +22,11 @@
 		      "description" : "The savest place for Tonics and Herbs. Contains up to 32 Items.",
 		      "flavor" : "It's a really big storage… Awful!"
 		    },
+				"large_herb_case_recipe" : {
+		      "recipe_name" : "Large Herb Case",
+		      "description" : "Collect a large amout of fresh Herbs. Contains up to 48 Items.",
+		      "flavor" : "Well organized!"
+		    },
 		    "small_jar_recipe" : {
 		      "recipe_name" : "Small Jar",
 		      "description" : "Small but fine container. Contains up to 8 Items.",
@@ -37,7 +37,7 @@
 	},
 	"entities" : {
 		"storage" : {
-			"herb_case_open_ghost" : {
+			"large_herb_case_ghost" : {
         "display_name": "Large Herb Case",
         "description" : "Collect a large amout of fresh Herbs."
       },
