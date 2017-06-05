@@ -9,8 +9,8 @@
 	"workshop" : "stonehearth:herbalist:workbench",
 	"ingredients" : [
 		{
-			"material" : "wood resource",
-			"count" : 2
+			"uri": "homesweethome:containers:carpenter_large_case",
+			"count": 1
 		},
 		{
 			 "material": "herb resource",

@@ -1,5 +1,14 @@
 {
 	"jobs": {
+		"carpenter": {
+			"recipes" : {
+				"large_case_recipe" : {
+		      "recipe_name" : "Large Case",
+		      "description" : "Collect a large amout of Materials. Contains up to 48 Items.",
+		      "flavor" : "Well organized!"
+		    }
+			}
+		},
 		"herbalist": {
 			"recipes" : {
 		    "bookshelf_recipe" : {
@@ -37,6 +46,10 @@
 	},
 	"entities" : {
 		"storage" : {
+			"large_case_ghost" : {
+        "display_name": "Large Case",
+        "description" : "Collect a large amout of Items."
+      },
 			"large_herb_case_ghost" : {
         "display_name": "Large Herb Case",
         "description" : "Collect a large amout of fresh Herbs."
