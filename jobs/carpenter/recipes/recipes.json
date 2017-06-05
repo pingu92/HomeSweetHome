@@ -1,7 +1,6 @@
 {
    "craftable_recipes" : {
-     "containers" : {
-        "name": "i18n(stonehearth:jobs.carpenter.recipes.storage_name)",
+     "storage" : {
         "recipes" : {
           "large_case" : {
              "recipe" : "file(large_case_recipe.json)"
