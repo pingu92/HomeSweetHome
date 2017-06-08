@@ -11,6 +11,14 @@
          "ghost_form": "file(large_case_ghost.json)",
          "placeable_on_ground": true
       },
+      "destination": {
+         "region": [
+            {
+               "min": { "x": -1, "y": 0, "z": -1 },
+               "max": { "x": 2, "y": 1.4, "z": 1 }
+            }
+         ]
+      },
       "region_collision_shape": {
          "region": [
             {
@@ -22,12 +30,12 @@
    },
    "entity_data": {
       "stonehearth:net_worth": {
-         "value_in_gold": 14,
+         "value_in_gold": 6,
          "rarity": "common",
          "shop_info": {
             "buyable": false,
             "sellable": true,
-            "shopkeeper_level": 1,
+            "shopkeeper_level": 2,
             "shopkeeper_type": "caravan"
          }
       }

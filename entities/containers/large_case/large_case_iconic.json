@@ -1,6 +1,5 @@
 {
 	"mixins": "stonehearth:mixins:item_properties",
-	"type": "entity",
 	"components": {
 		"model_variants": {
 			"default": {
