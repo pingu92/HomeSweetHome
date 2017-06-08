@@ -48,11 +48,11 @@
 		"storage" : {
 			"large_case_ghost" : {
         "display_name": "Large Case",
-        "description" : "Collect a large amout of Items."
+        "description" : "Collect a large amout of 48 Items."
       },
 			"large_herb_case_ghost" : {
         "display_name": "Large Herb Case",
-        "description" : "Collect a large amout of fresh Herbs."
+        "description" : "Collect to 48 Units of fresh Herbs."
       },
       "large_jar_ghost" : {
         "display_name": "Large Jar",
