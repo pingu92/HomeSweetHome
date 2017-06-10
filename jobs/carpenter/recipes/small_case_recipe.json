@@ -5,7 +5,7 @@
 	"description" : "i18n(homesweethome:jobs.carpenter.recipes.small_case_recipe.description)",
 	"flavor" : "i18n(homesweethome:jobs.carpenter.recipes.small_case_recipe.flavor)",
 	"portrait" : "/homesweethome/entities/containers/small_case/small_case.png",
-	"level_requirement" : 1,
+	"level_requirement" : 0,
 	"workshop" : "stonehearth:carpenter:workbench",
 	"ingredients" : [
 		{
