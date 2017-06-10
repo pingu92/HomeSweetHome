@@ -2,6 +2,11 @@
 	"jobs": {
 		"carpenter": {
 			"recipes" : {
+				"small_case_recipe" : {
+		      "recipe_name" : "Small Case",
+		      "description" : "Collect some Materials. Contains up to 10 Items.",
+		      "flavor" : "Small but fine!"
+		    },
 				"large_case_recipe" : {
 		      "recipe_name" : "Large Case",
 		      "description" : "Collect a large amout of Materials. Contains up to 48 Items.",
@@ -46,6 +51,10 @@
 	},
 	"entities" : {
 		"storage" : {
+			"small_case_ghost" : {
+        "display_name": "Small Case",
+        "description" : "Collect over 10 Items."
+      },
 			"large_case_ghost" : {
         "display_name": "Large Case",
         "description" : "Collect a large amout of 48 Items."

@@ -8,6 +8,7 @@
   "default_locale" : "en",
 
   "aliases" : {
+    "containers:carpenter_small_case" : "file(entities/containers/small_case)",
     "containers:carpenter_large_case" : "file(entities/containers/large_case)",
     "containers:herbalist_large_herb_case" : "file(entities/containers/large_herb_case)",
     "containers:herbalist_small_jar" : "file(entities/containers/small_jar)",

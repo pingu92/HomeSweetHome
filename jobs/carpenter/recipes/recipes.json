@@ -2,6 +2,9 @@
    "craftable_recipes" : {
      "storage" : {
         "recipes" : {
+          "small_case" : {
+             "recipe" : "file(small_case_recipe.json)"
+          },
           "large_case" : {
              "recipe" : "file(large_case_recipe.json)"
           }
