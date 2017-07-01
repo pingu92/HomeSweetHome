@@ -38,8 +38,8 @@
 		    },
 				"herb_table_recipe" : {
 		      "recipe_name" : "Herb Table",
-		      "description" : "More place to produce healing Items.",
-		      "flavor" : "Only for professional Herbalists."
+		      "description" : "Writing desk for professional Herbalists.",
+		      "flavor" : "Let me write some recipes…"
 		    },
 		    "large_jar_recipe" : {
 		      "recipe_name" : "Large Jar",
