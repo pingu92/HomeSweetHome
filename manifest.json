@@ -13,7 +13,8 @@
     "containers:herbalist_large_herb_case" : "file(entities/containers/large_herb_case)",
     "containers:herbalist_small_jar" : "file(entities/containers/small_jar)",
     "containers:herbalist_large_jar" : "file(entities/containers/large_jar)",
-    "furniture:herbalist_bookshelf" : "file(entities/furniture/bookshelf)",
+    "furniture:carpenter_bookshelf" : "file(entities/furniture/bookshelf)",
+    "furniture:herbalist_bookshelf" : "file(entities/furniture/bookshelf_herbalist)",
     "furniture:herbalist_herb_table" : "file(entities/furniture/herb_table)",
     "decoration:herbalist_herb_corbel" : "file(entities/decoration/herb_corbel)"
   },

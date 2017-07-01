@@ -20,7 +20,7 @@
          "name": "i18n(stonehearth:jobs.carpenter.recipes.furniture_name)",
          "recipes" : {
             "herbalist_bookshelf" : {
-               "recipe" : "file(bookshelf_recipe.json)"
+               "recipe" : "file(bookshelf_herbalist_recipe.json)"
             },
             "herbalist_herb-table" : {
                "recipe" : "file(herb_table_recipe.json)"

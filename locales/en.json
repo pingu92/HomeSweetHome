@@ -16,7 +16,12 @@
 		},
 		"herbalist": {
 			"recipes" : {
-		    "bookshelf_recipe" : {
+				"bookshelf_recipe" : {
+		      "recipe_name" : "Bookshelf",
+		      "description" : "Decorative empty Bookshelf.",
+		      "flavor" : "Great! More place for my Items."
+		    },
+		    "bookshelf_herbalist_recipe" : {
 		      "recipe_name" : "Potions Bookshelf",
 		      "description" : "Decorative Shelf for all your healing books.",
 		      "flavor" : "Also a Herbalist sometimes needs some help."
@@ -74,6 +79,10 @@
 		},
     "furniture" : {
       "bookshelf_ghost" : {
+				"display_name": "Bookshelf",
+        "description" : "Maybe someone needs more storage place…"
+      },
+			"bookshelf_herbalist_ghost" : {
 				"display_name": "Potions Bookshelf",
         "description" : "Collects all your healing knowledge."
       },
