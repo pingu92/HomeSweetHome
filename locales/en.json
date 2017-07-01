@@ -16,6 +16,11 @@
 		},
 		"herbalist": {
 			"recipes" : {
+				"books_recipe" : {
+		      "recipe_name" : "Books",
+		      "description" : "Sometimes is useful to write down your knowledge.",
+		      "flavor" : "Hopefully i don't have to read all this books."
+		    },
 				"bookshelf_recipe" : {
 		      "recipe_name" : "Bookshelf",
 		      "description" : "Decorative empty Bookshelf.",
@@ -92,6 +97,10 @@
       }
     },
 		"decoration" : {
+			"books_ghost" : {
+				"display_name": "Books",
+        "description" : "Decorative and useful."
+      },
 			"herb_corbel_ghost" : {
 				"display_name": "Herbs Corbel",
         "description" : "Ideal to dry collected herbs."
