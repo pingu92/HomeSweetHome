@@ -14,10 +14,10 @@
 		},
 		{
 			"uri": "homesweethome:decoration:herbalist_books",
-			"count": 1
+			"count": 2
 		},
 		{
-			"material": "herb resource",
+			"uri": "stonehearth:consumables:healing_tonic:small",
 		 	"count": 2
 		}
 	],
