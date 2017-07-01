@@ -9,8 +9,8 @@
 	"workshop" : "stonehearth:herbalist:workbench",
 	"ingredients" : [
 		{
-       "material": "thread resource",
-       "count": 2
+         "material": "thread resource",
+         "count": 2
     },
 		{
 			"material": "herb resource",
