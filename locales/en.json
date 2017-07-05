@@ -55,7 +55,12 @@
 		      "recipe_name" : "Small Jar",
 		      "description" : "Small but fine container. Contains up to 8 Items.",
 		      "flavor" : "Uh! Did i smell cookies inside?"
-		    }
+		    },
+				"small_planter-box_recipe" : {
+		      "recipe_name" : "Small Planter Box",
+		      "description" : "Let grow needed herbs in your Workshop.",
+		      "flavor" : "So amazing see them growing!"
+		    },
 			}
 		}
 	},

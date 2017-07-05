@@ -1,0 +1,74 @@
+{
+   "type": "entity",
+   "mixins": "file(small_planter-box_ghost.json)",
+   "components": {
+     "model_variants": {
+       "default": {
+          "models": [
+             "file(small_planter-box.qb)"
+          ]
+       },
+        "depleted": {
+           "models": [
+              "file(small_planter-box_harvested.qb)"
+           ]
+        }
+     },
+     "stonehearth:renewable_resource_node": {
+        "category": "harvest",
+        "harvest_overlay_effect": "stonehearth:effects:harvest_plant_overlay_effect",
+        "unripe_description": "i18n(stonehearth:entities.plants.brightbell_plant.unripe_description)",
+        "resource": "stonehearth:resources:herb:brightbell",
+        "renewal_time": "22h"
+     },
+
+      "stonehearth:entity_forms": {
+         "iconic_form": "file(small_planter-box_iconic.json)",
+         "ghost_form": "file(small_planter-box_ghost.json)",
+         "placeable_on_ground": true,
+         "hide_undeploy_ui": true
+      },
+
+      "mob": {
+      "model_origin": {
+         "x": 0.5,
+         "y": 0,
+         "z": 0.5
+      },
+      "region_origin": {
+         "x": 0.5,
+         "y": 0,
+         "z": 0.5
+      }
+   },
+
+   "region_collision_shape": {
+      "region": [
+         {
+            "min": {
+               "x": -1,
+               "y": 0,
+               "z": -1
+            },
+            "max": {
+               "x": 1,
+               "y": 1.4,
+               "z": 1
+            }
+         }
+      ]
+   }
+   },
+   "entity_data": {
+      "stonehearth:net_worth": {
+         "value_in_gold": 10,
+         "rarity": "common",
+         "shop_info": {
+            "buyable": false,
+            "sellable": true,
+            "shopkeeper_level": 1,
+            "shopkeeper_type": "caravan"
+         }
+      }
+   }
+}

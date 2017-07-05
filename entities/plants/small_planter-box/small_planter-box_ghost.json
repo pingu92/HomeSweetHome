@@ -1,0 +1,25 @@
+{
+	"mixins": "stonehearth:mixins:placed_object",
+	"components": {
+		"model_variants": {
+			"default": {
+				"models": [
+					"file(small_planter-box.qb)"
+				]
+			}
+		},
+      "mob": {
+         "model_origin": { "x": 0.5, "y": 0, "z": 0.5 },
+         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 }
+			}
+		},
+		"entity_data": {
+			"stonehearth:catalog": {
+				"display_name": "i18n(homesweethome:entities.plants.small_planter-box_ghost.display_name)",
+				"description": "i18n(homesweethome:entities.plants.small_planter-box_ghost.description)",
+				"icon": "file(small_planter-box.png)",
+				"category": "plants",
+				"material_tags": "fiber plants crafted"
+		}
+	}
+}
