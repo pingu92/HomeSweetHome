@@ -110,6 +110,12 @@
 				"display_name": "Herbs Corbel",
         "description" : "Ideal to dry collected herbs."
       }
-    }
+    },
+		"plants" : {
+			"small_planter-box_ghost" : {
+				"display_name": "Small Planter Box",
+        "description" : "Plant herbs in your Workshop."
+      }
+		}
 	}
 }
