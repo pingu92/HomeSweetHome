@@ -1,14 +1,14 @@
 {
    "type": "entity",
-   "mixins": "file(small_jar_ghost.json)",
+   "mixins": "file(jar_small_ghost.json)",
    "components": {
       "stonehearth:storage": {
          "type": "jar",
          "capacity": 8
       },
       "stonehearth:entity_forms": {
-         "iconic_form": "file(small_jar_iconic.json)",
-         "ghost_form": "file(small_jar_ghost.json)",
+         "iconic_form": "file(jar_small_iconic.json)",
+         "ghost_form": "file(jar_small_ghost.json)",
          "placeable_on_ground": true
       },
       "destination": {

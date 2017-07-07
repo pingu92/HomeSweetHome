@@ -7,8 +7,8 @@
           "herb_case_large" : {
              "recipe" : "file(herb_case_large_recipe.json)"
           },
-            "herbalist_small_jar" : {
-               "recipe" : "file(small_jar_recipe.json)"
+            "herbalist_jar_small" : {
+               "recipe" : "file(jar_small_recipe.json)"
             },
            "herbalist_large_jar" : {
               "recipe" : "file(large_jar_recipe.json)"

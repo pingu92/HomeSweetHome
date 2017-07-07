@@ -51,7 +51,7 @@
 		      "description" : "Collect a large amout of fresh Herbs. Contains up to 48 Items.",
 		      "flavor" : "Well organized!"
 		    },
-		    "small_jar_recipe" : {
+		    "jar_small_recipe" : {
 		      "recipe_name" : "Small Jar",
 		      "description" : "Small but fine container. Contains up to 8 Items.",
 		      "flavor" : "Uh! Did i smell cookies inside?"
@@ -82,7 +82,7 @@
         "display_name": "Large Jar",
         "description" : "The savest place for Tonics and Herbs."
       },
-      "small_jar_ghost" : {
+      "jar_small_ghost" : {
 				"display_name": "Small Jar",
         "description" : "Small but fine container."
       }
