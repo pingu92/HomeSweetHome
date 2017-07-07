@@ -56,7 +56,7 @@
 		      "description" : "Small but fine container. Contains up to 8 Items.",
 		      "flavor" : "Uh! Did i smell cookies inside?"
 		    },
-				"planter-box_small_recipe" : {
+				"planter-box_small_brightbell_recipe" : {
 		      "recipe_name" : "Small Planter Box",
 		      "description" : "Let grow needed herbs in your Workshop.",
 		      "flavor" : "So amazing see them growing!"
@@ -112,7 +112,7 @@
       }
     },
 		"plants" : {
-			"planter-box_small_ghost" : {
+			"planter-box_small_brightbell_ghost" : {
 				"display_name": "Small Planter Box",
         "description" : "Plant herbs in your Workshop."
       }

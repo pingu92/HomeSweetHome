@@ -5,7 +5,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(planter-box_small.qb)"
+					"file(planter-box_small_brightbell.qb)"
 				]
 			}
 		},
