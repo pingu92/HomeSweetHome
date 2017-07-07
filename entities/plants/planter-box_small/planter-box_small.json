@@ -1,16 +1,16 @@
 {
    "type": "entity",
-   "mixins": "file(small_planter-box_ghost.json)",
+   "mixins": "file(planter-box_small_ghost.json)",
    "components": {
      "model_variants": {
        "default": {
           "models": [
-             "file(small_planter-box.qb)"
+             "file(planter-box_small.qb)"
           ]
        },
         "depleted": {
            "models": [
-              "file(small_planter-box_harvested.qb)"
+              "file(planter-box_small_harvested.qb)"
            ]
         }
      },
@@ -37,8 +37,8 @@
      },
 
       "stonehearth:entity_forms": {
-         "iconic_form": "file(small_planter-box_iconic.json)",
-         "ghost_form": "file(small_planter-box_ghost.json)",
+         "iconic_form": "file(planter-box_small_iconic.json)",
+         "ghost_form": "file(planter-box_small_ghost.json)",
          "placeable_on_ground": true,
          "hide_undeploy_ui": true
       },

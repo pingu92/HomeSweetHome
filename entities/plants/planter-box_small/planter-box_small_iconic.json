@@ -5,7 +5,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(small_planter-box_iconic.qb)"
+					"file(planter-box_small_iconic.qb)"
 				]
 			}
 		},

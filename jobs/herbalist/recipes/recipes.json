@@ -30,8 +30,8 @@
       "decorations" : {
         "ordinal": 7,
          "recipes" : {
-           "herbalist_small_planter-box" : {
-              "recipe" : "file(small_planter-box_recipe.json)"
+           "herbalist_planter-box_small" : {
+              "recipe" : "file(planter-box_small_recipe.json)"
            },
            "herbalist_books" : {
               "recipe" : "file(books_recipe.json)"

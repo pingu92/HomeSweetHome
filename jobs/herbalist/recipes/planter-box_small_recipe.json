@@ -1,0 +1,25 @@
+{
+	"type" : "recipe",
+	"work_units" : 2,
+	"recipe_name" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_recipe.recipe_name)",
+	"description" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_recipe.description)",
+	"flavor" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_recipe.flavor)",
+	"portrait" : "/homesweethome/entities/plants/planter-box_small/planter-box_small.png",
+	"level_requirement" : 0,
+	"workshop" : "stonehearth:herbalist:workbench",
+	"ingredients" : [
+		{
+         "material": "wood resource",
+         "count": 3
+    },
+		{
+			"material": "herb resource",
+		 	"count": 5
+		}
+	],
+	"produces" : [
+		{
+			"item" : "homesweethome:decoration:herbalist_planter-box_small"
+		}
+	]
+}

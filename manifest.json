@@ -18,7 +18,7 @@
     "furniture:herbalist_herb_table" : "file(entities/furniture/herb_table)",
     "decoration:herbalist_books" : "file(entities/decoration/books)",
     "decoration:herbalist_herb_corbel" : "file(entities/decoration/herb_corbel)",
-    "decoration:herbalist_small_planter-box" : "file(entities/plants/small_planter-box)"
+    "decoration:herbalist_planter-box_small" : "file(entities/plants/planter-box_small)"
   },
 
   "mixintos" : {
