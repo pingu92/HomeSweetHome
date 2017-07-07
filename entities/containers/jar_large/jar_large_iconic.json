@@ -5,7 +5,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(large_jar.qb)"
+               "file(jar_large.qb)"
             ]
          }
       },

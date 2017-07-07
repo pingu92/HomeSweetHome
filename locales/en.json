@@ -41,7 +41,7 @@
 		      "description" : "Writing desk for professional Herbalists.",
 		      "flavor" : "Let me write some recipes…"
 		    },
-		    "large_jar_recipe" : {
+		    "jar_large_recipe" : {
 		      "recipe_name" : "Large Jar",
 		      "description" : "The savest place for Tonics and Herbs. Contains up to 32 Items.",
 		      "flavor" : "It's a really big storage… Awful!"
@@ -78,7 +78,7 @@
         "display_name": "Large Herb Case",
         "description" : "Collect to 48 Units of fresh Herbs."
       },
-      "large_jar_ghost" : {
+      "jar_large_ghost" : {
         "display_name": "Large Jar",
         "description" : "The savest place for Tonics and Herbs."
       },
