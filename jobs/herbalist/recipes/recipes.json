@@ -4,8 +4,8 @@
         "ordinal": 5,
         "name": "i18n(stonehearth:jobs.carpenter.recipes.storage_name)",
         "recipes" : {
-          "large_herb_case" : {
-             "recipe" : "file(large_herb_case_recipe.json)"
+          "herb_case_large" : {
+             "recipe" : "file(herb_case_large_recipe.json)"
           },
             "herbalist_small_jar" : {
                "recipe" : "file(small_jar_recipe.json)"

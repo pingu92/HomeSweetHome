@@ -1,0 +1,25 @@
+{
+	"type" : "recipe",
+	"work_units" : 3,
+	"recipe_name" : "i18n(homesweethome:jobs.herbalist.recipes.herb_case_large_recipe.recipe_name)",
+	"description" : "i18n(homesweethome:jobs.herbalist.recipes.herb_case_large_recipe.description)",
+	"flavor" : "i18n(homesweethome:jobs.herbalist.recipes.herb_case_large_recipe.flavor)",
+	"portrait" : "/homesweethome/entities/containers/herb_case_large/herb_case_large.png",
+	"level_requirement" : 2,
+	"workshop" : "stonehearth:herbalist:workbench",
+	"ingredients" : [
+		{
+			"uri": "homesweethome:containers:carpenter_large_case",
+			"count": 1
+		},
+		{
+			 "material": "herb resource",
+			 "count": 2
+		}
+	],
+	"produces" : [
+		{
+			"item" : "homesweethome:containers:herbalist_herb_case_large"
+		}
+	]
+}
