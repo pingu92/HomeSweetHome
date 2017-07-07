@@ -6,7 +6,7 @@
              "recipe" : "file(bookshelf_recipe.json)"
           },
           "small_case" : {
-             "recipe" : "file(small_case_recipe.json)"
+             "recipe" : "file(case_small_recipe.json)"
           },
           "case_large" : {
              "recipe" : "file(case_large_recipe.json)"
