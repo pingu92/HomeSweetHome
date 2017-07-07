@@ -10,8 +10,8 @@
             "herbalist_jar_small" : {
                "recipe" : "file(jar_small_recipe.json)"
             },
-           "herbalist_large_jar" : {
-              "recipe" : "file(large_jar_recipe.json)"
+           "herbalist_jar_large" : {
+              "recipe" : "file(jar_large_recipe.json)"
            }
         }
      },
