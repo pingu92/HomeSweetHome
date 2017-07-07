@@ -1,14 +1,14 @@
 {
    "type": "entity",
-   "mixins": "file(small_case_ghost.json)",
+   "mixins": "file(case_small_ghost.json)",
    "components": {
       "stonehearth:storage": {
          "type": "crate",
          "capacity": 10
       },
       "stonehearth:entity_forms": {
-         "iconic_form": "file(small_case_iconic.json)",
-         "ghost_form": "file(small_case_ghost.json)",
+         "iconic_form": "file(case_small_iconic.json)",
+         "ghost_form": "file(case_small_ghost.json)",
          "placeable_on_ground": true
       },
       "destination": {
