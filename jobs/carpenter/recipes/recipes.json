@@ -2,9 +2,6 @@
    "craftable_recipes" : {
      "storage" : {
         "recipes" : {
-          "bookshelf" : {
-             "recipe" : "file(bookshelf_recipe.json)"
-          },
           "small_case" : {
              "recipe" : "file(case_small_recipe.json)"
           },
@@ -12,6 +9,13 @@
              "recipe" : "file(case_large_recipe.json)"
           }
         }
+     },
+     "furniture": {
+       "recipes" : {
+         "bookshelf" : {
+            "recipe" : "file(bookshelf_recipe.json)"
+         }
+       }
      }
    }
 }
