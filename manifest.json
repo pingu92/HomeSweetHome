@@ -9,7 +9,7 @@
 
   "aliases" : {
     "containers:carpenter_small_case" : "file(entities/containers/small_case)",
-    "containers:carpenter_large_case" : "file(entities/containers/large_case)",
+    "containers:carpenter_case_large" : "file(entities/containers/case_large)",
     "containers:herbalist_herb_case_large" : "file(entities/containers/herb_case_large)",
     "containers:herbalist_small_jar" : "file(entities/containers/small_jar)",
     "containers:herbalist_large_jar" : "file(entities/containers/large_jar)",

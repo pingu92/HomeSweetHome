@@ -4,7 +4,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(large_case.qb)"
+					"file(case_large.qb)"
 				]
 			}
 		},
@@ -20,9 +20,9 @@
 		},
 		"entity_data": {
 			"stonehearth:catalog": {
-				"display_name": "i18n(i18n(homesweethome:entities.storage.large_case_ghost.display_name))",
-				"description": "i18n(homesweethome:entities.storage.large_case_ghost.description)",
-				"icon": "file(large_case.png)",
+				"display_name": "i18n(i18n(homesweethome:entities.storage.case_large_ghost.display_name))",
+				"description": "i18n(homesweethome:entities.storage.case_large_ghost.description)",
+				"icon": "file(case_large.png)",
 				"category": "storage",
 				"material_tags": "wood furniture crafted crate stockpile_furniture"
 		}

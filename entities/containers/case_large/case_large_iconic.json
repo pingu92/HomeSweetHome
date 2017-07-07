@@ -4,7 +4,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(large_case_iconic.qb)"
+					"file(case_large_iconic.qb)"
 				]
 			}
 		},

@@ -1,0 +1,21 @@
+{
+	"type" : "recipe",
+	"work_units" : 4,
+	"recipe_name" : "i18n(homesweethome:jobs.carpenter.recipes.case_large_recipe.recipe_name)",
+	"description" : "i18n(homesweethome:jobs.carpenter.recipes.case_large_recipe.description)",
+	"flavor" : "i18n(homesweethome:jobs.carpenter.recipes.case_large_recipe.flavor)",
+	"portrait" : "/homesweethome/entities/containers/case_large/case_large.png",
+	"level_requirement" : 3,
+	"workshop" : "stonehearth:carpenter:workbench",
+	"ingredients" : [
+		{
+			"material" : "wood resource",
+			"count" : 3
+		}
+	],
+	"produces" : [
+		{
+			"item" : "homesweethome:containers:carpenter_case_large"
+		}
+	]
+}
