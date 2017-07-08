@@ -1,0 +1,22 @@
+{
+	"mixins": "stonehearth:mixins:item_properties",
+	"type": "entity",
+	"components": {
+		"model_variants": {
+			"default": {
+				"models": [
+					"file(planter-box_small_fostsnap.qb)"
+				]
+			}
+		},
+		"mob": {
+			"model_origin": { "x": 0, "y": 0, "z": 0 }
+		}
+	},
+	"entity_data": {
+			"stonehearth:catalog": {
+				"category": "decoration",
+				"material_tags": "wood decoration crafted planter stockpile_decoration"
+		}
+	}
+}

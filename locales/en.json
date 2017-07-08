@@ -16,6 +16,8 @@
 		},
 		"herbalist": {
 			"recipes" : {
+				"plants_name" : "Plants",
+				
 				"books_recipe" : {
 		      "recipe_name" : "Books",
 		      "description" : "Sometimes is useful to write down your knowledge.",

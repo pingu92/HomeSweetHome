@@ -30,9 +30,6 @@
       "decorations" : {
         "ordinal": 7,
          "recipes" : {
-           "herbalist_planter-box_small_brightbell" : {
-              "recipe" : "file(planter-box_small_brightbell_recipe.json)"
-           },
            "herbalist_books" : {
               "recipe" : "file(books_recipe.json)"
            },
@@ -40,6 +37,18 @@
                "recipe" : "file(herb_corbel_recipe.json)"
             }
          }
+      },
+      "plants" : {
+        "ordinal": 8,
+        "name": "i18n(homesweethome:jobs.herbalist.recipes.plants_name)",
+        "recipes" : {
+          "herbalist_planter-box_small_brightbell" : {
+             "recipe" : "file(planter-box_small_brightbell_recipe.json)"
+          },
+          "herbalist_planter-box_small_fostsnap" : {
+             "recipe" : "file(planter-box_small_fostsnap_recipe.json)"
+          }
+        }
       }
    }
 }
