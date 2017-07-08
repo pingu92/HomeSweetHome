@@ -1,6 +1,6 @@
 {
    "type": "entity",
-   "mixins": "file(herbalist_gadener-bench_ghost.json)",
+   "mixins": "file(herbalist_gardener-bench_ghost.json)",
    "components": {
       "destination": {
          "region": [
@@ -25,8 +25,8 @@
          "job_alias": "stonehearth:jobs:herbalist"
       },
       "stonehearth:entity_forms": {
-         "ghost_form": "file(herbalist_gadener-bench_ghost.json)",
-         "iconic_form": "file(herbalist_gadener-bench_iconic.json)",
+         "ghost_form": "file(herbalist_gardener-bench_ghost.json)",
+         "iconic_form": "file(herbalist_gardener-bench_iconic.json)",
          "placeable_on_ground": true
       }
    },

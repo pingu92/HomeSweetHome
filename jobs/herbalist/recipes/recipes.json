@@ -1,5 +1,12 @@
 {
    "craftable_recipes" : {
+     "workbenches":{
+       "recipes":{
+         "gardener_bench":{
+           "recipe":"file(herbalist_gardener-bench_recipe.json)"
+         }
+       }
+     },
      "storage" : {
         "ordinal": 5,
         "name": "i18n(stonehearth:jobs.carpenter.recipes.storage_name)",

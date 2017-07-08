@@ -18,8 +18,8 @@
 			"recipes" : {
 				"plants_name" : "Plants",
 
-				"herbalist_gadener-bench_recipe" : {
-		      "recipe_name" : "Gadener Bench",
+				"herbalist_gardener-bench_recipe" : {
+		      "recipe_name" : "Gardener Bench",
 		      "description" : "Plants don't have only healing attributes.",
 		      "flavor" : "Helpful and decorative. A nice combi."
 		    },

@@ -5,7 +5,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(herbalist_gadener-bench_iconic.qb)"
+               "file(herbalist_gardener-bench_iconic.qb)"
             ]
          }
       },
