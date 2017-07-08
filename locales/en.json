@@ -17,7 +17,7 @@
 		"herbalist": {
 			"recipes" : {
 				"plants_name" : "Plants",
-				
+
 				"books_recipe" : {
 		      "recipe_name" : "Books",
 		      "description" : "Sometimes is useful to write down your knowledge.",
@@ -59,7 +59,12 @@
 		      "flavor" : "Uh! Did i smell cookies inside?"
 		    },
 				"planter-box_small_brightbell_recipe" : {
-		      "recipe_name" : "Small Planter Box",
+		      "recipe_name" : "Small Brightbell Planter Box",
+		      "description" : "Let grow needed herbs in your Workshop.",
+		      "flavor" : "So amazing see them growing!"
+		    },
+				"planter-box_small_fostsnap_recipe" : {
+		      "recipe_name" : "Small Fostsnap Planter Box",
 		      "description" : "Let grow needed herbs in your Workshop.",
 		      "flavor" : "So amazing see them growing!"
 		    }
@@ -115,7 +120,11 @@
     },
 		"plants" : {
 			"planter-box_small_brightbell_ghost" : {
-				"display_name": "Small Planter Box",
+				"display_name": "Small Brightbell Planter Box",
+        "description" : "Plant herbs in your Workshop."
+      },
+			"planter-box_small_fostsnap_ghost" : {
+				"display_name": "Small Fostsnap Planter Box",
         "description" : "Plant herbs in your Workshop."
       }
 		}

@@ -17,8 +17,8 @@
      "stonehearth:renewable_resource_node": {
         "category": "harvest",
         "harvest_overlay_effect": "stonehearth:effects:harvest_plant_overlay_effect",
-        "unripe_description": "i18n(stonehearth:entities.plants.brightbell_plant.unripe_description)",
-        "resource": "stonehearth:resources:herb:fostsnap",
+        "unripe_description": "i18n(stonehearth:entities.plants.fostsnap_plant.unripe_description)",
+        "resource": "stonehearth:resources:herb:frostsnap",
         "renewal_time": "22h"
      },
 
