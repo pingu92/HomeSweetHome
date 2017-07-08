@@ -9,11 +9,11 @@
 	"workshop" : "stonehearth:herbalist:workbench",
 	"ingredients" : [
 		{
-         "material": "wood resource",
-         "count": 3
+      "material": "wood resource",
+      "count": 3
     },
 		{
-			"material": "herb resource",
+			"uri": "stonehearth:resources:herb:frostsnap",
 		 	"count": 5
 		}
 	],
