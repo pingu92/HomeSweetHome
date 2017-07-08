@@ -19,7 +19,7 @@
    ],
    "produces": [
       {
-         "item": "homesweethome:herbalist:gardener-bench"
+         "item": "homesweethome:workbench:herbalist:gardener-bench"
       }
    ]
 }
