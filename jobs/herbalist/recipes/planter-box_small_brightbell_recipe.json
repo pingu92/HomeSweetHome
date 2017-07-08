@@ -6,7 +6,7 @@
 	"flavor" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_brightbell_recipe.flavor)",
 	"portrait" : "/homesweethome/entities/plants/planter-box_small_brightbell/planter-box_small_brightbell.png",
 	"level_requirement" : 0,
-	"workshop" : "homesweethome:herbalist:gardener-bench",
+	"workshop" : "homesweethome:herbalist:herbalist_gardener-bench",
 	"ingredients" : [
 		{
       "material": "wood resource",
