@@ -39,8 +39,7 @@
       "stonehearth:entity_forms": {
          "iconic_form": "file(planter-box_small_brightbell_iconic.json)",
          "ghost_form": "file(planter-box_small_brightbell_ghost.json)",
-         "placeable_on_ground": true,
-         "hide_undeploy_ui": true
+         "placeable_on_ground": true
       },
 
       "mob": {
