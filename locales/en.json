@@ -78,7 +78,7 @@
 	},
 	"entities" : {
 		"workbenches" : {
-			"gardener_bench_ghost" : {
+			"herbalist_gardener_bench_ghost" : {
         "display_name": "Gadener Bench",
         "description" : "Helpful and decorative."
 			}
