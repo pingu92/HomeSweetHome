@@ -3,7 +3,7 @@
      "workbenches":{
        "recipes":{
          "gardener_bench":{
-           "recipe":"file(herbalist_gardener-bench_recipe.json)"
+           "recipe":"file(gardener-bench_recipe.json)"
          }
        }
      },

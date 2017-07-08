@@ -11,7 +11,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(herbalist_gardener-bench.qb)"
+               "file(gardener-bench.qb)"
             ]
          }
       }
@@ -19,9 +19,9 @@
    "entity_data": {
       "stonehearth:hide_child_entities_from_pathfinder": true,
       "stonehearth:catalog": {
-         "display_name": "i18n(homesweethome:entities.workbenches.herbalist_gardener-bench_ghost.display_name)",
-         "description": "i18n(homesweethome:entities.workbenches.herbalist_gardener-bench_ghost.description)",
-         "icon": "file(herbalist_gardener-bench.png)",
+         "display_name": "i18n(homesweethome:entities.workbenches.gardener-bench_ghost.display_name)",
+         "description": "i18n(homesweethome:entities.workbenches.gardener-bench_ghost.description)",
+         "icon": "file(gardener-bench.png)",
          "category": "workshops",
          "material_tags": "tool stockpile_tool"
       }

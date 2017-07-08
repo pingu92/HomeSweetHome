@@ -1,6 +1,6 @@
 {
    "type": "entity",
-   "mixins": "file(herbalist_gardener-bench_ghost.json)",
+   "mixins": "file(gardener-bench_ghost.json)",
    "components": {
       "destination": {
          "region": [
@@ -25,15 +25,15 @@
          "job_alias": "stonehearth:jobs:herbalist"
       },
       "stonehearth:entity_forms": {
-         "ghost_form": "file(herbalist_gardener-bench_ghost.json)",
-         "iconic_form": "file(herbalist_gardener-bench_iconic.json)",
+         "ghost_form": "file(gardener-bench_ghost.json)",
+         "iconic_form": "file(gardener-bench_iconic.json)",
          "placeable_on_ground": true
       }
    },
    "entity_data": {
       "stonehearth:table": {
          "drop_effect": "carry_putdown_on_table",
-         "drop_offset": { "x": 0, "y": 1.25, "z": 0 }
+         "drop_offset": { "x": -1, "y": 1.25, "z": 0 }
       },
       "stonehearth:net_worth": {
          "value_in_gold": 2,

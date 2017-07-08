@@ -18,7 +18,7 @@
 			"recipes" : {
 				"plants_name" : "Plants",
 
-				"herbalist_gardener-bench_recipe" : {
+				"gardener-bench_recipe" : {
 		      "recipe_name" : "Gardener Bench",
 		      "description" : "Plants don't have only healing attributes.",
 		      "flavor" : "Helpful and decorative. A nice combi."
@@ -78,7 +78,7 @@
 	},
 	"entities" : {
 		"workbenches" : {
-			"herbalist_gardener_bench_ghost" : {
+			"gardener-bench_ghost" : {
         "display_name": "Gadener Bench",
         "description" : "Helpful and decorative."
 			}
