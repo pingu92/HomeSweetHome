@@ -78,9 +78,10 @@
 	},
 	"entities" : {
 		"workbenches" : {
-			"gadener_bench_ghost" : {
+			"gardener_bench_ghost" : {
         "display_name": "Gadener Bench",
         "description" : "Helpful and decorative."
+			}
 		},
 		"storage" : {
 			"case_small_ghost" : {
