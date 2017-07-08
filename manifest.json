@@ -20,7 +20,7 @@
     "decoration:herbalist_herb_corbel" : "file(entities/decoration/herb_corbel)",
     "plants:herbalist_planter-box_small_brightbell" : "file(entities/plants/planter-box_small_brightbell)",
     "plants:herbalist_planter-box_small_fostsnap" : "file(entities/plants/planter-box_small_fostsnap)",
-    "workbench:herbalist:gadener-bench" : "file(jobs/herbalist/herbalist_gadener-bench)",
+    "workbench:herbalist:gadener-bench" : "file(jobs/herbalist/herbalist_gadener-bench)"
   },
 
   "mixintos" : {
