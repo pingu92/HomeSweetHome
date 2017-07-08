@@ -18,6 +18,11 @@
 			"recipes" : {
 				"plants_name" : "Plants",
 
+				"herbalist_gadener-bench_recipe" : {
+		      "recipe_name" : "Gadener Bench",
+		      "description" : "Plants don't have only healing attributes.",
+		      "flavor" : "Helpful and decorative. A nice combi."
+		    },
 				"books_recipe" : {
 		      "recipe_name" : "Books",
 		      "description" : "Sometimes is useful to write down your knowledge.",
@@ -72,6 +77,11 @@
 		}
 	},
 	"entities" : {
+		"workbenches" : {
+			"gadener_bench_ghost" : {
+        "display_name": "Gadener Bench",
+        "description" : "Helpful and decorative."
+		},
 		"storage" : {
 			"case_small_ghost" : {
         "display_name": "Small Case",

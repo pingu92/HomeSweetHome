@@ -1,0 +1,25 @@
+{
+   "type": "recipe",
+   "work_units": 5,
+   "recipe_name": "i18n(homesweethome:jobs.herbalist.recipes.herbalist_gadener-bench_recipe.recipe_name)",
+   "description": "i18n(homesweethome:jobs.herbalist.recipes.herbalist_gadener-bench_recipe.description)",
+   "flavor": "i18n(homesweethome:jobs.herbalist.recipes.herbalist_gadener-bench_recipe.flavor)",
+   "portrait": "/homesweethome/jobs/herbalist/herbalist_gadener-bench/herbalist_gadener-bench.png",
+   "level_requirement" : 1,
+   "work_effect": "work",
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 1
+      },
+      {
+         "material": "herb resource",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "homesweethome:herbalist:gadener-bench"
+      }
+   ]
+}
