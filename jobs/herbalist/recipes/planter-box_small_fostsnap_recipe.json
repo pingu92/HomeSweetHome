@@ -19,7 +19,7 @@
 	],
 	"produces" : [
 		{
-			"item" : "homesweethome:decoration:herbalist_planter-box_small_fostsnap"
+			"item" : "homesweethome:plants:herbalist_planter-box_small_fostsnap"
 		}
 	]
 }
