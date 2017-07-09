@@ -142,7 +142,11 @@
 			"planter-box_small_fostsnap_ghost" : {
 				"display_name": "Small Fostsnap Planter Box",
         "description" : "Plant herbs in your Workshop."
-      }
+      },
+			"planter-box_large_ghost" : {
+				"display_name": "Large Planter Box",
+        "description" : "Increase the production of herbs."
+      },
 		}
 	}
 }
