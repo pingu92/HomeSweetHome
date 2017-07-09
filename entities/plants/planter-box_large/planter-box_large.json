@@ -32,7 +32,7 @@
                 "frostsnap": {
 			             "uri": "stonehearth:resources:herb:frostsnap",
 			             "num_rolls": {
-				           "min": 1,
+				           "min": 2,
     				       "max": 3
 			             }
 		            }
