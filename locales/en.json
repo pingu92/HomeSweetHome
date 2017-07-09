@@ -72,6 +72,11 @@
 		      "recipe_name" : "Small Fostsnap Planter Box",
 		      "description" : "Let grow needed herbs in your Workshop.",
 		      "flavor" : "So amazing see them growing!"
+		    },
+				"planter-box_large_recipe" : {
+		      "recipe_name" : "Large Planter Box",
+		      "description" : "Increase the production of herbs with a large box.",
+		      "flavor" : "So amazing see them growing!"
 		    }
 			}
 		}

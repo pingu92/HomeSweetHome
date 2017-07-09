@@ -54,6 +54,9 @@
           },
           "herbalist_planter-box_small_fostsnap" : {
              "recipe" : "file(planter-box_small_fostsnap_recipe.json)"
+          },
+          "herbalist_planter-box_large" : {
+             "recipe" : "file(planter-box_large_recipe.json)"
           }
         }
       }
