@@ -18,21 +18,7 @@
         "category": "harvest",
         "harvest_overlay_effect": "stonehearth:effects:harvest_plant_overlay_effect",
         "unripe_description": "i18n(stonehearth:entities.plants.brightbell_plant.unripe_description)",
-        "resource_loot_table": {
-      		"entries": {
-      			"multi_herbs": {
-      				"items": {
-      					"brightbell": {
-      						"uri": "stonehearth:resources:herb:brightbell",
-      						"num_rolls": {
-      							"min": 2,
-      							"max": 3
-      						}
-      					}
-      				}
-      			}
-      		}
-      	 },
+        "resource": "stonehearth:resources:herb:brightbell",
         "renewal_time": "22h"
      },
 
