@@ -146,7 +146,7 @@
 			"planter-box_large_ghost" : {
 				"display_name": "Large Planter Box",
         "description" : "Increase the production of herbs."
-      },
+      }
 		}
 	}
 }
