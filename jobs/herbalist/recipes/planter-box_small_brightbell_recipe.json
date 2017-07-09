@@ -5,16 +5,16 @@
 	"description" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_brightbell_recipe.description)",
 	"flavor" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_brightbell_recipe.flavor)",
 	"portrait" : "/homesweethome/entities/plants/planter-box_small_brightbell/planter-box_small_brightbell.png",
-	"level_requirement" : 0,
+	"level_requirement" : 1,
 	"workshop" : "homesweethome:workbench:herbalist:gardener-bench",
 	"ingredients" : [
 		{
       "material": "wood resource",
-      "count": 3
+      "count": 2
     },
 		{
 			"uri": "stonehearth:resources:herb:brightbell",
-		 	"count": 5
+		 	"count": 3
 		}
 	],
 	"produces" : [

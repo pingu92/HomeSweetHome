@@ -5,16 +5,16 @@
 	"description" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_fostsnap_recipe.description)",
 	"flavor" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_fostsnap_recipe.flavor)",
 	"portrait" : "/homesweethome/entities/plants/planter-box_small_fostsnap/planter-box_small_fostsnap.png",
-	"level_requirement" : 0,
+	"level_requirement" : 1,
 	"workshop" : "homesweethome:workbench:herbalist:gardener-bench",
 	"ingredients" : [
 		{
       "material": "wood resource",
-      "count": 3
+      "count": 2
     },
 		{
 			"uri": "stonehearth:resources:herb:frostsnap",
-		 	"count": 5
+		 	"count": 3
 		}
 	],
 	"produces" : [
