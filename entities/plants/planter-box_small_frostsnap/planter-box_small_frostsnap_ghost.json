@@ -4,7 +4,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(planter-box_small_fostsnap.qb)"
+					"file(planter-box_small_frostsnap.qb)"
 				]
 			}
 		},
@@ -18,9 +18,9 @@
 		},
 		"entity_data": {
 			"stonehearth:catalog": {
-				"display_name": "i18n(homesweethome:entities.plants.planter-box_small_fostsnap_ghost.display_name)",
-				"description": "i18n(homesweethome:entities.plants.planter-box_small_fostsnap_ghost.description)",
-				"icon": "file(planter-box_small_fostsnap.png)",
+				"display_name": "i18n(homesweethome:entities.plants.planter-box_small_frostsnap_ghost.display_name)",
+				"description": "i18n(homesweethome:entities.plants.planter-box_small_frostsnap_ghost.description)",
+				"icon": "file(planter-box_small_frostsnap.png)",
 				"category": "plants",
 				"material_tags": "fiber plants crafted"
 		}

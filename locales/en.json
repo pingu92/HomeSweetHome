@@ -64,12 +64,12 @@
 		      "flavor" : "Uh! Did i smell cookies inside?"
 		    },
 				"planter-box_small_brightbell_recipe" : {
-		      "recipe_name" : "Small Brightbell Planter Box",
+		      "recipe_name" : "Brightbell Planter Box",
 		      "description" : "Let grow needed herbs in your Workshop.",
 		      "flavor" : "So amazing see them growing!"
 		    },
-				"planter-box_small_fostsnap_recipe" : {
-		      "recipe_name" : "Small Fostsnap Planter Box",
+				"planter-box_small_frostsnap_recipe" : {
+		      "recipe_name" : "Frostsnap Planter Box",
 		      "description" : "Let grow needed herbs in your Workshop.",
 		      "flavor" : "So amazing see them growing!"
 		    },
@@ -139,8 +139,8 @@
 				"display_name": "Small Brightbell Planter Box",
         "description" : "Plant herbs in your Workshop."
       },
-			"planter-box_small_fostsnap_ghost" : {
-				"display_name": "Small Fostsnap Planter Box",
+			"planter-box_small_frostsnap_ghost" : {
+				"display_name": "Small frostsnap Planter Box",
         "description" : "Plant herbs in your Workshop."
       },
 			"planter-box_large_ghost" : {
