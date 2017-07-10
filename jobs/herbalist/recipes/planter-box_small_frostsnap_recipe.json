@@ -1,10 +1,10 @@
 {
 	"type" : "recipe",
 	"work_units" : 2,
-	"recipe_name" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_fostsnap_recipe.recipe_name)",
-	"description" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_fostsnap_recipe.description)",
-	"flavor" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_fostsnap_recipe.flavor)",
-	"portrait" : "/homesweethome/entities/plants/planter-box_small_fostsnap/planter-box_small_fostsnap.png",
+	"recipe_name" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_frostsnap_recipe.recipe_name)",
+	"description" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_frostsnap_recipe.description)",
+	"flavor" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_frostsnap_recipe.flavor)",
+	"portrait" : "/homesweethome/entities/plants/planter-box_small_frostsnap/planter-box_small_frostsnap.png",
 	"level_requirement" : 1,
 	"workshop" : "homesweethome:workbench:herbalist:gardener-bench",
 	"ingredients" : [
@@ -19,7 +19,7 @@
 	],
 	"produces" : [
 		{
-			"item" : "homesweethome:plants:herbalist_planter-box_small_fostsnap"
+			"item" : "homesweethome:plants:herbalist_planter-box_small_frostsnap"
 		}
 	]
 }
