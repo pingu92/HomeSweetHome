@@ -136,11 +136,11 @@
     },
 		"plants" : {
 			"planter-box_small_brightbell_ghost" : {
-				"display_name": "Small Brightbell Planter Box",
+				"display_name": "Brightbell Planter Box",
         "description" : "Plant herbs in your Workshop."
       },
 			"planter-box_small_frostsnap_ghost" : {
-				"display_name": "Small frostsnap Planter Box",
+				"display_name": "Frostsnap Planter Box",
         "description" : "Plant herbs in your Workshop."
       },
 			"planter-box_large_ghost" : {
