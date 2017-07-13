@@ -4,13 +4,13 @@
 	"recipe_name" : "i18n(homesweethome:jobs.herbalist.recipes.bookshelf_herbalist_recipe.recipe_name)",
 	"description" : "i18n(homesweethome:jobs.herbalist.recipes.bookshelf_herbalist_recipe.description)",
 	"flavor" : "i18n(homesweethome:jobs.herbalist.recipes.bookshelf_herbalist_recipe.flavor)",
-	"portrait" : "/homesweethome/entities/furniture/bookshelf_herbalist/bookshelf_herbalist.png",
+	"portrait" : "/homesweethome/entities/furniture/bookshelf_herbalist_rayya/bookshelf_herbalist_rayya.png",
 	"level_requirement" : 2,
 	"workshop" : "stonehearth:herbalist:workbench",
-	"manual_unlock": false,
+	"manual_unlock": true,
 	"ingredients" : [
 		{
-			"uri": "homesweethome:furniture:carpenter_bookshelf",
+			"uri": "homesweethome:furniture:potter_bookshelf_rayya",
 			"count": 1
 		},
 		{
@@ -24,7 +24,7 @@
 	],
 	"produces" : [
 		{
-			"item" : "homesweethome:furniture:herbalist_bookshelf"
+			"item" : "homesweethome:furniture:herbalist_bookshelf_rayya"
 		}
 	]
 }

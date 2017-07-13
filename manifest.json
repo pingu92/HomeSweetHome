@@ -14,19 +14,23 @@
     "containers:herbalist_jar_small" : "file(entities/containers/jar_small)",
     "containers:herbalist_jar_large" : "file(entities/containers/jar_large)",
     "furniture:carpenter_bookshelf" : "file(entities/furniture/bookshelf)",
+    "furniture:potter_bookshelf_rayya" : "file(entities/furniture/bookshelf_rayya)",
     "furniture:herbalist_bookshelf" : "file(entities/furniture/bookshelf_herbalist)",
+    "furniture:herbalist_bookshelf_rayya" : "file (entities/furniture/bookshelf_herbalist_rayya)",
     "furniture:herbalist_herb_table" : "file(entities/furniture/herb_table)",
     "decoration:herbalist_books" : "file(entities/decoration/books)",
     "decoration:herbalist_herb_corbel" : "file(entities/decoration/herb_corbel)",
     "plants:herbalist_planter-box_small_brightbell" : "file(entities/plants/planter-box_small_brightbell)",
     "plants:herbalist_planter-box_small_frostsnap" : "file(entities/plants/planter-box_small_frostsnap)",
+    "plants:herbalist_planter-box_small_cactus_rayya" : "filefile(entities/plants/planter-box_small_cactus_rayya)",
     "plants:herbalist_planter-box_large" : "file(entities/plants/planter-box_large)",
     "workbench:herbalist:gardener-bench" : "file(jobs/herbalist/gardener-bench)"
   },
 
   "mixintos" : {
     "/stonehearth/jobs/herbalist/recipes/recipes.json" : "file(jobs/herbalist/recipes/recipes.json)",
-    "/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(jobs/carpenter/recipes/recipes.json)"
+    "/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(jobs/carpenter/recipes/recipes.json)",
+    "/stonehearth/jobs/potter/recipes/recipes.json" : "file(jobs/potter/recipes/recipes.json)"
   }
 
 }

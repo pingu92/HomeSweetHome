@@ -1,0 +1,11 @@
+{
+   "craftable_recipes" : {
+     "furniture": {
+       "recipes" : {
+         "bookshelf_rayya" : {
+            "recipe" : "file(bookshelf_rayya_recipe.json)"
+         }
+       }
+     }
+   }
+}

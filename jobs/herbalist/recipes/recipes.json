@@ -29,6 +29,9 @@
             "herbalist_bookshelf" : {
                "recipe" : "file(bookshelf_herbalist_recipe.json)"
             },
+            "herbalist_bookshelf_rayya" : {
+               "recipe" : "file(bookshelf_herbalist_rayya_recipe.json)"
+            },
             "herbalist_herb-table" : {
                "recipe" : "file(herb_table_recipe.json)"
             }
@@ -54,6 +57,9 @@
           },
           "herbalist_planter-box_small_frostsnap" : {
              "recipe" : "file(planter-box_small_frostsnap_recipe.json)"
+          },
+          "herbalist_planter-box_small_cactus_rayya" : {
+             "recipe" : "file(planter-box_small_cactus_rayya_recipe.json)"
           },
           "herbalist_planter-box_large" : {
              "recipe" : "file(planter-box_large_recipe.json)"
