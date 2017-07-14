@@ -1,6 +1,6 @@
 {
    "type": "entity",
-   "mixins": "file(planter-box_small_cactus_rayya.json)",
+   "mixins": "file(planter-box_small_cactus_rayya_ghost.json)",
    "components": {
      "model_variants": {
        "default": {
