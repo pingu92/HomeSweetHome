@@ -22,7 +22,7 @@
     "decoration:herbalist_herb_corbel" : "file(entities/decoration/herb_corbel)",
     "plants:herbalist_planter-box_small_brightbell" : "file(entities/plants/planter-box_small_brightbell)",
     "plants:herbalist_planter-box_small_frostsnap" : "file(entities/plants/planter-box_small_frostsnap)",
-    "plants:herbalist_planter-box_small_cactus_rayya" : "filefile(entities/plants/planter-box_small_cactus_rayya)",
+    "plants:herbalist_planter-box_small_cactus_rayya" : "file(entities/plants/planter-box_small_cactus_rayya)",
     "plants:herbalist_planter-box_large" : "file(entities/plants/planter-box_large)",
     "workbench:herbalist:gardener-bench" : "file(jobs/herbalist/gardener-bench)"
   },
