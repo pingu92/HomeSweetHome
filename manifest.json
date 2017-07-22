@@ -6,6 +6,7 @@
   },
 
   "default_locale" : "en",
+  "client_init_script": "file(homesweethome_client)",
 
   "aliases" : {
     "containers:carpenter_case_small" : "file(entities/containers/case_small)",
