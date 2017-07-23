@@ -15,3 +15,21 @@ local function check_override_ui(players, player_id)
 		end
 	end
 end
+
+local function trace_player_service()
+	_radiant.call('stonehearth:get_service', 'player')
+	:done(function(r)
+		local player_service = r.result
+		check_override_ui(player_service:get_data().players)
+		player_service_trace = player_service:trace('rayyas children ui change')
+		:on_changed(function(o)
+			check_override_ui(player_service:get_data().players)
+			end)
+		end)
+end
+
+radiant.events.listen(homesweethome_client, 'radiant:init', function()
+	trace_player_service()
+	end)
+
+return homesweethome_client
