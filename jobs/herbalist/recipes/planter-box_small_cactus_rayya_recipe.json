@@ -1,7 +1,7 @@
 {
 	"type" : "recipe",
 	"work_units" : 2,
-	"recipe_name" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_cactus_rayya_recipe.name)",
+	"recipe_name" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_cactus_rayya_recipe.recipe_name)",
 	"description" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_cactus_rayya_recipe.description)",
 	"flavor" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_small_cactus_rayya_recipe.flavor)",
 	"portrait" : "/homesweethome/entities/plants/planter-box_small_cactus_rayya/planter-box_small_cactus_rayya.png",
@@ -10,7 +10,7 @@
 	"manual_unlock": true,
 	"ingredients" : [
 		{
-      "material": "clay resource",
+      "uri": "stonehearth:construction:clay_bricks",
       "count": 2
     },
 		{
