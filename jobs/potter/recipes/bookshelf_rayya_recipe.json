@@ -10,8 +10,12 @@
 	"manual_unlock": true,
 	"ingredients" : [
 		{
-			"material" : "clay resource",
-			"count" : 4
+			"uri": "stonehearth:construction:clay_bricks",
+			"count" : 3
+		},
+		{
+			"material" : "wood resource",
+			"count" : 1
 		}
 	],
 	"produces" : [
