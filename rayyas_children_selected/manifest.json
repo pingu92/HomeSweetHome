@@ -8,6 +8,8 @@
 		"homesweethome/jobs/carpenter/recipes/bookshelf_recipe.json":"file(jobs/carpenter/recipes/bookshelf_recipe.json)",
 		"homesweethome/jobs/herbalist/recipes/bookshelf_herbalist_recipe.json":"file(jobs/herbalist/recipes/bookshelf_herbalist_recipe.json)",
 		"homesweethome/jobs/herbalist/recipes/bookshelf_herbalist_rayya_recipe.json":"file(jobs/herbalist/recipes/bookshelf_herbalist_rayya_recipe.json)",
+		"homesweethome/jobs/herbalist/recipes/planter-box_small_brightbell_recipe.json":"file(jobs/herbalist/recipes/planter-box_small_brightbell_recipe.json)",
+		"homesweethome/jobs/herbalist/recipes/planter-box_small_frostsnap_recipe.json":"file(jobs/herbalist/recipes/planter-box_small_frostsnap_recipe.json)",
 		"homesweethome/jobs/herbalist/recipes/planter-box_small_cactus_rayya_recipe.json":"file(jobs/herbalist/recipes/planter-box_small_cactus_rayya_recipe.json)",
 		"homesweethome/jobs/potter/recipes/bookshelf_rayya_recipe.json":"file(jobs/potter/recipes/bookshelf_rayya_recipe.json)"
 	}
