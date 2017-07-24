@@ -74,7 +74,7 @@
 		      "flavor" : "So amazing see them growing!"
 		    },
 				"planter-box_small_cactus_rayya_recipe" : {
-		      "recipe_name" : "Cactus flower Planter Box",
+		      "recipe_name" : "Cactusflower Planter Box",
 		      "description" : "Let grow needed herbs in your Workshop.",
 		      "flavor" : "So amazing see them growing!"
 		    },
@@ -148,8 +148,8 @@
 				"display_name": "Frostsnap Planter Box",
         "description" : "Plant herbs in your Workshop."
       },
-			"planter-box_small_cactus_rayya_recipe_ghost" : {
-				"display_name": "Cactus flower Planter Box",
+			"planter-box_small_cactus_rayya_ghost" : {
+				"display_name": "Cactusflower Planter Box",
         "description" : "Plant herbs in your Workshop."
       },
 			"planter-box_large_ghost" : {
