@@ -5,7 +5,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(planter-box_small_brightbell.qb)"
+					"file(planter-box_small_cactus_rayya_iconic.qb)"
 				]
 			}
 		},

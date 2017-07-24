@@ -9,8 +9,8 @@
 			}
 		},
       "mob": {
-         "model_origin": { "x": 1, "y": 0, "z": 1 },
-         "region_origin": { "x": 1, "y": 0, "z": 1 }
+         "model_origin": { "x": 0.5, "y": 0, "z": 0.5 },
+         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 }
 			}
 		},
 		"entity_data": {
