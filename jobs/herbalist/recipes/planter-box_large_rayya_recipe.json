@@ -4,7 +4,7 @@
 	"recipe_name" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_large_recipe.recipe_name)",
 	"description" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_large_recipe.description)",
 	"flavor" : "i18n(homesweethome:jobs.herbalist.recipes.planter-box_large_recipe.flavor)",
-	"portrait" : "/homesweethome/entities/plants/planter-box_large/planter-box_large.png",
+	"portrait" : "/homesweethome/entities/plants/planter-box_large_rayya/planter-box_large_rayya.png",
 	"level_requirement" : 3,
 	"workshop" : "homesweethome:workbench:herbalist:gardener-bench",
 	"manual_unlock": true,
