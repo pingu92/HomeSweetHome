@@ -25,6 +25,7 @@
     "plants:herbalist_planter-box_small_frostsnap" : "file(entities/plants/planter-box_small_frostsnap)",
     "plants:herbalist_planter-box_small_cactus_rayya" : "file(entities/plants/planter-box_small_cactus_rayya)",
     "plants:herbalist_planter-box_large" : "file(entities/plants/planter-box_large)",
+    "plants:herbalist_planter-box_large_rayya" : "file(entities/plants/planter-box_large_rayya)",
     "workbench:herbalist:gardener-bench" : "file(jobs/herbalist/gardener-bench)"
   },
 

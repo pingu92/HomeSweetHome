@@ -7,24 +7,20 @@
 	"portrait" : "/homesweethome/entities/plants/planter-box_large/planter-box_large.png",
 	"level_requirement" : 3,
 	"workshop" : "homesweethome:workbench:herbalist:gardener-bench",
-	"manual_unlock": false,
+	"manual_unlock": true,
 	"ingredients" : [
 		{
-      "material": "wood resource",
+      "uri": "stonehearth:construction:clay_bricks",
       "count": 5
     },
 		{
-			"uri": "stonehearth:resources:herb:brightbell",
-		 	"count": 3
-		},
-		{
-			"uri": "stonehearth:resources:herb:frostsnap",
-		 	"count": 3
+			"uri": "stonehearth:resources:herb:cactus_flower",
+		 	"count": 6
 		}
 	],
 	"produces" : [
 		{
-			"item" : "homesweethome:plants:herbalist_planter-box_large"
+			"item" : "homesweethome:plants:herbalist_planter-box_large_rayya"
 		}
 	]
 }
