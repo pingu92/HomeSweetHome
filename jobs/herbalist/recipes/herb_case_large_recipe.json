@@ -7,7 +7,6 @@
 	"portrait" : "/homesweethome/entities/containers/herb_case_large/herb_case_large.png",
 	"level_requirement" : 2,
 	"workshop" : "stonehearth:herbalist:workbench",
-	"manual_unlock": false,
 	"ingredients" : [
 		{
 			"uri": "homesweethome:containers:carpenter_case_large",
