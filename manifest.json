@@ -11,7 +11,7 @@
   "aliases" : {
     "containers:carpenter_case_small" : "file(entities/containers/case_small)",
     "containers:carpenter_case_large" : "file(entities/containers/case_large)",
-    "containers:herbalist_herb_case_large" : "file(entities/containers/herb_case_large)",
+    "containers:herbalist_case_large_herbs" : "file(entities/containers/case_large_herbs)",
     "containers:herbalist_jar_small" : "file(entities/containers/jar_small)",
     "containers:herbalist_jar_large" : "file(entities/containers/jar_large)",
 

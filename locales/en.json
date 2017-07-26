@@ -53,7 +53,7 @@
 		      "description" : "The savest place for Tonics and Herbs. Contains up to 32 Items.",
 		      "flavor" : "It's a really big storage… Awful!"
 		    },
-				"herb_case_large_recipe" : {
+				"case_large_herbs_recipe" : {
 		      "recipe_name" : "Large Herb Case",
 		      "description" : "Collect a large amout of fresh Herbs. Contains up to 48 Items.",
 		      "flavor" : "Well organized!"
@@ -102,7 +102,7 @@
         "display_name": "Large Case",
         "description" : "Collect a large amout of 48 Items."
       },
-			"herb_case_large_ghost" : {
+			"case_large_herbs_ghost" : {
         "display_name": "Large Herb Case",
         "description" : "Collect to 48 Units of fresh Herbs."
       },
