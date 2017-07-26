@@ -1,10 +1,10 @@
 {
    "type": "entity",
-   "mixins": "file(bookshelf_herbalist_rayya_ghost.json)",
+   "mixins": "file(shelf_herbalist_library_rayya_ghost.json)",
    "components": {
       "stonehearth:entity_forms": {
-         "iconic_form": "file(bookshelf_herbalist_rayya_iconic.json)",
-         "ghost_form": "file(bookshelf_herbalist_rayya_ghost.json)",
+         "iconic_form": "file(shelf_herbalist_library_rayya_iconic.json)",
+         "ghost_form": "file(shelf_herbalist_library_rayya_ghost.json)",
          "placeable_on_ground": true
       },
 

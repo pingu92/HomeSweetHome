@@ -1,0 +1,30 @@
+{
+	"type" : "recipe",
+	"work_units" : 5,
+	"recipe_name" : "i18n(homesweethome:jobs.herbalist.recipes.shelf_herbalist_library_recipe.recipe_name)",
+	"description" : "i18n(homesweethome:jobs.herbalist.recipes.shelf_herbalist_library_recipe.description)",
+	"flavor" : "i18n(homesweethome:jobs.herbalist.recipes.shelf_herbalist_library_recipe.flavor)",
+	"portrait" : "/homesweethome/entities/furniture/shelf_herbalist_library/shelf_herbalist_library.png",
+	"level_requirement" : 2,
+	"workshop" : "stonehearth:herbalist:workbench",
+	"manual_unlock": false,
+	"ingredients" : [
+		{
+			"uri": "homesweethome:furniture:carpenter_shelf",
+			"count": 1
+		},
+		{
+			"uri": "homesweethome:decoration:herbalist_books",
+			"count": 2
+		},
+		{
+			"uri": "stonehearth:consumables:healing_tonic:small",
+		 	"count": 2
+		}
+	],
+	"produces" : [
+		{
+			"item" : "homesweethome:furniture:shelf_herbalist_library"
+		}
+	]
+}

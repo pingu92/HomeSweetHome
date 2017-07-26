@@ -1,13 +1,13 @@
 {
    "type": "entity",
-   "mixins": "file(bookshelf_ghost.json)",
+   "mixins": "file(shelf_ghost.json)",
    "components": {
       "stonehearth:entity_forms": {
-         "iconic_form": "file(bookshelf_iconic.json)",
-         "ghost_form": "file(bookshelf_ghost.json)",
+         "iconic_form": "file(shelf_iconic.json)",
+         "ghost_form": "file(shelf_ghost.json)",
          "placeable_on_ground": true
       },
-      
+
       "mob": {
       "model_origin": {
          "x": -0.5,

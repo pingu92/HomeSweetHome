@@ -14,18 +14,22 @@
     "containers:herbalist_herb_case_large" : "file(entities/containers/herb_case_large)",
     "containers:herbalist_jar_small" : "file(entities/containers/jar_small)",
     "containers:herbalist_jar_large" : "file(entities/containers/jar_large)",
-    "furniture:carpenter_bookshelf" : "file(entities/furniture/bookshelf)",
-    "furniture:potter_bookshelf_rayya" : "file(entities/furniture/bookshelf_rayya)",
-    "furniture:herbalist_bookshelf" : "file(entities/furniture/bookshelf_herbalist)",
-    "furniture:herbalist_bookshelf_rayya" : "file(entities/furniture/bookshelf_herbalist_rayya)",
+
+    "furniture:carpenter_shelf" : "file(entities/furniture/shelf)",
+    "furniture:potter_shelf_rayya" : "file(entities/furniture/shelf_rayya)",
+    "furniture:shelf_herbalist_library" : "file(entities/furniture/shelf_herbalist_library)",
+    "furniture:shelf_herbalist_library_rayya" : "file(entities/furniture/shelf_herbalist_library_rayya)",
     "furniture:herbalist_herb_table" : "file(entities/furniture/herb_table)",
+
     "decoration:herbalist_books" : "file(entities/decoration/books)",
     "decoration:herbalist_herb_corbel" : "file(entities/decoration/herb_corbel)",
+
     "plants:herbalist_planter-box_small_brightbell" : "file(entities/plants/planter-box_small_brightbell)",
     "plants:herbalist_planter-box_small_frostsnap" : "file(entities/plants/planter-box_small_frostsnap)",
     "plants:herbalist_planter-box_small_cactus_rayya" : "file(entities/plants/planter-box_small_cactus_rayya)",
     "plants:herbalist_planter-box_large" : "file(entities/plants/planter-box_large)",
     "plants:herbalist_planter-box_large_rayya" : "file(entities/plants/planter-box_large_rayya)",
+
     "workbench:herbalist:gardener-bench" : "file(jobs/herbalist/gardener-bench)"
   },
 

@@ -12,8 +12,8 @@
      },
      "furniture": {
        "recipes" : {
-         "bookshelf" : {
-            "recipe" : "file(bookshelf_recipe.json)"
+         "shelf" : {
+            "recipe" : "file(shelf_recipe.json)"
          }
        }
      }

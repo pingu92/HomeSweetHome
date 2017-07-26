@@ -5,7 +5,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(bookshelf_rayya_iconic.qb)"
+					"file(shelf_herbalist_library_iconic.qb)"
 				]
 			}
 		},

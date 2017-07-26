@@ -2,6 +2,11 @@
 	"jobs": {
 		"carpenter": {
 			"recipes" : {
+				"shelf_recipe" : {
+					"recipe_name" : "Shelf",
+					"description" : "Decorative empty Shelf.",
+					"flavor" : "Great! More place for my Items."
+				},
 				"case_small_recipe" : {
 		      "recipe_name" : "Small Case",
 		      "description" : "Collect some Materials. Contains up to 10 Items.",
@@ -28,12 +33,7 @@
 		      "description" : "Sometimes is useful to write down your knowledge.",
 		      "flavor" : "Hopefully i don't have to read all this books."
 		    },
-				"bookshelf_recipe" : {
-		      "recipe_name" : "Bookshelf",
-		      "description" : "Decorative empty Bookshelf.",
-		      "flavor" : "Great! More place for my Items."
-		    },
-		    "bookshelf_herbalist_recipe" : {
+		    "shelf_herbalist_library_recipe" : {
 		      "recipe_name" : "Potions Bookshelf",
 		      "description" : "Decorative Shelf for all your healing books.",
 		      "flavor" : "Also a Herbalist sometimes needs some help."
@@ -116,11 +116,11 @@
       }
 		},
     "furniture" : {
-      "bookshelf_ghost" : {
-				"display_name": "Bookshelf",
+      "shelf_ghost" : {
+				"display_name": "Shelf",
         "description" : "Maybe someone needs more storage place…"
       },
-			"bookshelf_herbalist_ghost" : {
+			"shelf_herbalist_library_ghost" : {
 				"display_name": "Potions Bookshelf",
         "description" : "Collects all your healing knowledge."
       },

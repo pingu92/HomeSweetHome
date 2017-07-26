@@ -4,7 +4,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(bookshelf_herbalist.qb)"
+					"file(shelf_herbalist_library_rayya.qb)"
 				]
 			}
 		},
@@ -15,9 +15,9 @@
 		},
 		"entity_data": {
 			"stonehearth:catalog": {
-				"display_name": "i18n(homesweethome:entities.furniture.bookshelf_herbalist_ghost.display_name)",
-				"description": "i18n(homesweethome:entities.furniture.bookshelf_herbalist_ghost.description)",
-				"icon": "file(bookshelf_herbalist.png)",
+				"display_name": "i18n(homesweethome:entities.furniture.shelf_herbalist_library_ghost.display_name)",
+				"description": "i18n(homesweethome:entities.furniture.shelf_herbalist_library_ghost.description)",
+				"icon": "file(shelf_herbalist_library.png)",
 				"category": "furniture",
 				"material_tags": "wood furniture crafted crate stockpile_furniture"
 		}
