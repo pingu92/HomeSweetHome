@@ -26,10 +26,10 @@
          "ordinal": 6,
          "name": "i18n(stonehearth:jobs.carpenter.recipes.furniture_name)",
          "recipes" : {
-            "shelf_herbalist_library" : {
+            "herbalist_shelf_library" : {
                "recipe" : "file(shelf_herbalist_library_recipe.json)"
             },
-            "shelf_herbalist_library_rayya" : {
+            "herbalist_shelf_library_rayya" : {
                "recipe" : "file(shelf_herbalist_library_rayya_recipe.json)"
             },
             "herbalist_herb-table" : {
