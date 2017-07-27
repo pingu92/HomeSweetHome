@@ -5,7 +5,7 @@
 				"shelf_recipe" : {
 					"recipe_name" : "Shelf",
 					"description" : "Decorative empty Shelf.",
-					"flavor" : "Great! More place for my Items."
+					"flavor" : "Great! More place for Items."
 				},
 				"case_small_recipe" : {
 		      "recipe_name" : "Small Case",

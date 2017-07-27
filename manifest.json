@@ -17,8 +17,8 @@
 
     "furniture:carpenter_shelf" : "file(entities/furniture/shelf)",
     "furniture:potter_shelf_rayya" : "file(entities/furniture/shelf_rayya)",
-    "furniture:herbalist_shelf_library" : "file(entities/furniture/shelf_herbalist_library)",
-    "furniture:herbalist_shelf_library_rayya" : "file(entities/furniture/shelf_herbalist_library_rayya)",
+    "furniture:shelf_herbalist_library" : "file(entities/furniture/shelf_herbalist_library)",
+    "furniture:shelf_herbalist_library_rayya" : "file(entities/furniture/shelf_herbalist_library_rayya)",
     "furniture:herbalist_herb_table" : "file(entities/furniture/herb_table)",
 
     "decoration:herbalist_books" : "file(entities/decoration/books)",
