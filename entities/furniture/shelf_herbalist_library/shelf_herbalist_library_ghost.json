@@ -9,7 +9,10 @@
 								"type": "one_of",
 								"items": [
 									 "file(shelf_herbalist_library1.qb)",
-									 "file(shelf_herbalist_library2.qb)"
+									 "file(shelf_herbalist_library2.qb)",
+									 "file(shelf_herbalist_library3.qb)",
+									 "file(shelf_herbalist_library4.qb)",
+									 "file(shelf_herbalist_library5.qb)"
 								]
 						 }
 					]
