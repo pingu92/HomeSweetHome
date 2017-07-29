@@ -2,17 +2,25 @@
 	"mixins": "stonehearth:mixins:placed_object",
 	"components": {
 		"model_variants": {
-			"default": {
-				"models": [
-					"file(shelf_herbalist_library.qb)"
-				]
-			}
+			 "default": {
+					"models": [
+						 {
+								"type": "one_of",
+								"items": [
+									 "file(shelf_herbalist_library.qb)",
+									 "file(shelf_herbalist_library2.qb)"
+								]
+						 }
+					]
+			 }
 		},
+
       "mob": {
          "model_origin": { "x": -0.5, "y": 0, "z": 0.3 },
          "region_origin": { "x": 0.05, "y": 0, "z": 0.05 }
 			}
 		},
+		
 		"entity_data": {
 			"stonehearth:catalog": {
 				"display_name": "i18n(homesweethome:entities.furniture.shelf_herbalist_library_ghost.display_name)",
