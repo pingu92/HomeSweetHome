@@ -1,14 +1,10 @@
 {
    "craftable_recipes" : {
-     "decorations": {
+     "furniture": {
        "recipes" : {
          "corbel_rayya" : {
             "recipe" : "file(corbel_rayya_recipe.json)"
-         }
-       }
-     },
-     "furniture": {
-       "recipes" : {
+         },
          "shelf_rayya" : {
             "recipe" : "file(shelf_rayya_recipe.json)"
          },
