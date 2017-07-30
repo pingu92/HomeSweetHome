@@ -1,0 +1,22 @@
+{
+	"type" : "recipe",
+	"work_units" : 3,
+	"recipe_name" : "i18n(homesweethome:jobs.carpenter.recipes.table_recipe.recipe_name)",
+	"description" : "i18n(homesweethome:jobs.carpenter.recipes.table_recipe.description)",
+	"flavor" : "i18n(homesweethome:jobs.carpenter.recipes.table_recipe.flavor)",
+	"portrait" : "/homesweethome/entities/furniture/table_rayya/table_rayya.png",
+	"level_requirement" : 1,
+	"workshop" : "stonehearth:potter:workbench",
+	"manual_unlock": true,
+	"ingredients" : [
+		{
+			"uri": "stonehearth:construction:clay_bricks",
+      "count": 2
+		}
+	],
+	"produces" : [
+		{
+			"item" : "homesweethome:furniture:potter_table_rayya"
+		}
+	]
+}

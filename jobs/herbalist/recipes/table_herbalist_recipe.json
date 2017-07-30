@@ -9,7 +9,7 @@
 	"workshop" : "stonehearth:herbalist:workbench",
 	"ingredients" : [
 		{
-			"uri": "stonehearth:furniture:writing_desk",
+			"uri": "homesweethome:furniture:carpenter_table",
       "count": 1
 		},
 		{
