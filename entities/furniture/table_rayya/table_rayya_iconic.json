@@ -5,7 +5,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(table_herbalist_iconic.qb)"
+					"file(table_rayya_iconic.qb)"
 				]
 			}
 		},

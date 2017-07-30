@@ -1,10 +1,10 @@
 {
    "type": "entity",
-   "mixins": "file(table_ghost.json)",
+   "mixins": "file(table_rayya_ghost.json)",
    "components": {
       "stonehearth:entity_forms": {
-         "iconic_form": "file(table_iconic.json)",
-         "ghost_form": "file(table_ghost.json)",
+         "iconic_form": "file(table_rayya_iconic.json)",
+         "ghost_form": "file(table_rayya_ghost.json)",
          "placeable_on_ground": true
       },
 
