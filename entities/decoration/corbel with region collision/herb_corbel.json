@@ -6,9 +6,17 @@
          "iconic_form": "file(herb_corbel_iconic.json)",
          "ghost_form": "file(herb_corbel_ghost.json)",
          "placeable_on_walls": true
-      }
+      },
+
+      "region_collision_shape": {
+            "region": [
+              {
+                 "min": { "x": -1, "y": -2, "z": -0.5 },
+                 "max": { "x": 2, "y": 1.1, "z": 1 }
+              }
+           ]
+         }
    },
-   
    "entity_data": {
       "stonehearth:net_worth": {
          "value_in_gold": 8,
