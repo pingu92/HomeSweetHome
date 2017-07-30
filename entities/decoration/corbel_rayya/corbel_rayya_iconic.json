@@ -5,7 +5,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(corbel_iconic.qb)"
+					"file(corbel_rayya_iconic.qb)"
 				]
 			}
 		},

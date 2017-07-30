@@ -1,10 +1,10 @@
 {
    "type": "entity",
-   "mixins": "file(corbel_ghost.json)",
+   "mixins": "file(corbel_rayya_ghost.json)",
    "components": {
       "stonehearth:entity_forms": {
-         "iconic_form": "file(corbel_iconic.json)",
-         "ghost_form": "file(corbel_ghost.json)",
+         "iconic_form": "file(corbel_rayya_iconic.json)",
+         "ghost_form": "file(corbel_rayya_ghost.json)",
          "placeable_on_walls": true
       }
    },

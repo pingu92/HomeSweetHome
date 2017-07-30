@@ -45,6 +45,9 @@
            },
             "corbel_herbalist" : {
                "recipe" : "file(corbel_herbalist_recipe.json)"
+            },
+            "corbel_herbalist_rayya" : {
+               "recipe" : "file(corbel_herbalist_rayya_recipe.json)"
             }
          }
       },

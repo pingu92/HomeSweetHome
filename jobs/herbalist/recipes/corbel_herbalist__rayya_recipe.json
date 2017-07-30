@@ -7,10 +7,10 @@
 	"portrait" : "/homesweethome/entities/decoration/corbel_herbalist/corbel_herbalist.png",
 	"level_requirement" : 1,
 	"workshop" : "stonehearth:herbalist:workbench",
-	"manual_unlock": false,
+	"manual_unlock": true,
 	"ingredients" : [
 		{
-			"uri" : "homesweethome:decoration:carpenter_corbel",
+			"uri" : "homesweethome:decoration:potter_corbel",
 			"count" : 1
 		},
 		{
@@ -20,7 +20,7 @@
 	],
 	"produces" : [
 		{
-			"item" : "homesweethome:decoration:herbalist_corbel"
+			"item" : "homesweethome:decoration:herbalist_corbel_rayya"
 		}
 	]
 }

@@ -1,0 +1,33 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+     "model_variants": {
+        "default": {
+           "models": [
+             "file(../corbel_rayya/corbel_rayya.qb)",
+              {
+                 "type": "one_of",
+                 "items": [
+                    "file(corbel_herbalist_rayya1.qb)",
+                    "file(corbel_herbalist_rayya2.qb)"
+                 ]
+              }
+           ]
+        }
+     },
+
+      "mob": {
+         "model_origin": { "x": 0, "y": 0, "z": 0 },
+         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 }
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(homesweethome:entities.decoration.corbel_herbalist_ghost.display_name)",
+         "description": "i18n(homesweethome:entities.decoration.corbel_herbalist_ghost.description)",
+         "icon": "file(corbel_herbalist_rayya.png)",
+         "category": "decoration",
+         "material_tags": "wood decorations crafted herb"
+      }
+   }
+}

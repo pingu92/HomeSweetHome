@@ -14,7 +14,7 @@
 			"count": 1
 		},
 		{
-			"uri": "homesweethome:decoration:books_herbalist",
+			"uri": "homesweethome:decoration:herbalist_books",
 			"count": 2
 		},
 		{
@@ -24,7 +24,7 @@
 	],
 	"produces" : [
 		{
-			"item" : "homesweethome:furniture:shelf_herbalist_library"
+			"item" : "homesweethome:furniture:herbalist_shelf_library"
 		}
 	]
 }

@@ -17,13 +17,15 @@
 
     "furniture:carpenter_shelf" : "file(entities/furniture/shelf)",
     "furniture:potter_shelf_rayya" : "file(entities/furniture/shelf_rayya)",
-    "furniture:shelf_herbalist_library" : "file(entities/furniture/shelf_herbalist_library)",
-    "furniture:shelf_herbalist_library_rayya" : "file(entities/furniture/shelf_herbalist_library_rayya)",
-    "furniture:herbalist_table_herbalist" : "file(entities/furniture/table_herbalist)",
+    "furniture:herbalist_shelf_library" : "file(entities/furniture/shelf_herbalist_library)",
+    "furniture:herbalist_shelf_library_rayya" : "file(entities/furniture/shelf_herbalist_library_rayya)",
+    "furniture:herbalist_table" : "file(entities/furniture/table_herbalist)",
 
-    "decoration:books_herbalist" : "file(entities/decoration/books)",
-    "decoration:corbel" : "file(entities/decoration/corbel)",
-    "decoration:corbel_herbalist" : "file(entities/decoration/corbel_herbalist)",
+    "decoration:herbalist_books" : "file(entities/decoration/books)",
+    "decoration:carpenter_corbel" : "file(entities/decoration/corbel)",
+    "decoration:potter_corbel_rayya" : "file(entities/decoration/corbel_rayya)",
+    "decoration:herbalist_corbel" : "file(entities/decoration/corbel_herbalist)",
+    "decoration:herbalist_corbel_rayya" : "file(entities/decoration/corbel_herbalist_rayya)",
 
     "plants:herbalist_planter-box_small_brightbell" : "file(entities/plants/planter-box_small_brightbell)",
     "plants:herbalist_planter-box_small_frostsnap" : "file(entities/plants/planter-box_small_frostsnap)",

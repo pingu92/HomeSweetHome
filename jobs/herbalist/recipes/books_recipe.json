@@ -19,7 +19,7 @@
 	],
 	"produces" : [
 		{
-			"item" : "homesweethome:decoration:books_herbalist"
+			"item" : "homesweethome:decoration:herbalist_books"
 		}
 	]
 }
