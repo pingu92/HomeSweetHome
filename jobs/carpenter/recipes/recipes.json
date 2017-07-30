@@ -10,12 +10,23 @@
           }
         }
      },
+
      "furniture": {
        "recipes" : {
          "shelf" : {
             "recipe" : "file(shelf_recipe.json)"
          }
        }
+     },
+
+     "decorations" : {
+       "ordinal": 7,
+        "recipes" : {
+           "corbel_herbalist" : {
+              "recipe" : "file(corbel_recipe.json)"
+           }
+        }
      }
+
    }
 }

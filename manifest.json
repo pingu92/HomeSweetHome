@@ -22,6 +22,7 @@
     "furniture:herbalist_herb_table" : "file(entities/furniture/herb_table)",
 
     "decoration:books_herbalist" : "file(entities/decoration/books)",
+    "decoration:corbel" : "file(entities/decoration/corbel)",
     "decoration:corbel_herbalist" : "file(entities/decoration/corbel_herbalist)",
 
     "plants:herbalist_planter-box_small_brightbell" : "file(entities/plants/planter-box_small_brightbell)",

@@ -4,7 +4,7 @@
      "model_variants": {
         "default": {
            "models": [
-             "file(corbel_herbalist.qb)",
+             "file(../corbel/corbel.qb)",
               {
                  "type": "one_of",
                  "items": [

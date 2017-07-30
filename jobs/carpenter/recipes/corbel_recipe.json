@@ -1,0 +1,21 @@
+{
+	"type" : "recipe",
+	"work_units" : 2,
+	"recipe_name" : "i18n(homesweethome:jobs.carpenter.recipes.corbel_recipe.recipe_name)",
+	"description" : "i18n(homesweethome:jobs.carpenter.recipes.corbel_recipe.description)",
+	"flavor" : "i18n(homesweethome:jobs.carpenter.recipes.corbel_recipe.flavor)",
+	"portrait" : "/homesweethome/entities/decoration/corbel/corbel.png",
+	"level_requirement" : 1,
+	"workshop" : "stonehearth:carpenter:workbench",
+	"ingredients" : [
+		{
+			"material" : "wood resource",
+			"count" : 1
+		}
+	],
+	"produces" : [
+		{
+			"item" : "homesweethome:decoration:corbel"
+		}
+	]
+}

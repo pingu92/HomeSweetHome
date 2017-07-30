@@ -16,6 +16,11 @@
 		      "recipe_name" : "Large Case",
 		      "description" : "Collect a large amout of Materials. Contains up to 48 Items.",
 		      "flavor" : "Well organized!"
+		    },
+				"corbel_recipe" : {
+		      "recipe_name" : "Corbel",
+		      "description" : "Decorative corbel to upgrade your Workshop.",
+		      "flavor" : "Lovely detail!"
 		    }
 			}
 		},
@@ -133,6 +138,10 @@
 			"books_ghost" : {
 				"display_name": "Books",
         "description" : "Decorative and useful."
+      },
+			"corbel_ghost" : {
+				"display_name": "Corbel",
+        "description" : "Decorative corbel to upgrade your Workshop."
       },
 			"corbel_herbalist_ghost" : {
 				"display_name": "Herbs Corbel",

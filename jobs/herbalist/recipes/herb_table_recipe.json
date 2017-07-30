@@ -9,8 +9,8 @@
 	"workshop" : "stonehearth:herbalist:workbench",
 	"ingredients" : [
 		{
-			"material": "wood resource",
-      "count": 3
+			"uri": "stonehearth:furniture:writing_desk",
+      "count": 1
 		},
 		{
 			 "material": "herb resource",

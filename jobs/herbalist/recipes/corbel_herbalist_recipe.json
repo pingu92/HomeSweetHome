@@ -9,7 +9,7 @@
 	"workshop" : "stonehearth:herbalist:workbench",
 	"ingredients" : [
 		{
-			"material" : "wood resource",
+			"uri" : "homesweethome:decoration:corbel",
 			"count" : 1
 		},
 		{
