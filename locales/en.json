@@ -38,7 +38,7 @@
 		      "description" : "Decorative Shelf for all your healing books.",
 		      "flavor" : "Also a Herbalist sometimes needs some help."
 		    },
-				"herb_corbel_recipe" : {
+				"corbel_herbalist_recipe" : {
 		      "recipe_name" : "Herbs Corbel",
 		      "description" : "Decorative corbel to dry collected herbs.",
 		      "flavor" : "They smell so seductive."
@@ -134,7 +134,7 @@
 				"display_name": "Books",
         "description" : "Decorative and useful."
       },
-			"herb_corbel_ghost" : {
+			"corbel_herbalist_ghost" : {
 				"display_name": "Herbs Corbel",
         "description" : "Ideal to dry collected herbs."
       }

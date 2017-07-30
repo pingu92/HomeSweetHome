@@ -40,11 +40,11 @@
       "decorations" : {
         "ordinal": 7,
          "recipes" : {
-           "herbalist_books" : {
+           "books_herbalist" : {
               "recipe" : "file(books_recipe.json)"
            },
-            "herbalist_herb_corbel" : {
-               "recipe" : "file(herb_corbel_recipe.json)"
+            "corbel_herbalist" : {
+               "recipe" : "file(corbel_herbalist_recipe.json)"
             }
          }
       },

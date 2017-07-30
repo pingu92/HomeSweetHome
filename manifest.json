@@ -21,8 +21,8 @@
     "furniture:shelf_herbalist_library_rayya" : "file(entities/furniture/shelf_herbalist_library_rayya)",
     "furniture:herbalist_herb_table" : "file(entities/furniture/herb_table)",
 
-    "decoration:herbalist_books" : "file(entities/decoration/books)",
-    "decoration:herbalist_herb_corbel" : "file(entities/decoration/herb_corbel)",
+    "decoration:books_herbalist" : "file(entities/decoration/books)",
+    "decoration:corbel_herbalist" : "file(entities/decoration/corbel_herbalist)",
 
     "plants:herbalist_planter-box_small_brightbell" : "file(entities/plants/planter-box_small_brightbell)",
     "plants:herbalist_planter-box_small_frostsnap" : "file(entities/plants/planter-box_small_frostsnap)",

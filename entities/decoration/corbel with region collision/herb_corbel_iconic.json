@@ -5,7 +5,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(herb_corbel_iconic.qb)"
+					"file(corbel_herbalist_iconic.qb)"
 				]
 			}
 		},
