@@ -1,10 +1,10 @@
 {
    "type": "entity",
-   "mixins": "file(herb_table_ghost.json)",
+   "mixins": "file(table_herbalist_ghost.json)",
    "components": {
       "stonehearth:entity_forms": {
-         "iconic_form": "file(herb_table_iconic.json)",
-         "ghost_form": "file(herb_table_ghost.json)",
+         "iconic_form": "file(table_herbalist_iconic.json)",
+         "ghost_form": "file(table_herbalist_ghost.json)",
          "placeable_on_ground": true
       },
 

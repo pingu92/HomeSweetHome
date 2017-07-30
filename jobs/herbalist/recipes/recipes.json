@@ -33,7 +33,7 @@
                "recipe" : "file(shelf_herbalist_library_rayya_recipe.json)"
             },
             "herbalist_herb-table" : {
-               "recipe" : "file(herb_table_recipe.json)"
+               "recipe" : "file(table_herbalist_recipe.json)"
             }
          }
       },

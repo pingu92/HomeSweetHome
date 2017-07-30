@@ -19,7 +19,7 @@
     "furniture:potter_shelf_rayya" : "file(entities/furniture/shelf_rayya)",
     "furniture:shelf_herbalist_library" : "file(entities/furniture/shelf_herbalist_library)",
     "furniture:shelf_herbalist_library_rayya" : "file(entities/furniture/shelf_herbalist_library_rayya)",
-    "furniture:herbalist_herb_table" : "file(entities/furniture/herb_table)",
+    "furniture:herbalist_table_herbalist" : "file(entities/furniture/table_herbalist)",
 
     "decoration:books_herbalist" : "file(entities/decoration/books)",
     "decoration:corbel" : "file(entities/decoration/corbel)",
