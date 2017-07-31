@@ -10,7 +10,7 @@
 	"manual_unlock": false,
 	"ingredients" : [
 		{
-			"material": "wood resource",
+			"uri" : "homesweethome:furniture:carpenter_table",
       "count": 3
 		},
 		{

@@ -15,8 +15,8 @@
 		},
 		"entity_data": {
 			"stonehearth:catalog": {
-				"display_name": "i18n(homesweethome:entities.furniture.shelf_ghost.display_name)",
-				"description": "i18n(homesweethome:entities.furniture.shelf_ghost.description)",
+				"display_name": "i18n(homesweethome:entities.furniture.shelf_rayya_ghost.display_name)",
+				"description": "i18n(homesweethome:entities.furniture.shelf_rayya_ghost.description)",
 				"icon": "file(shelf_rayya.png)",
 				"category": "furniture",
 				"material_tags": "clay furniture crafted crate stockpile_furniture"
