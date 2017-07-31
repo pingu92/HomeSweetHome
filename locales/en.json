@@ -2,11 +2,6 @@
 	"jobs": {
 		"carpenter": {
 			"recipes" : {
-				"shelf_recipe" : {
-					"recipe_name" : "Shelf",
-					"description" : "Decorative empty Shelf.",
-					"flavor" : "Great! More place for Items."
-				},
 				"case_small_recipe" : {
 		      "recipe_name" : "Small Case",
 		      "description" : "Collect some Materials. Contains up to 10 Items.",
@@ -16,7 +11,12 @@
 		      "recipe_name" : "Large Case",
 		      "description" : "Collect a large amout of Materials. Contains up to 48 Items.",
 		      "flavor" : "Well organized!"
-		    }
+		    },
+				"shelf_recipe" : {
+					"recipe_name" : "Shelf",
+					"description" : "Decorative empty Shelf.",
+					"flavor" : "Great! More place for Items."
+				}
 			}
 		},
 		"herbalist": {
@@ -28,31 +28,29 @@
 		      "description" : "Plants don't have only healing attributes.",
 		      "flavor" : "Helpful and decorative. A nice combi."
 		    },
+
 				"books_recipe" : {
 		      "recipe_name" : "Books",
 		      "description" : "Sometimes is useful to write down your knowledge.",
 		      "flavor" : "Hopefully i don't have to read all this books."
-		    },
-		    "shelf_herbalist_library_recipe" : {
-		      "recipe_name" : "Potions Bookshelf",
-		      "description" : "Decorative Shelf for all your healing books.",
-		      "flavor" : "Also a Herbalist sometimes needs some help."
 		    },
 				"corbel_herbalist_recipe" : {
 		      "recipe_name" : "Herbs Corbel",
 		      "description" : "Decorative corbel to dry collected herbs.",
 		      "flavor" : "They smell so seductive."
 		    },
+
+		    "shelf_herbalist_library_recipe" : {
+		      "recipe_name" : "Potions Bookshelf",
+		      "description" : "Decorative Shelf for all your healing books.",
+		      "flavor" : "Also a Herbalist sometimes needs some help."
+		    },
 				"table_herbalist_recipe" : {
 		      "recipe_name" : "Herb Table",
 		      "description" : "Writing desk for professional Herbalists.",
 		      "flavor" : "Let me write some recipes…"
 		    },
-		    "jar_large_recipe" : {
-		      "recipe_name" : "Large Jar",
-		      "description" : "The savest place for Tonics and Herbs. Contains up to 32 Items.",
-		      "flavor" : "It's a really big storage… Awful!"
-		    },
+
 				"case_large_herbs_recipe" : {
 		      "recipe_name" : "Large Herb Case",
 		      "description" : "Collect a large amout of fresh Herbs. Contains up to 48 Items.",
@@ -63,6 +61,12 @@
 		      "description" : "Small but fine container. Contains up to 8 Items.",
 		      "flavor" : "Uh! Did i smell cookies inside?"
 		    },
+				"jar_large_recipe" : {
+		      "recipe_name" : "Large Jar",
+		      "description" : "The savest place for Tonics and Herbs. Contains up to 32 Items.",
+		      "flavor" : "It's a really big storage… Awful!"
+		    },
+
 				"planter-box_small_brightbell_recipe" : {
 		      "recipe_name" : "Brightbell Planter Box",
 		      "description" : "Let grow needed herbs in your Workshop.",
