@@ -32,8 +32,11 @@
             "herbalist_shelf_library_rayya" : {
                "recipe" : "file(shelf_herbalist_library_rayya_recipe.json)"
             },
-            "herbalist_herb-table" : {
+            "herbalist_table" : {
                "recipe" : "file(table_herbalist_recipe.json)"
+            },
+            "herbalist_table_rayya" : {
+               "recipe" : "file(table_herbalist_rayya_recipe.json)"
             }
          }
       },
