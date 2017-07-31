@@ -10,7 +10,7 @@
 	"manual_unlock": true,
 	"ingredients" : [
 		{
-			"uri" : "homesweethome:decoration:potter_corbel_rayya",
+			"uri": "stonehearth:construction:clay_bricks",
 			"count" : 1
 		},
 		{

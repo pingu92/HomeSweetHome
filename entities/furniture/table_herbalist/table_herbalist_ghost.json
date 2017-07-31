@@ -4,7 +4,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(../table/table.qb)",
+					"file(table.qb)",
 					 {
 							"type": "one_of",
 							"items": [

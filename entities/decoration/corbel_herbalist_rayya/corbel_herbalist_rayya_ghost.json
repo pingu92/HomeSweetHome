@@ -4,7 +4,7 @@
      "model_variants": {
         "default": {
            "models": [
-             "file(../corbel_rayya/corbel_rayya.qb)",
+             "file(corbel_rayya.qb)",
               {
                  "type": "one_of",
                  "items": [

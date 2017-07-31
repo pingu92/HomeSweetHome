@@ -7,10 +7,10 @@
 	"portrait" : "/homesweethome/entities/furniture/table_herbalist/table_herbalist.png",
 	"level_requirement" : 1,
 	"workshop" : "stonehearth:herbalist:workbench",
-	"manual_unlock": false,
+	"manual_unlock": true,
 	"ingredients" : [
 		{
-			"material": "wood resource",
+			"uri": "stonehearth:construction:clay_bricks",
       "count": 3
 		},
 		{
@@ -20,7 +20,7 @@
 	],
 	"produces" : [
 		{
-			"item" : "homesweethome:furniture:herbalist_table"
+			"item" : "homesweethome:furniture:herbalist_table_rayya"
 		}
 	]
 }

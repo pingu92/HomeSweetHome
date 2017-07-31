@@ -10,7 +10,7 @@
 	"manual_unlock": false,
 	"ingredients" : [
 		{
-			"uri" : "homesweethome:decoration:carpenter_corbel",
+			"material": "wood resource",
 			"count" : 1
 		},
 		{
