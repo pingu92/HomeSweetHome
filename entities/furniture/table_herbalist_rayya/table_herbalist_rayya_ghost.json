@@ -8,8 +8,8 @@
 					 {
 							"type": "one_of",
 							"items": [
-								 "file(table_herbalist1.qb)",
-								 "file(table_herbalist2.qb)"
+								 "file(table_herbalist_rayya1.qb)",
+								 "file(table_herbalist_rayya2.qb)"
 							]
 					 }
 				]
@@ -24,7 +24,7 @@
 			"stonehearth:catalog": {
 				"display_name": "i18n(homesweethome:entities.furniture.table_herbalist_ghost.display_name)",
 				"description": "i18n(homesweethome:entities.furniture.table_herbalist_ghost.description)",
-				"icon": "file(table_herbalist.png)",
+				"icon": "file(table_herbalist_rayya.png)",
 				"category": "furniture",
 				"material_tags": "wood furniture crafted crate furniture"
 		}
