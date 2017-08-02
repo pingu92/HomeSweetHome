@@ -12,6 +12,10 @@
 		{
 			"uri": "stonehearth:construction:clay_bricks",
       "count": 3
+		},
+		{
+			"material" : "wood resource",
+			"count" : 1
 		}
 	],
 	"produces" : [
