@@ -7,6 +7,7 @@
 	"mixintos": {
 		"homesweethome/jobs/carpenter/recipes/corbel_recipe.json":"file(jobs/carpenter/recipes/corbel_recipe.json)",
 		"homesweethome/jobs/carpenter/recipes/shelf_recipe.json":"file(jobs/carpenter/recipes/shelf_recipe.json)",
+		"homesweethome/jobs/carpenter/recipes/table_recipe.json":"file(jobs/carpenter/recipes/table_recipe.json)",
 
 		"homesweethome/jobs/herbalist/recipes/corbel_herbalist_recipe.json":"file(jobs/herbalist/recipes/corbel_herbalist_recipe.json)",
 		"homesweethome/jobs/herbalist/recipes/corbel_herbalist_rayya_recipe.json":"file(jobs/herbalist/recipes/corbel_herbalist_rayya_recipe.json)",
