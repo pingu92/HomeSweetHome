@@ -4,6 +4,9 @@
        "recipes" : {
          "shelf_rayya" : {
             "recipe" : "file(shelf_rayya_recipe.json)"
+         },
+         "table_rayya" : {
+            "recipe" : "file(table_rayya_recipe.json)"
          }
        }
      },

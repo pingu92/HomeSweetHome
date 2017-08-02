@@ -102,6 +102,11 @@
 		      "recipe_name" : "Clay Shelf",
 		      "description" : "Decorative empty clay Shelf.",
 					"flavor" : "Great! More place for Items."
+		    },
+				"table_rayya_recipe" : {
+		      "recipe_name" : "Clay Table",
+		      "description" : "A large clay table for your Workshop.",
+		      "flavor" : "How useful! A nice clay table."
 		    }
 			}
 		}
@@ -152,6 +157,10 @@
 			"table_ghost" : {
 				"display_name": "Wooden Table",
         "description" : "A large wooden table for your Workshop."
+      },
+			"table_rayya_ghost" : {
+				"display_name": "Clay Table",
+        "description" : "A large clay table for your Workshop."
       },
 			"table_herbalist_ghost" : {
 				"display_name": "Herb Table",

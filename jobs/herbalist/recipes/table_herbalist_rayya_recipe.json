@@ -10,8 +10,8 @@
 	"manual_unlock": true,
 	"ingredients" : [
 		{
-			"uri": "stonehearth:construction:clay_bricks",
-      "count": 3
+			"uri": "homesweethome:furniture:potter_table_rayya",
+      "count": 1
 		},
 		{
 			 "material": "herb resource",
