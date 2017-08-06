@@ -9,7 +9,8 @@
 							"type": "one_of",
 							"items": [
 								 "file(table_herbalist1.qb)",
-								 "file(table_herbalist2.qb)"
+								 "file(table_herbalist2.qb)",
+								 "file(table_herbalist3.qb)"
 							]
 					 }
 				]
