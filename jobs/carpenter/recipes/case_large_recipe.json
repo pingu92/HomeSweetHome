@@ -9,7 +9,7 @@
 	"workshop" : "stonehearth:carpenter:workbench",
 	"ingredients" : [
 		{
-			"material" : "wood resource",
+			"uri" : "homesweethome:construction:wooden_planks",
 			"count" : 3
 		}
 	],

@@ -10,7 +10,7 @@
 	"manual_unlock": false,
 	"ingredients" : [
 		{
-			"material": "wood resource",
+			"uri": "homesweethome:construction:wooden_planks",
 			"count" : 1
 		},
 		{

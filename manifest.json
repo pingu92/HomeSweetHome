@@ -15,6 +15,8 @@
     "containers:herbalist_jar_small" : "file(entities/containers/jar_small)",
     "containers:herbalist_jar_large" : "file(entities/containers/jar_large)",
 
+    "construction:wood_planks" : "file(entities/construction/wood_planks)",
+
     "furniture:carpenter_shelf" : "file(entities/furniture/shelf)",
     "furniture:potter_shelf_rayya" : "file(entities/furniture/shelf_rayya)",
     "furniture:herbalist_shelf_library" : "file(entities/furniture/shelf_herbalist_library)",

@@ -1,0 +1,21 @@
+{
+   "type": "recipe",
+   "work_units": 2,
+   "recipe_name": "i18n(homesweethome:jobs.carpenter.recipes.wooden_planks_recipe.recipe_name)",
+   "description": "i18n(homesweethome:jobs.carpenter.recipes.wooden_planks_recipe.description)",
+   "flavor": "i18n(homesweethome:jobs.carpenter.recipes.wooden_planks_recipe.flavor)",
+   "portrait": "/homesweethome/entities/construction/wooden_planks/wooden_planks.png",
+   "workshop" : "stonehearth:carpenter:workbench",
+   "level_requirement": 0,
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "homesweethome:construction:wooden_planks"
+      }
+   ]
+}
