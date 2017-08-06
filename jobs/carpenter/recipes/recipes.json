@@ -14,7 +14,7 @@
      "building_parts": {
        "recipes": {
           "wooden_planks": {
-             "recipe": "file(wooden_planks_recipe.json)"
+             "recipe": "file(wood_planks_recipe.json)"
           }
         }
      },
