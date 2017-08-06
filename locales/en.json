@@ -21,11 +21,6 @@
 		      "recipe_name" : "Wooden Table",
 		      "description" : "A large wooden table for your Workshop.",
 		      "flavor" : "How useful! A nice wooden table."
-		    },
-				"wood_planks_recipe" : {
-		      "recipe_name" : "Wood Planks",
-		      "description" : "Very useful when you want to built some furniture.",
-		      "flavor" : "Ouch! The saw is sharp."
 		    }
 			}
 		},

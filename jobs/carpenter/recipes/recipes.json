@@ -11,14 +11,6 @@
         }
      },
 
-     "building_parts": {
-       "recipes": {
-          "wooden_planks": {
-             "recipe": "file(wood_planks_recipe.json)"
-          }
-        }
-     },
-
      "furniture": {
        "recipes" : {
          "shelf" : {
