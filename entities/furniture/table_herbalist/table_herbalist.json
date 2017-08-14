@@ -1,6 +1,6 @@
 {
    "type": "entity",
-   "mixins": "file(table_herbalist_ghost.json)",
+   "mixins": "stonehearth:mixins:placed_object",
    "components": {
       "stonehearth:entity_forms": {
          "iconic_form": "file(table_herbalist_iconic.json)",
@@ -8,24 +8,47 @@
          "placeable_on_ground": true
       },
 
+      "model_variants": {
+        "default": {
+          "models": [
+            "file(../table/table.qb)",
+             {
+                "type": "one_of",
+                "items": [
+                   "file(table_herbalist1.qb)",
+                   "file(table_herbalist2.qb)",
+                   "file(table_herbalist3.qb)"
+                ]
+             }
+          ]
+        }
+      },
+
+      "mob": {
+         "model_origin": { "x": -1, "y": 0, "z": 0.5 },
+         "region_origin": { "x": 0.05, "y": 0, "z": 0.05 }
+			},
+
    "region_collision_shape": {
       "region": [
          {
-            "min": {
-               "x": 0,
-               "y": 0,
-               "z": -1
-            },
-            "max": {
-               "x": 3,
-               "y": 2,
-               "z": 1
-            }
+           "min": { "x": 0, "y": 0, "z": -1 },
+            "max": { "x": 3, "y": 2, "z": 1 }
          }
       ]
    }
    },
+   
    "entity_data": {
+
+     "stonehearth:catalog": {
+       "display_name": "i18n(homesweethome:entities.furniture.table_herbalist_ghost.display_name)",
+       "description": "i18n(homesweethome:entities.furniture.table_herbalist_ghost.description)",
+       "icon": "file(table_herbalist.png)",
+       "category": "furniture",
+       "material_tags": "wood furniture crafted crate furniture"
+     },
+
       "stonehearth:net_worth": {
          "value_in_gold": 10,
          "rarity": "common",

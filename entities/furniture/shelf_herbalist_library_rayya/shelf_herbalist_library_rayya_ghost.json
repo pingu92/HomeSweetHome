@@ -5,16 +5,7 @@
 			 "default": {
 					"models": [
 						"file(../shelf_rayya/shelf_rayya.qb)",
-						 {
-								"type": "one_of",
-								"items": [
-									 "file(../shelf_herbalist_library/shelf_herbalist_library1.qb)",
-									 "file(../shelf_herbalist_library/shelf_herbalist_library2.qb)",
-									 "file(../shelf_herbalist_library/shelf_herbalist_library3.qb)",
-									 "file(../shelf_herbalist_library/shelf_herbalist_library4.qb)",
-									 "file(../shelf_herbalist_library/shelf_herbalist_library5.qb)"
-								]
-						 }
+						"file(../shelf_herbalist_library/shelf_herbalist_library1.qb)"
 					]
 			 }
 		},
@@ -28,7 +19,7 @@
 			"stonehearth:catalog": {
 				"display_name": "i18n(homesweethome:entities.furniture.shelf_herbalist_library_ghost.display_name)",
 				"description": "i18n(homesweethome:entities.furniture.shelf_herbalist_library_ghost.description)",
-				"icon": "file(shelf_herbalist_library.png)",
+				"icon": "file(shelf_herbalist_library_rayya.png)",
 				"category": "furniture",
 				"material_tags": "wood furniture crafted crate stockpile_furniture"
 		}
