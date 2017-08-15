@@ -1,5 +1,15 @@
 {
 	"jobs": {
+		"cook": {
+			"recipes" : {
+				"dishes-cabinet_recipe" : {
+					"recipe_name" : "Dishes Cabinet",
+		      "description" : "Workbench to decorate you Tavern.",
+		      "flavor" : "Another Decoration on this wall please!"
+				}
+			}
+		},
+
 		"carpenter": {
 			"recipes" : {
 				"case_small_recipe" : {
@@ -119,6 +129,10 @@
 
 	"entities" : {
 		"workbenches" : {
+			"dishes-cabinet" : {
+        "display_name": "Dishes Cabinet",
+        "description" : "Workbench to decorate you Tavern."
+			},
 			"gardener-bench_ghost" : {
         "display_name": "Gardener Bench",
         "description" : "Helpful and decorative."
