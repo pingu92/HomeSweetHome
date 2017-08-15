@@ -10,11 +10,7 @@
 			}
 		},
 		"mob": {
-      "align_to_grid": [
-         "x",
-         "z"
-      ],
-      "model_origin": { "x": -1, "y": 0, "z": -1 }
+      "model_origin": { "x": 0, "y": 0, "z": 0 }
 		},
 	"entity_data": {
 			"stonehearth:catalog": {
