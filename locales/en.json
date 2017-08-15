@@ -12,6 +12,11 @@
 		      "description" : "Collect a large amout of Materials. Contains up to 48 Items.",
 		      "flavor" : "Well organized!"
 		    },
+				"pantry_recipe" : {
+					"recipe_name" : "Wooden Pantry",
+					"description" : "Decorative empty wooden Pantry.",
+					"flavor" : "A lot of new storage possibilities."
+				},
 				"shelf_recipe" : {
 					"recipe_name" : "Wooden Shelf",
 					"description" : "Decorative empty wooden Shelf.",
@@ -142,6 +147,10 @@
       }
 		},
     "furniture" : {
+			"pantry_ghost" : {
+				"display_name": "Wooden Pantry",
+        "description" : "An empty storage for new Items."
+      },
       "shelf_ghost" : {
 				"display_name": "Wooden Shelf",
         "description" : "Maybe someone needs more storage place…"

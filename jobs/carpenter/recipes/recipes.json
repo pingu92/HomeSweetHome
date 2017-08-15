@@ -16,6 +16,9 @@
          "shelf" : {
             "recipe" : "file(shelf_recipe.json)"
          },
+         "pantry" : {
+            "recipe" : "file(pantry_recipe.json)"
+         },
          "table" : {
             "recipe" : "file(table_recipe.json)"
          }
