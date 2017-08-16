@@ -20,7 +20,9 @@
               "type" : "one_of",
               "items" : [
                 "file(pantry_cook_ingredients1.qb)",
-                "file(pantry_cook_ingredients2.qb)"
+                "file(pantry_cook_ingredients2.qb)",
+                "file(pantry_cook_ingredients3.qb)",
+                "file(pantry_cook_ingredients4.qb)"
               ]
             }
           ]
