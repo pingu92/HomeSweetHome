@@ -5,6 +5,12 @@
 				"storage_name" : "Storage",
 				"furniture_name" : "Furniture",
 
+				"barrels_berrie_recipe" : {
+					"recipe_name" : "Berrie Barrels",
+		      "description" : "Serving fresh Berrie juice makes Hearthlings happier. Place for 92 Items.",
+		      "flavor" : "Cheers my Friends!"
+				},
+
 				"dishes-cabinet_recipe" : {
 					"recipe_name" : "Dishes Cabinet",
 		      "description" : "Workbench to decorate you Tavern.",
@@ -157,6 +163,10 @@
 			"barrel_ghost" : {
         "display_name": "Wooden Barrel",
         "description" : "Collect over 32 Items."
+      },
+			"barrels_berrie_ghost" : {
+        "display_name": "Berrie Barrels",
+        "description" : "Collect over 96 Items."
       },
 			"case_small_ghost" : {
         "display_name": "Small Case",

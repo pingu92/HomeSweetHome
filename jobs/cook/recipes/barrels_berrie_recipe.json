@@ -1,0 +1,25 @@
+{
+	"type" : "recipe",
+	"work_units" : 4,
+	"recipe_name" : "i18n(homesweethome:jobs.cook.recipes.barrels_berrie_recipe.recipe_name)",
+	"description" : "i18n(homesweethome:jobs.cook.recipes.barrels_berrie_recipe.description)",
+	"flavor" : "i18n(homesweethome:jobs.cook.recipes.barrels_berrie_recipe.flavor)",
+	"portrait" : "/homesweethome/entities/containers/barrels_berrie/barrels_berrie.png",
+	"level_requirement" : 2,
+	"workshop" : "homesweethome:workbench:cook:dishes-cabinet",
+	"ingredients" : [
+		{
+			"uri": "homesweethome:containers:carpenter_barrel",
+			"count" : 3
+		},
+		{
+			"uri": "stonehearth:food:berries:berry_basket",
+			"count" : 4
+		}
+	],
+	"produces" : [
+		{
+			"item" : "homesweethome:containers:cook_barrels_berrie"
+		}
+	]
+}

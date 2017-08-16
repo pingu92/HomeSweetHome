@@ -12,6 +12,7 @@
     "containers:carpenter_barrel" : "file(entities/containers/barrel)",
     "containers:carpenter_case_small" : "file(entities/containers/case_small)",
     "containers:carpenter_case_large" : "file(entities/containers/case_large)",
+    "containers:cook_barrels_berrie" : "file(entities/containers/barrels_berrie)",
     "containers:cook_pantry" : "file(entities/containers/pantry_cook)",
     "containers:herbalist_case_large_herbs" : "file(entities/containers/case_large_herbs)",
     "containers:herbalist_jar_small" : "file(entities/containers/jar_small)",
