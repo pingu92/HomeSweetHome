@@ -21,6 +21,11 @@
 
 		"carpenter": {
 			"recipes" : {
+				"barrel_recipe" : {
+		      "recipe_name" : "Wooden Barrel",
+		      "description" : "Safe space with this Item. Contains up to 32 Materials",
+		      "flavor" : "I love the Berrie juice!"
+		    },
 				"case_small_recipe" : {
 		      "recipe_name" : "Small Case",
 		      "description" : "Collect some Materials. Contains up to 10 Items.",
@@ -149,6 +154,10 @@
 			}
 		},
 		"storage" : {
+			"barrel_ghost" : {
+        "display_name": "Wooden Barrel",
+        "description" : "Collect over 32 Items."
+      },
 			"case_small_ghost" : {
         "display_name": "Small Case",
         "description" : "Collect over 10 Items."

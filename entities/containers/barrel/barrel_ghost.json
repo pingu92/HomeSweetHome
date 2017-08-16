@@ -1,0 +1,30 @@
+{
+	"mixins": "stonehearth:mixins:placed_object",
+	"components": {
+		"model_variants": {
+			"default": {
+				"models": [
+					"file(barrel.qb)"
+				]
+			}
+		},
+      "mob": {
+         "model_origin": { "x": -0.4, "y": 0, "z": 0.5 },
+         "region_origin": { "x": 0, "y": 0, "z": 0.05 },
+				 "align_to_grid": [
+            "x",
+            "z"
+         ],
+         "allow_vertical_adjacent": true
+			}
+		},
+		"entity_data": {
+			"stonehearth:catalog": {
+				"display_name": "i18n(i18n(homesweethome:entities.storage.barrel_ghost.display_name))",
+				"description": "i18n(homesweethome:entities.storage.barrel_ghost.description)",
+				"icon": "file(barrel.png)",
+				"category": "storage",
+				"material_tags": "wood storage crafted crate stockpile_storage"
+		}
+	}
+}
