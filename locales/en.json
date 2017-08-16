@@ -139,7 +139,7 @@
 
 	"entities" : {
 		"workbenches" : {
-			"dishes-cabinet" : {
+			"dishes-cabinet_ghost" : {
         "display_name": "Dishes Cabinet",
         "description" : "Workbench to decorate you Tavern."
 			},

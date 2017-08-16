@@ -5,7 +5,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(pantry_iconic.qb)"
+					"file(pantry_cook_iconic.qb)"
 				]
 			}
 		},

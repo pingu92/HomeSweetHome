@@ -9,7 +9,7 @@
       },
       "storage": {
          "ordinal": 4,
-         "name": "i18n(stonehearth:jobs.cook.recipes.storage_name)",
+         "name": "i18n(homesweethome:jobs.cook.recipes.storage_name)",
          "recipes": {
             "pantry_cook": {
                "recipe": "file(pantry_cook_recipe.json)"
@@ -18,7 +18,7 @@
       },
       "furniture": {
          "ordinal": 5,
-         "name": "i18n(stonehearth:jobs.cook.recipes.furniture_name)",
+         "name": "i18n(homesweethome:jobs.cook.recipes.furniture_name)",
          "recipes": {
          }
       },

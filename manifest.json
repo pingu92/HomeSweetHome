@@ -36,7 +36,7 @@
     "plants:herbalist_planter-box_large" : "file(entities/plants/planter-box_large)",
     "plants:herbalist_planter-box_large_rayya" : "file(entities/plants/planter-box_large_rayya)",
 
-    "workbench:cook:dishes-cabinet" : "file(jobs/herbalist/dishes-cabinet)",
+    "workbench:cook:dishes-cabinet" : "file(jobs/cook/dishes-cabinet)",
     "workbench:herbalist:gardener-bench" : "file(jobs/herbalist/gardener-bench)"
   },
 

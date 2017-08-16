@@ -15,7 +15,7 @@
       "model_variants": {
         "default": {
           "models": [
-            "file(../pantry/pantry.qb)",
+            "file(../../furniture/pantry/pantry.qb)",
             {
               "type" : "one_of",
               "items" : [

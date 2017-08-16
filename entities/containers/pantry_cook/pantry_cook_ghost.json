@@ -4,7 +4,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(../pantry/pantry.qb)",
+					"file(../../furniture/pantry/pantry.qb)",
 					"file(pantry_cook_ingredients1.qb)"
 				]
 			}
