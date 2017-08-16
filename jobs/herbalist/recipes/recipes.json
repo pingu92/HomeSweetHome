@@ -9,7 +9,7 @@
      },
      "storage" : {
         "ordinal": 5,
-        "name": "i18n(stonehearth:jobs.carpenter.recipes.storage_name)",
+        "name": "i18n(stonehearth:jobs.herbalist.recipes.storage_name)",
         "recipes" : {
           "case_large_herbs" : {
              "recipe" : "file(case_large_herbs_recipe.json)"

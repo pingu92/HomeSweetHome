@@ -4,7 +4,8 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(pantry.qb)"
+					"file(../pantry/pantry.qb)",
+					"file(pantry_cook_ingredients1.qb)"
 				]
 			}
 		},
@@ -15,11 +16,11 @@
 		},
 		"entity_data": {
 			"stonehearth:catalog": {
-				"display_name": "i18n(homesweethome:entities.furniture.pantry_ghost.display_name)",
-				"description": "i18n(homesweethome:entities.furniture.pantry_ghost.description)",
-				"icon": "file(pantry.png)",
-				"category": "furniture",
-				"material_tags": "wood furniture crafted crate stockpile_furniture"
+				"display_name": "i18n(homesweethome:entities.storage.pantry_cook_ghost.display_name)",
+				"description": "i18n(homesweethome:entities.storage.pantry_cook_ghost.description)",
+				"icon": "file(pantry_cook.png)",
+				"category": "storage",
+				"material_tags": "wood containers crafted crate stockpile_furniture"
 		}
 	}
 }

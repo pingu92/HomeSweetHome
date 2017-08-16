@@ -2,11 +2,20 @@
 	"jobs": {
 		"cook": {
 			"recipes" : {
+				"storage_name" : "Storage",
+				"furniture_name" : "Furniture",
+
 				"dishes-cabinet_recipe" : {
 					"recipe_name" : "Dishes Cabinet",
 		      "description" : "Workbench to decorate you Tavern.",
 		      "flavor" : "Another Decoration on this wall please!"
-				}
+				},
+
+				"pantry_cook_recipe" : {
+					"recipe_name" : "Ingredients Pantry",
+					"description" : "Useful storage for 64 cooking ingredients.",
+					"flavor" : "Finally i have enough place for it!"
+				},
 			}
 		},
 
@@ -42,6 +51,7 @@
 
 		"herbalist": {
 			"recipes" : {
+				"storage_name" : "Storage",
 				"plants_name" : "Plants",
 
 				"gardener-bench_recipe" : {
@@ -158,7 +168,11 @@
       "jar_small_ghost" : {
 				"display_name": "Small Jar",
         "description" : "Small but fine container."
-      }
+      },
+			"pantry_cook_ghost" : {
+				"display_name": "Ingredients Pantry",
+				"description" : "Useful storage for 64 cooking ingredients."
+			}
 		},
     "furniture" : {
 			"pantry_ghost" : {
