@@ -28,6 +28,7 @@
     "furniture:potter_shelf_rayya" : "file(entities/furniture/shelf_rayya)",
     "furniture:potter_table_rayya" : "file(entities/furniture/table_rayya)",
 
+    "decoration:cook_corbel" : "file(entities/decoration/corbel_cook)",
     "decoration:herbalist_books" : "file(entities/decoration/books)",
     "decoration:herbalist_corbel" : "file(entities/decoration/corbel_herbalist)",
     "decoration:herbalist_corbel_rayya" : "file(entities/decoration/corbel_herbalist_rayya)",

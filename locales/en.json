@@ -5,6 +5,12 @@
 				"storage_name" : "Storage",
 				"furniture_name" : "Furniture",
 
+				"corbel_cook_recipe" : {
+					"recipe_name" : "Spice Corbel",
+		      "description" : "Spicy food is more delicious.",
+		      "flavor" : "Let me add a little bit coriander…"
+				},
+
 				"barrels_berrie_recipe" : {
 					"recipe_name" : "Berrie Barrels",
 		      "description" : "Serving fresh Berrie juice makes Hearthlings happier. Place for 92 Items.",
@@ -228,6 +234,10 @@
 				"display_name": "Books",
         "description" : "Decorative and useful."
       },
+			"corbel_cook_ghost" : {
+				"display_name": "Spice Corbel",
+				"description" : "Spicy food is more delicious."
+			},
 			"corbel_herbalist_ghost" : {
 				"display_name": "Herbs Corbel",
         "description" : "Ideal to dry collected herbs."

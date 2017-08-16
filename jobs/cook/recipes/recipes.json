@@ -28,6 +28,9 @@
       "decoration": {
          "ordinal": 6,
          "recipes": {
+           "corbel_cook": {
+              "recipe": "file(corbel_cook_recipe.json)"
+           }
          }
       }
    }
