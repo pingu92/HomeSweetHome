@@ -1,9 +1,9 @@
 {
 	"type" : "recipe",
 	"work_units" : 2,
-	"recipe_name" : "i18n(homesweethome:jobs.herbalist.recipes.corbel_cook_recipe.recipe_name)",
-	"description" : "i18n(homesweethome:jobs.herbalist.recipes.corbel_cook_recipe.description)",
-	"flavor" : "i18n(homesweethome:jobs.herbalist.recipes.corbel_cook_recipe.flavor)",
+	"recipe_name" : "i18n(homesweethome:jobs.cook.recipes.corbel_cook_recipe.recipe_name)",
+	"description" : "i18n(homesweethome:jobs.cook.recipes.corbel_cook_recipe.description)",
+	"flavor" : "i18n(homesweethome:jobs.cook.recipes.corbel_cook_recipe.flavor)",
 	"portrait" : "/homesweethome/entities/decoration/corbel_cook/corbel_cook.png",
 	"level_requirement" : 1,
 	"workshop" : "homesweethome:workbench:cook:dishes-cabinet",
