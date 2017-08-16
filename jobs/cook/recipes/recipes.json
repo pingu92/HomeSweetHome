@@ -1,0 +1,31 @@
+{
+   "craftable_recipes": {
+      "workbenches": {
+         "recipes": {
+            "dishes-cabinet": {
+               "recipe": "file(dishes-cabinet_recipe.json)"
+            }
+         }
+      },
+      "storage": {
+         "ordinal": 4,
+         "name": "i18n(stonehearth:jobs.cook.recipes.storage_name)",
+         "recipes": {
+            "pantry_cook": {
+               "recipe": "file(pantry_cook_recipe.json)"
+            }
+         }
+      },
+      "furniture": {
+         "ordinal": 5,
+         "name": "i18n(stonehearth:jobs.cook.recipes.furniture_name)",
+         "recipes": {
+         }
+      },
+      "decoration": {
+         "ordinal": 6,
+         "recipes": {
+         }
+      }
+   }
+}

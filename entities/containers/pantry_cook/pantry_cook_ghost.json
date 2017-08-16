@@ -1,0 +1,26 @@
+{
+	"mixins": "stonehearth:mixins:placed_object",
+	"components": {
+		"model_variants": {
+			"default": {
+				"models": [
+					"file(../pantry/pantry.qb)",
+					"file(pantry_cook_ingredients1.qb)"
+				]
+			}
+		},
+      "mob": {
+         "model_origin": { "x": -0.5, "y": 0, "z": 0.5 },
+         "region_origin": { "x": 0.05, "y": 0, "z": 0.05 }
+			}
+		},
+		"entity_data": {
+			"stonehearth:catalog": {
+				"display_name": "i18n(homesweethome:entities.storage.pantry_cook_ghost.display_name)",
+				"description": "i18n(homesweethome:entities.storage.pantry_cook_ghost.description)",
+				"icon": "file(pantry_cook.png)",
+				"category": "storage",
+				"material_tags": "wood containers crafted crate stockpile_furniture"
+		}
+	}
+}

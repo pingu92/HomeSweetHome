@@ -1,0 +1,22 @@
+{
+	"type" : "recipe",
+	"work_units" : 5,
+	"recipe_name" : "i18n(homesweethome:jobs.cook.recipes.pantry_cook_recipe.recipe_name)",
+	"description" : "i18n(homesweethome:jobs.cook.recipes.pantry_cook_recipe.description)",
+	"flavor" : "i18n(homesweethome:jobs.carpenter.recipes.pantry_cook_recipe.flavor)",
+	"portrait" : "/homesweethome/entities/furniture/pantry_cook/pantry_cook.png",
+	"level_requirement" : 1,
+	"workshop" : "homesweethome:workbench:cook:dishes-cabinet",
+	"manual_unlock": false,
+	"ingredients" : [
+		{
+			"uri": "homesweethome:furniture:carpenter_pantry",
+			"count" : 1
+		}
+	],
+	"produces" : [
+		{
+			"item" : "homesweethome:containers:cook_pantry"
+		}
+	]
+}

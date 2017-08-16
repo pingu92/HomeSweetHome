@@ -1,0 +1,73 @@
+{
+   "type": "entity",
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+     "stonehearth:storage": {
+        "type": "crate",
+        "capacity": 64
+     },
+      "stonehearth:entity_forms": {
+         "iconic_form": "file(pantry_cook_iconic.json)",
+         "ghost_form": "file(pantry_cook_ghost.json)",
+         "placeable_on_ground": true
+      },
+
+      "model_variants": {
+        "default": {
+          "models": [
+            "file(../pantry/pantry.qb)",
+            {
+              "type" : "one_of",
+              "items" : [
+                "file(pantry_cook_ingredients1.qb)"
+              ]
+            }
+          ]
+        }
+      },
+
+        "mob": {
+           "model_origin": { "x": -0.5, "y": 0, "z": 0.5 },
+           "region_origin": { "x": 0.05, "y": 0, "z": 0.05 }
+        },
+
+      "destination": {
+         "region": [
+            {
+               "min": { "x": -1, "y": 0, "z": -1 },
+               "max": { "x": 3, "y": 6, "z": 1 }
+            }
+         ]
+      },
+
+   "region_collision_shape": {
+      "region": [
+         {
+            "min": { "x": -1, "y": 0, "z": -1 },
+            "max": { "x": 3, "y": 6, "z": 1 }
+         }
+      ]
+    }
+   },
+   "entity_data": {
+
+     "stonehearth:catalog": {
+       "display_name": "i18n(homesweethome:entities.storage.pantry_cook_ghost.display_name)",
+       "description": "i18n(homesweethome:entities.storage.pantry_cook_ghost.description)",
+       "icon": "file(pantry_cook.png)",
+       "category": "storage",
+       "material_tags": "wood containers crafted crate stockpile_furniture"
+      },
+
+      "stonehearth:net_worth": {
+         "value_in_gold": 20,
+         "rarity": "common",
+         "shop_info": {
+            "buyable": false,
+            "sellable": true,
+            "shopkeeper_level": 1,
+            "shopkeeper_type": "caravan"
+         }
+      }
+   }
+}
