@@ -1,0 +1,21 @@
+{
+	"type" : "recipe",
+	"work_units" : 4,
+	"recipe_name" : "i18n(homesweethome:jobs.potter.recipes.crockery_recipe.recipe_name)",
+	"description" : "i18n(homesweethome:jobs.potter.recipes.crockery_recipe.description)",
+	"flavor" : "i18n(homesweethome:jobs.potter.recipes.crockery_recipe.flavor)",
+	"portrait" : "/homesweethome/entities/decoration/crockery/crockery.png",
+	"level_requirement" : 1,
+	"workshop" : "stonehearth:potter:workbench",
+	"ingredients" : [
+		{
+			"uri": "stonehearth:construction:clay_bricks",
+			"count" : 3
+		}
+	],
+	"produces" : [
+		{
+			"item" : "homesweethome:decoration:potter_crockery"
+		}
+	]
+}

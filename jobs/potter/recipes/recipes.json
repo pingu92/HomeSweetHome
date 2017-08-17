@@ -10,5 +10,14 @@
          }
        }
      },
+     "decoration": {
+        "ordinal": 7,
+        "name": "i18n(homesweethome:jobs.potter.recipes.decoration_name)",
+        "recipes": {
+           "crockery": {
+              "recipe": "file(crockery_recipe.json)"
+           }
+        }
+     }
    }
 }
