@@ -1,0 +1,12 @@
+{
+   "craftable_recipes": {
+
+      "decoration": {
+         "recipes": {
+           "utensils": {
+              "recipe": "file(utensils_recipe.json)"
+           }
+         }
+      }
+   }
+}

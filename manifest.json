@@ -28,6 +28,7 @@
     "furniture:potter_shelf_rayya" : "file(entities/furniture/shelf_rayya)",
     "furniture:potter_table_rayya" : "file(entities/furniture/table_rayya)",
 
+    "decoration:blacksmith_utensils" : "file(entities/decoration/utensils)",
     "decoration:cook_corbel" : "file(entities/decoration/corbel_cook)",
     "decoration:herbalist_books" : "file(entities/decoration/books)",
     "decoration:herbalist_corbel" : "file(entities/decoration/corbel_herbalist)",
@@ -44,6 +45,7 @@
   },
 
   "mixintos" : {
+    "/stonehearth/jobs/blacksmith/recipes/recipes.json" : "file(jobs/blacksmith/recipes/recipes.json)",
     "/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(jobs/carpenter/recipes/recipes.json)",
     "/stonehearth/jobs/cook/recipes/recipes.json" : "file(jobs/cook/recipes/recipes.json)",
     "/stonehearth/jobs/herbalist/recipes/recipes.json" : "file(jobs/herbalist/recipes/recipes.json)",

@@ -1,5 +1,14 @@
 {
 	"jobs": {
+		"blacksmith": {
+			"recipes" : {
+				"utensils_recipe" : {
+					"recipe_name" : "Bronze Utensils",
+		      "description" : "Useful Utensils for your Workshop.",
+		      "flavor" : "Ohh i love this spoon!"
+				}
+			}
+		},
 		"cook": {
 			"recipes" : {
 				"storage_name" : "Storage",
@@ -27,7 +36,7 @@
 					"recipe_name" : "Ingredients Pantry",
 					"description" : "Useful storage for 64 cooking ingredients.",
 					"flavor" : "Finally i have enough place for it!"
-				},
+				}
 			}
 		},
 
@@ -241,7 +250,11 @@
 			"corbel_herbalist_ghost" : {
 				"display_name": "Herbs Corbel",
         "description" : "Ideal to dry collected herbs."
-      }
+      },
+			"utensils_ghost" : {
+				"display_name": "Bronze Utensils",
+				"description" : "Useful Utensils for your Workshop."
+			}
     },
 		"plants" : {
 			"planter-box_small_brightbell_ghost" : {
