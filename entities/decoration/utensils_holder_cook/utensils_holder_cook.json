@@ -11,7 +11,7 @@
       "model_variants": {
          "default": {
             "models": [
-              "file(utensils_holder_cook.qb)"
+              "file(utensils_holder_cook.qb)",
               {
                  "type": "one_of",
                  "items": [

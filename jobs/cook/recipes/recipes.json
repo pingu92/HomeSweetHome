@@ -33,9 +33,10 @@
          "recipes": {
            "corbel_cook": {
               "recipe": "file(corbel_cook_recipe.json)"
-           }
-         },
-         "recipes": {
+           },
+           "utensils_holder": {
+              "recipe": "file(utensils_holder_cook_recipe.json)"
+           },
            "wash_barrel": {
               "recipe": "file(wash_barrel_recipe.json)"
            }
