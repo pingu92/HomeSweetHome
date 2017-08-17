@@ -4,8 +4,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(wash_barrel.qb)",
-					"file(water.qb)"
+					"file(wash_barrel_unite.qb)"
 				]
 			}
 		},
