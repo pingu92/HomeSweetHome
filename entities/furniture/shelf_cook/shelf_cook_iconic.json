@@ -5,7 +5,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(bookshelf_iconic.qb)"
+					"file(shelf_cook_iconic.qb)"
 				]
 			}
 		},

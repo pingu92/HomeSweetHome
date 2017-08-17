@@ -23,6 +23,9 @@
          "ordinal": 5,
          "name": "i18n(homesweethome:jobs.cook.recipes.furniture_name)",
          "recipes": {
+           "shelf_cook": {
+              "recipe": "file(shelf_cook_recipe.json)"
+           }
          }
       },
       "decoration": {

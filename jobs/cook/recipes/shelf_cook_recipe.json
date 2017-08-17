@@ -1,0 +1,29 @@
+{
+	"type" : "recipe",
+	"work_units" : 5,
+	"recipe_name" : "i18n(homesweethome:jobs.cook.recipes.shelf_cook_recipe.recipe_name)",
+	"description" : "i18n(homesweethome:jobs.cook.recipes.shelf_cook_recipe.description)",
+	"flavor" : "i18n(homesweethome:jobs.cook.recipes.shelf_cook_recipe.flavor)",
+	"portrait" : "/homesweethome/entities/furniture/shelf_cook/shelf_cook.png",
+	"level_requirement" : 2,
+	"workshop" : "homesweethome:workbench:cook:dishes-cabinet",
+	"ingredients" : [
+		{
+			"uri": "homesweethome:furniture:carpenter_shelf",
+			"count": 1
+		},
+		{
+			"uri": "homesweethome:decoration:herbalist_books",
+			"count": 2
+		},
+		{
+			"uri": "homesweethome:decoration:potter_crockery",
+		 	"count": 2
+		}
+	],
+	"produces" : [
+		{
+			"item" : "homesweethome:furniture:cook_shelf"
+		}
+	]
+}
