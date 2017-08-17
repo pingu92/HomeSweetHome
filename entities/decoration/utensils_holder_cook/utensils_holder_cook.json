@@ -1,0 +1,55 @@
+{
+   "type": "entity",
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+      "stonehearth:entity_forms": {
+         "iconic_form": "file(utensils_holder_cook_iconic.json)",
+         "ghost_form": "file(utensils_holder_cook_ghost.json)",
+         "placeable_on_walls": true
+      },
+
+      "model_variants": {
+         "default": {
+            "models": [
+              "file(utensils_holder_cook.qb)"
+              {
+                 "type": "one_of",
+                 "items": [
+                    "file(holder_utensils1.qb)",
+                    "file(holder_utensils2.qb)",
+                    "file(holder_utensils3.qb)"
+                 ]
+              }
+            ]
+         }
+      },
+
+      "mob": {
+         "model_origin": { "x": -0.5, "y": 0, "z": -0.5 },
+         "region_origin": { "x": 0, "y": 0, "z": 0 }
+      }
+
+   },
+
+   "entity_data": {
+
+     "stonehearth:catalog": {
+        "display_name": "i18n(homesweethome:entities.decoration.utensils_holder_cook_ghost.display_name)",
+        "description": "i18n(homesweethome:entities.decoration.utensils_holder_cook_ghost.description)",
+        "icon": "file(utensils_holder_cook.png)",
+        "category": "decoration",
+        "material_tags": "wood decorations crafted herb"
+     },
+
+      "stonehearth:net_worth": {
+         "value_in_gold": 32,
+         "rarity": "common",
+         "shop_info": {
+            "buyable": false,
+            "sellable": true,
+            "shopkeeper_level": 1,
+            "shopkeeper_type": "caravan"
+         }
+      }
+   }
+}

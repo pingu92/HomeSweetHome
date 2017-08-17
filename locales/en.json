@@ -42,6 +42,11 @@
 					"description" : "Decorative Shelf for all your Recipes and Crockeries.",
 					"flavor" : "You have some really beautiful Plates."
 				},
+				"utensils_holder_cook_recipe" : {
+					"recipe_name" : "Utensils Holder",
+					"description" : "Finally a good place for your utensils.",
+					"flavor" : "Well arranged…"
+				},
 				"wash_barrel_recipe" : {
 					"recipe_name" : "Wash Barrel",
 					"description" : "Only a clean Plate is a good Crockery.",
@@ -279,6 +284,10 @@
 			"utensils_ghost" : {
 				"display_name": "Bronze Utensils",
 				"description" : "Useful Utensils for your Workshop."
+			},
+			"utensils_holder_cook_ghost" : {
+				"display_name": "Utensils Holder",
+				"description" : "Your Utensils, well arranged…"
 			},
 			"wash_barrel_ghost" : {
 				"display_name": "Wash Barrel",

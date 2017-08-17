@@ -31,6 +31,7 @@
 
     "decoration:blacksmith_utensils" : "file(entities/decoration/utensils)",
     "decoration:cook_corbel" : "file(entities/decoration/corbel_cook)",
+    "decoration:cook_utensils_holder" : "file(entities/decoration/utensils_holder_cook)",
     "decoration:cook_wash_barrel" : "file(entities/decoration/wash_barrel)",
     "decoration:herbalist_books" : "file(entities/decoration/books)",
     "decoration:herbalist_corbel" : "file(entities/decoration/corbel_herbalist)",

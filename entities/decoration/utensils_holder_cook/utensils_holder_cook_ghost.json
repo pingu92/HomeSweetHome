@@ -1,0 +1,27 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+     "model_variants": {
+        "default": {
+           "models": [
+             "file(utensils_holder_cook.qb)",
+             "file(holder_utensils1.qb)"
+           ]
+        }
+     },
+
+      "mob": {
+         "model_origin": { "x": -0.5, "y": 0, "z": -0.5 },
+         "region_origin": { "x": 0, "y": 0, "z": 0 }
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(homesweethome:entities.decoration.utensils_holder_cook_ghost.display_name)",
+         "description": "i18n(homesweethome:entities.decoration.utensils_holder_cook_ghost.description)",
+         "icon": "file(utensils_holder_cook.png)",
+         "category": "decoration",
+         "material_tags": "wood decorations crafted herb"
+      }
+   }
+}
