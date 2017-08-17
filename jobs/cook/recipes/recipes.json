@@ -34,6 +34,11 @@
            "corbel_cook": {
               "recipe": "file(corbel_cook_recipe.json)"
            }
+         },
+         "recipes": {
+           "wash_barrel": {
+              "recipe": "file(wash_barrel_recipe.json)"
+           }
          }
       }
    }

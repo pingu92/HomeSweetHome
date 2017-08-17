@@ -41,6 +41,11 @@
 					"recipe_name" : "Crockery Shelf",
 					"description" : "Decorative Shelf for all your Recipes and Crockeries.",
 					"flavor" : "You have some really beautiful Plates."
+				},
+				"wash_barrel_recipe" : {
+					"recipe_name" : "Wash Barrel",
+					"description" : "Only a clean Plate is a good Crockery.",
+					"flavor" : "Look how it shines."
 				}
 			}
 		},
@@ -274,7 +279,11 @@
 			"utensils_ghost" : {
 				"display_name": "Bronze Utensils",
 				"description" : "Useful Utensils for your Workshop."
-			}
+			},
+			"wash_barrel_ghost" : {
+				"display_name": "Wash Barrel",
+        "description" : "Let shine your Crockery."
+      }
     },
 		"plants" : {
 			"planter-box_small_brightbell_ghost" : {
