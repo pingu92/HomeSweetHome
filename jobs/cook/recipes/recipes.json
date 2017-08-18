@@ -25,6 +25,12 @@
          "recipes": {
            "shelf_cook": {
               "recipe": "file(shelf_cook_recipe.json)"
+           },
+           "tavern_table_large": {
+              "recipe": "file(tavern_table_large_recipe.json)"
+           },
+           "tavern_table_small_fiber": {
+              "recipe": "file(tavern_table_small_fiber_recipe.json)"
            }
          }
       },

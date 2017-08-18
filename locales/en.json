@@ -42,6 +42,16 @@
 					"description" : "Decorative Shelf for all your Recipes and Crockeries.",
 					"flavor" : "You have some really beautiful Plates."
 				},
+				"tavern_table_large_recipe" : {
+					"recipe_name" : "Large Tavern Table",
+					"description" : "A table for big reunions.",
+					"flavor" : "This is a massive Table."
+				},
+				"tavern_table_small_fiber_recipe" : {
+					"recipe_name" : "Small Tavern Fiber Table",
+					"description" : "A small table with a fiber Tablecloth.",
+					"flavor" : "Ohh i love this color!."
+				},
 				"utensils_holder_cook_recipe" : {
 					"recipe_name" : "Utensils Holder",
 					"description" : "Finally a good place for your utensils.",
@@ -262,6 +272,14 @@
 			"table_herbalist_ghost" : {
 				"display_name": "Herb Table",
         "description" : "More place to produce healing Items."
+      },
+			"tavern_table_large_ghost" : {
+				"display_name": "Large Tavern Table",
+        "description" : "A table for big reunions."
+      },
+			"tavern_table_small_fiber_ghost" : {
+				"display_name": "Small Tavern Fiber Table",
+        "description" : "A small table with a fiber Tablecloth."
       }
     },
 		"decoration" : {
