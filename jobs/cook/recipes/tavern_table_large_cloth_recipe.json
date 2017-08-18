@@ -5,7 +5,7 @@
 	"description" : "i18n(homesweethome:jobs.cook.recipes.tavern_table_large_cloth_recipe.description)",
 	"flavor" : "i18n(homesweethome:jobs.cook.recipes.tavern_table_large_cloth_recipe.flavor)",
 	"portrait" : "/homesweethome/entities/furniture/tavern_table_large_cloth/tavern_table_large_cloth.png",
-	"level_requirement" : 1,
+	"level_requirement" : 2,
 	"workshop" : "homesweethome:workbench:cook:dishes-cabinet",
 	"manual_unlock": false,
 	"ingredients" : [
@@ -14,7 +14,7 @@
 			"count" : 2
 		},
 		{
-			"uri": "stonehearth:furniture:dining_table",
+			"material": "cloth resource",
 			"count" : 2
 		}
 	],
