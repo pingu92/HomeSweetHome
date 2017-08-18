@@ -4,7 +4,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(tavern_table_small_fiber.qb)",
+					"file(../tavern_table_small/tavern_table_small.qb)",
 					"file(tablecloth_small_fiber.qb)"
 				]
 			}

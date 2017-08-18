@@ -29,8 +29,23 @@
            "tavern_table_large": {
               "recipe": "file(tavern_table_large_recipe.json)"
            },
+           "tavern_table_large_cloth": {
+              "recipe": "file(tavern_table_large_cloth_recipe.json)"
+           },
+           "tavern_table_large_fiber": {
+              "recipe": "file(tavern_table_large_fiber_recipe.json)"
+           },
+           "tavern_table_large_fur": {
+              "recipe": "file(tavern_table_large_fur_recipe.json)"
+           },
+           "tavern_table_small_cloth": {
+              "recipe": "file(tavern_table_small_cloth_recipe.json)"
+           },
            "tavern_table_small_fiber": {
               "recipe": "file(tavern_table_small_fiber_recipe.json)"
+           },
+           "tavern_table_small_fur": {
+              "recipe": "file(tavern_table_small_fur_recipe.json)"
            }
          }
       },

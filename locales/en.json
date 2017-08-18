@@ -47,10 +47,35 @@
 					"description" : "A table for big reunions.",
 					"flavor" : "This is a massive Table."
 				},
+				"tavern_table_large_cloth_recipe" : {
+					"recipe_name" : "Large Tavern Table",
+					"description" : "A large table with a Tablecloth.",
+					"flavor" : "Ohh i love this color!"
+				},
+				"tavern_table_large_fiber_recipe" : {
+					"recipe_name" : "Large Tavern Table",
+					"description" : "A large table with a fiber Tablecloth.",
+					"flavor" : "Ohh i love this color!"
+				},
+				"tavern_table_large_fur_recipe" : {
+					"recipe_name" : "Large Tavern Table",
+					"description" : "A large table with a fur Tablecloth.",
+					"flavor" : "Ohh i love this color!"
+				},
+				"tavern_table_small_cloth_recipe" : {
+					"recipe_name" : "Small Tavern Table",
+					"description" : "A small table with a Tablecloth.",
+					"flavor" : "Ohh i love this color!"
+				},
 				"tavern_table_small_fiber_recipe" : {
-					"recipe_name" : "Small Tavern Fiber Table",
+					"recipe_name" : "Small Tavern Table",
 					"description" : "A small table with a fiber Tablecloth.",
-					"flavor" : "Ohh i love this color!."
+					"flavor" : "Ohh i love this color!"
+				},
+				"tavern_table_small_fur_recipe" : {
+					"recipe_name" : "Small Tavern Table",
+					"description" : "A small table with a fur Tablecloth.",
+					"flavor" : "Ohh i love this color!"
 				},
 				"utensils_holder_cook_recipe" : {
 					"recipe_name" : "Utensils Holder",
@@ -277,10 +302,30 @@
 				"display_name": "Large Tavern Table",
         "description" : "A table for big reunions."
       },
+			"tavern_table_large_cloth_ghost" : {
+				"display_name": "Large Tavern Table",
+				"description" : "A large table with a Tablecloth"
+			},
+			"tavern_table_large_fiber_ghost" : {
+				"display_name": "Large Tavern Table",
+				"description" : "A large table with a fiber Tablecloth"
+			},
+			"tavern_table_large_fur_ghost" : {
+				"display_name": "Large Tavern Table",
+				"description" : "A large table with a fur Tablecloth"
+			},
+			"tavern_table_small_cloth_ghost" : {
+				"display_name": "Small Tavern Table",
+				"description" : "A small table with a Tablecloth."
+			},
 			"tavern_table_small_fiber_ghost" : {
-				"display_name": "Small Tavern Fiber Table",
+				"display_name": "Small Tavern Table",
         "description" : "A small table with a fiber Tablecloth."
-      }
+      },
+			"tavern_table_small_fur_ghost" : {
+				"display_name": "Small Tavern Table",
+				"description" : "A small table with a fur Tablecloth."
+			}
     },
 		"decoration" : {
 			"books_ghost" : {
