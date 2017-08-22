@@ -9,6 +9,9 @@
 		"homesweethome/jobs/carpenter/recipes/shelf_recipe.json":"file(jobs/carpenter/recipes/shelf_recipe.json)",
 		"homesweethome/jobs/carpenter/recipes/table_recipe.json":"file(jobs/carpenter/recipes/table_recipe.json)",
 
+		"homesweethome/jobs/cook/recipes/dishes-cabinet_recipe.json":"file(jobs/cook/recipes/dishes-cabinet_recipe.json)",
+		"homesweethome/jobs/cook/recipes/dishes-cabinet_rayya_recipe.json":"file(jobs/cook/recipes/dishes-cabinet_rayya_recipe.json)",
+
 		"homesweethome/jobs/herbalist/recipes/corbel_herbalist_recipe.json":"file(jobs/herbalist/recipes/corbel_herbalist_recipe.json)",
 		"homesweethome/jobs/herbalist/recipes/corbel_herbalist_rayya_recipe.json":"file(jobs/herbalist/recipes/corbel_herbalist_rayya_recipe.json)",
 		"homesweethome/jobs/herbalist/recipes/shelf_herbalist_library_recipe.json":"file(jobs/herbalist/recipes/shelf_herbalist_library_recipe.json)",

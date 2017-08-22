@@ -4,6 +4,9 @@
          "recipes": {
             "dishes-cabinet": {
                "recipe": "file(dishes-cabinet_recipe.json)"
+            },
+            "dishes-cabinet_rayya": {
+               "recipe": "file(dishes-cabinet_rayya_recipe.json)"
             }
          }
       },
