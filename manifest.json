@@ -45,6 +45,7 @@
     "decoration:herbalist_corbel" : "file(entities/decoration/corbel_herbalist)",
     "decoration:herbalist_corbel_rayya" : "file(entities/decoration/corbel_herbalist_rayya)",
     "decoration:potter_crockery" : "file(entities/decoration/crockery)",
+    "decoration:potter_crockery_rayya" : "file(entities/decoration/crockery_rayya)",
 
     "plants:herbalist_planter-box_small_brightbell" : "file(entities/plants/planter-box_small_brightbell)",
     "plants:herbalist_planter-box_small_frostsnap" : "file(entities/plants/planter-box_small_frostsnap)",

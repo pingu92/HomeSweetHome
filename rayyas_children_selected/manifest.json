@@ -27,6 +27,8 @@
 		"homesweethome/jobs/herbalist/recipes/planter-box_large_rayya_recipe.json":"file(jobs/herbalist/recipes/planter-box_large_rayya_recipe.json)",
 
 		"homesweethome/jobs/potter/recipes/corbel_rayya_recipe.json":"file(jobs/potter/recipes/corbel_rayya_recipe.json)",
+		"homesweethome/jobs/potter/recipes/crockery_recipe.json":"file(jobs/potter/recipes/crockery_recipe.json)",
+		"homesweethome/jobs/potter/recipes/crockery_rayya_recipe.json":"file(jobs/potter/recipes/crockery_rayya_recipe.json)",
 		"homesweethome/jobs/potter/recipes/shelf_rayya_recipe.json":"file(jobs/potter/recipes/shelf_rayya_recipe.json)",
 		"homesweethome/jobs/potter/recipes/table_rayya_recipe.json":"file(jobs/potter/recipes/table_rayya_recipe.json)"
 	}
