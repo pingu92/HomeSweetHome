@@ -11,7 +11,7 @@
       "model_variants": {
   			 "default": {
   					"models": [
-  						"file(../shelf/shelf.qb)",
+  						"file(../shelf_rayya/shelf_rayya.qb)",
   						 {
   								"type": "one_of",
   								"items": [

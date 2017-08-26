@@ -4,7 +4,7 @@
 		"model_variants": {
 			 "default": {
 					"models": [
-						"file(../shelf/shelf.qb)",
+						"file(../shelf_rayya/shelf_rayya.qb)",
 						"file(shelf_cook_rayya1.qb)"
 					]
 			 }
