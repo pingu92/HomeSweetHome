@@ -24,6 +24,7 @@
     "furniture:cook_shelf" : "file(entities/furniture/shelf_cook)",
     "furniture:cook_shelf_rayya" : "file(entities/furniture/shelf_cook_rayya)",
     "furniture:cook_tavern_table_large" : "file(entities/furniture/tavern_table_large)",
+    "furniture:cook_tavern_table_large_rayya" : "file(entities/furniture/tavern_table_large_rayya)",
     "furniture:cook_tavern_table_large_cloth" : "file(entities/furniture/tavern_table_large_cloth)",
     "furniture:cook_tavern_table_large_fiber" : "file(entities/furniture/tavern_table_large_fiber)",
     "furniture:cook_tavern_table_large_fur" : "file(entities/furniture/tavern_table_large_fur)",

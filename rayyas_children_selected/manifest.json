@@ -13,6 +13,8 @@
 		"homesweethome/jobs/cook/recipes/dishes-cabinet_rayya_recipe.json":"file(jobs/cook/recipes/dishes-cabinet_rayya_recipe.json)",
 		"homesweethome/jobs/cook/recipes/shelf_cook_recipe.json":"file(jobs/cook/recipes/shelf_cook_recipe.json)",
 		"homesweethome/jobs/cook/recipes/shelf_cook_rayya_recipe.json":"file(jobs/cook/recipes/shelf_cook_rayya_recipe.json)",
+		"homesweethome/jobs/cook/recipes/tavern_table_large_recipe.json":"file(jobs/cook/recipes/tavern_table_large_recipe.json)",
+		"homesweethome/jobs/cook/recipes/tavern_table_large_rayya_recipe.json":"file(jobs/cook/recipes/tavern_table_large_rayya_recipe.json)",
 
 		"homesweethome/jobs/herbalist/recipes/corbel_herbalist_recipe.json":"file(jobs/herbalist/recipes/corbel_herbalist_recipe.json)",
 		"homesweethome/jobs/herbalist/recipes/corbel_herbalist_rayya_recipe.json":"file(jobs/herbalist/recipes/corbel_herbalist_rayya_recipe.json)",

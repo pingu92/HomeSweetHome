@@ -35,6 +35,9 @@
            "tavern_table_large": {
               "recipe": "file(tavern_table_large_recipe.json)"
            },
+           "tavern_table_large_rayya": {
+              "recipe": "file(tavern_table_large_rayya_recipe.json)"
+           },
            "tavern_table_large_cloth": {
               "recipe": "file(tavern_table_large_cloth_recipe.json)"
            },
