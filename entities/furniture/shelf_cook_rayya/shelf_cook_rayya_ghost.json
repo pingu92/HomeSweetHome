@@ -1,0 +1,28 @@
+{
+	"mixins": "stonehearth:mixins:placed_object",
+	"components": {
+		"model_variants": {
+			 "default": {
+					"models": [
+						"file(../shelf/shelf.qb)",
+						"file(shelf_cook_rayya1.qb)"
+					]
+			 }
+		},
+
+      "mob": {
+         "model_origin": { "x": -0.5, "y": 0, "z": 0.3 },
+         "region_origin": { "x": 0.05, "y": 0, "z": 0.05 }
+			}
+		},
+
+		"entity_data": {
+			"stonehearth:catalog": {
+				"display_name": "i18n(homesweethome:entities.furniture.shelf_cook_ghost.display_name)",
+				"description": "i18n(homesweethome:entities.furniture.shelf_cook_ghost.description)",
+				"icon": "file(shelf_cook_rayya.png)",
+				"category": "furniture",
+				"material_tags": "wood furniture crafted crate stockpile_furniture"
+		}
+	}
+}

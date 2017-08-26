@@ -4,13 +4,13 @@
 	"recipe_name" : "i18n(homesweethome:jobs.cook.recipes.shelf_cook_recipe.recipe_name)",
 	"description" : "i18n(homesweethome:jobs.cook.recipes.shelf_cook_recipe.description)",
 	"flavor" : "i18n(homesweethome:jobs.cook.recipes.shelf_cook_recipe.flavor)",
-	"portrait" : "/homesweethome/entities/furniture/shelf_cook/shelf_cook.png",
+	"portrait" : "/homesweethome/entities/furniture/shelf_cook_rayya/shelf_cook_rayya.png",
 	"level_requirement" : 2,
-	"manual_unlock": false,
-	"workshop" : "homesweethome:workbench:cook:dishes-cabinet",
+	"manual_unlock": true,
+	"workshop" : "homesweethome:workbench:cook:dishes-cabinet_rayya",
 	"ingredients" : [
 		{
-			"uri": "homesweethome:furniture:carpenter_shelf",
+			"uri": "homesweethome:furniture:potter_shelf_rayya",
 			"count": 1
 		},
 		{
@@ -18,13 +18,13 @@
 			"count": 2
 		},
 		{
-			"uri": "homesweethome:decoration:potter_crockery",
+			"uri": "homesweethome:decoration:potter_crockery_rayya",
 		 	"count": 2
 		}
 	],
 	"produces" : [
 		{
-			"item" : "homesweethome:furniture:cook_shelf"
+			"item" : "homesweethome:furniture:cook_shelf_rayya"
 		}
 	]
 }

@@ -29,6 +29,9 @@
            "shelf_cook": {
               "recipe": "file(shelf_cook_recipe.json)"
            },
+           "shelf_cook_rayya": {
+              "recipe": "file(shelf_cook_rayya_recipe.json)"
+           },
            "tavern_table_large": {
               "recipe": "file(tavern_table_large_recipe.json)"
            },
