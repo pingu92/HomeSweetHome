@@ -47,8 +47,14 @@
            "tavern_table_large_fiber": {
               "recipe": "file(tavern_table_large_fiber_recipe.json)"
            },
+           "tavern_table_large_fiber_rayya": {
+              "recipe": "file(tavern_table_large_fiber_rayya_recipe.json)"
+           },
            "tavern_table_large_fur": {
               "recipe": "file(tavern_table_large_fur_recipe.json)"
+           },
+           "tavern_table_large_fur_rayya": {
+              "recipe": "file(tavern_table_large_fur_rayya_recipe.json)"
            },
            "tavern_table_small_cloth": {
               "recipe": "file(tavern_table_small_cloth_recipe.json)"

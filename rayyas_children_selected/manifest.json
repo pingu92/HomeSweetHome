@@ -17,6 +17,10 @@
 		"homesweethome/jobs/cook/recipes/tavern_table_large_rayya_recipe.json":"file(jobs/cook/recipes/tavern_table_large_rayya_recipe.json)",
 		"homesweethome/jobs/cook/recipes/tavern_table_large_cloth_recipe.json":"file(jobs/cook/recipes/tavern_table_large_cloth_recipe.json)",
 		"homesweethome/jobs/cook/recipes/tavern_table_large_cloth_rayya_recipe.json":"file(jobs/cook/recipes/tavern_table_large_cloth_rayya_recipe.json)",
+		"homesweethome/jobs/cook/recipes/tavern_table_large_fiber_recipe.json":"file(jobs/cook/recipes/tavern_table_large_fiber_recipe.json)",
+		"homesweethome/jobs/cook/recipes/tavern_table_large_fiber_rayya_recipe.json":"file(jobs/cook/recipes/tavern_table_large_fiber_rayya_recipe.json)",
+		"homesweethome/jobs/cook/recipes/tavern_table_large_fur_recipe.json":"file(jobs/cook/recipes/tavern_table_large_fur_recipe.json)",
+		"homesweethome/jobs/cook/recipes/tavern_table_large_fur_rayya_recipe.json":"file(jobs/cook/recipes/tavern_table_large_fur_rayya_recipe.json)",
 
 		"homesweethome/jobs/herbalist/recipes/corbel_herbalist_recipe.json":"file(jobs/herbalist/recipes/corbel_herbalist_recipe.json)",
 		"homesweethome/jobs/herbalist/recipes/corbel_herbalist_rayya_recipe.json":"file(jobs/herbalist/recipes/corbel_herbalist_rayya_recipe.json)",

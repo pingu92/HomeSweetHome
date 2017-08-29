@@ -4,7 +4,7 @@
 	"recipe_name" : "i18n(homesweethome:jobs.cook.recipes.tavern_table_large_cloth_recipe.recipe_name)",
 	"description" : "i18n(homesweethome:jobs.cook.recipes.tavern_table_large_cloth_recipe.description)",
 	"flavor" : "i18n(homesweethome:jobs.cook.recipes.tavern_table_large_cloth_recipe.flavor)",
-	"portrait" : "/homesweethome/entities/furniture/tavern_table_large_cloth/tavern_table_large_cloth.png",
+	"portrait" : "/homesweethome/entities/furniture/tavern_table_large_cloth_rayya/tavern_table_large_cloth_rayya.png",
 	"level_requirement" : 2,
 	"workshop" : "homesweethome:workbench:cook:dishes-cabinet",
 	"manual_unlock": true,

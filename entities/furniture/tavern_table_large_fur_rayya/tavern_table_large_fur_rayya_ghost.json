@@ -1,0 +1,26 @@
+{
+	"mixins": "stonehearth:mixins:placed_object",
+	"components": {
+		"model_variants": {
+			"default": {
+				"models": [
+					"file(../tavern_table_large_rayya/tavern_table_large_rayya.qb)",
+					"file(tablecloth_large_fur_rayya.qb)"
+				]
+			}
+		},
+      "mob": {
+         "model_origin": { "x": 0, "y": 0, "z": 0 },
+         "region_origin": { "x": 0.05, "y": 0, "z": 0.05 }
+			}
+		},
+		"entity_data": {
+			"stonehearth:catalog": {
+				"display_name": "i18n(homesweethome:entities.furniture.tavern_table_large_fur_ghost.display_name)",
+				"description": "i18n(homesweethome:entities.furniture.tavern_table_large_fur_ghost.description)",
+				"icon": "file(tavern_table_large_fur_rayya.png)",
+				"category": "furniture",
+				"material_tags": "clay furniture crafted crate furniture"
+		}
+	}
+}
