@@ -4,17 +4,17 @@
 	"recipe_name" : "i18n(homesweethome:jobs.cook.recipes.wash_barrel_recipe.recipe_name)",
 	"description" : "i18n(homesweethome:jobs.cook.recipes.wash_barrel_recipe.description)",
 	"flavor" : "i18n(homesweethome:jobs.cook.recipes.wash_barrel_recipe.flavor)",
-	"portrait" : "/homesweethome/entities/decoration/wash_barrel/wash_barrel.png",
+	"portrait" : "/homesweethome/entities/decoration/wash_barrel_rayya/wash_barrel_rayya.png",
 	"level_requirement" : 2,
-	"manual_unlock": false,
-	"workshop" : "homesweethome:workbench:cook:dishes-cabinet",
+	"manual_unlock": true,
+	"workshop" : "homesweethome:workbench:cook:dishes-cabinet_rayya",
 	"ingredients" : [
 		{
 			"uri": "homesweethome:containers:carpenter_barrel",
 			"count" : 1
 		},
 		{
-			"uri": "homesweethome:decoration:potter_crockery",
+			"uri": "homesweethome:decoration:potter_crockery_rayya",
 			"count" : 2
 		}
 	],

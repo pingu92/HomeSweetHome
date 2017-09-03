@@ -78,6 +78,9 @@
            },
            "wash_barrel": {
               "recipe": "file(wash_barrel_recipe.json)"
+           },
+           "wash_barrel_rayya": {
+              "recipe": "file(wash_barrel_rayya_recipe.json)"
            }
          }
       }
