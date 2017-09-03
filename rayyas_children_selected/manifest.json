@@ -20,6 +20,12 @@
 		"homesweethome/jobs/cook/recipes/tavern_table_large_fiber_rayya_recipe.json":"file(jobs/cook/recipes/tavern_table_large_fiber_rayya_recipe.json)",
 		"homesweethome/jobs/cook/recipes/tavern_table_large_fur_recipe.json":"file(jobs/cook/recipes/tavern_table_large_fur_recipe.json)",
 		"homesweethome/jobs/cook/recipes/tavern_table_large_fur_rayya_recipe.json":"file(jobs/cook/recipes/tavern_table_large_fur_rayya_recipe.json)",
+		"homesweethome/jobs/cook/recipes/tavern_table_small_cloth_recipe.json":"file(jobs/cook/recipes/tavern_table_small_cloth_recipe.json)",
+		"homesweethome/jobs/cook/recipes/tavern_table_small_cloth_rayya_recipe.json":"file(jobs/cook/recipes/tavern_small_large_cloth_rayya_recipe.json)",
+		"homesweethome/jobs/cook/recipes/tavern_table_small_fiber_recipe.json":"file(jobs/cook/recipes/tavern_table_small_fiber_recipe.json)",
+		"homesweethome/jobs/cook/recipes/tavern_table_small_fiber_rayya_recipe.json":"file(jobs/cook/recipes/tavern_table_small_fiber_rayya_recipe.json)",
+		"homesweethome/jobs/cook/recipes/tavern_table_small_fur_recipe.json":"file(jobs/cook/recipes/tavern_table_small_fur_recipe.json)",
+		"homesweethome/jobs/cook/recipes/tavern_table_small_fur_rayya_recipe.json":"file(jobs/cook/recipes/tavern_table_small_fur_rayya_recipe.json)",
 		"homesweethome/jobs/cook/recipes/wash_barrel_recipe.json":"file(jobs/cook/recipes/wash_barrel_recipe.json)",
 		"homesweethome/jobs/cook/recipes/wash_barrel_rayya_recipe.json":"file(jobs/cook/recipes/wash_barrel_rayya_recipe.json)",
 
