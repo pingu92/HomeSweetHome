@@ -20,7 +20,6 @@
     "containers:herbalist_jar_large" : "file(entities/containers/jar_large)",
 
     "furniture:carpenter_pantry" : "file(entities/furniture/pantry)",
-    "furniture:carpenter_pantry_rayya" : "file(entities/furniture/pantry_rayya)",
     "furniture:carpenter_shelf" : "file(entities/furniture/shelf)",
     "furniture:carpenter_table" : "file(entities/furniture/table)",
     "furniture:cook_shelf" : "file(entities/furniture/shelf_cook)",
@@ -43,6 +42,7 @@
     "furniture:herbalist_shelf_library_rayya" : "file(entities/furniture/shelf_herbalist_library_rayya)",
     "furniture:herbalist_table" : "file(entities/furniture/table_herbalist)",
     "furniture:herbalist_table_rayya" : "file(entities/furniture/table_herbalist_rayya)",
+    "furniture:potter_pantry_rayya" : "file(entities/furniture/pantry_rayya)",
     "furniture:potter_shelf_rayya" : "file(entities/furniture/shelf_rayya)",
     "furniture:potter_table_rayya" : "file(entities/furniture/table_rayya)",
 

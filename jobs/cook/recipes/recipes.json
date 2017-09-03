@@ -19,6 +19,9 @@
            },
             "pantry_cook": {
                "recipe": "file(pantry_cook_recipe.json)"
+            },
+            "pantry_cook_rayya": {
+               "recipe": "file(pantry_cook_rayya_recipe.json)"
             }
          }
       },
