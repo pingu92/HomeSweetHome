@@ -206,6 +206,11 @@
 					"description" : "Beautiful porcellan crockery for special Events.",
 					"flavor" : "Lovely Tea Service."
 				},
+				"pantry_rayya_recipe" : {
+					"recipe_name" : "Clay Pantry",
+					"description" : "Decorative empty clay Pantry.",
+					"flavor" : "A lot of new storage possibilities."
+				},
 				"shelf_rayya_recipe" : {
 		      "recipe_name" : "Clay Shelf",
 		      "description" : "Decorative empty clay Shelf.",
@@ -268,6 +273,10 @@
     "furniture" : {
 			"pantry_ghost" : {
 				"display_name": "Wooden Pantry",
+        "description" : "An empty storage for new Items."
+      },
+			"pantry_rayya_ghost" : {
+				"display_name": "Clay Pantry",
         "description" : "An empty storage for new Items."
       },
       "shelf_ghost" : {
