@@ -5,7 +5,7 @@
 			"default": {
 				"models": [
 					"file(../tavern_table_small_rayya/tavern_table_small_rayya.qb)",
-					"file(tablecloth_small_fur.qb)"
+					"file(tablecloth_small_fur_rayya.qb)"
 				]
 			}
 		},
