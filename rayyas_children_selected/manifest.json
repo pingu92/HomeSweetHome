@@ -6,7 +6,7 @@
 	},
 	"mixintos": {
 		"homesweethome/jobs/carpenter/recipes/corbel_recipe.json":"file(jobs/carpenter/recipes/corbel_recipe.json)",
-		"homesweethome/jobs/carpenter/recipes/shelf_recipe.json":"file(jobs/carpenter/recipes/shelf_recipe.json)",
+		"homesweethome/jobs/carpenter/recipes/shelf_carpenter_recipe.json":"file(jobs/carpenter/recipes/shelf_carpenter_recipe.json)",
 
 		"homesweethome/jobs/cook/recipes/dishes-cabinet_recipe.json":"file(jobs/cook/recipes/dishes-cabinet_recipe.json)",
 		"homesweethome/jobs/cook/recipes/dishes-cabinet_rayya_recipe.json":"file(jobs/cook/recipes/dishes-cabinet_rayya_recipe.json)",

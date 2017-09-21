@@ -112,7 +112,7 @@
 					"description" : "Decorative empty wooden Pantry.",
 					"flavor" : "A lot of new storage possibilities."
 				},
-				"shelf_recipe" : {
+				"shelf_carpenter_recipe" : {
 					"recipe_name" : "Wooden Shelf",
 					"description" : "Decorative empty wooden Shelf.",
 					"flavor" : "Great! More place for Items."
@@ -279,7 +279,7 @@
 				"display_name": "Clay Pantry",
         "description" : "An empty storage for new Items."
       },
-      "shelf_ghost" : {
+      "shelf_carpenter_ghost" : {
 				"display_name": "Wooden Shelf",
         "description" : "Maybe someone needs more storage place…"
       },

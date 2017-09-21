@@ -5,7 +5,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(shelf_iconic.qb)"
+					"file(shelf_carpenter_iconic.qb)"
 				]
 			}
 		},
