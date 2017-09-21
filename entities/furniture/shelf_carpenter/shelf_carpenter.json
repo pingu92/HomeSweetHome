@@ -1,6 +1,6 @@
 {
    "type": "entity",
-   "mixins": "file(shelf_ghost.json)",
+   "mixins": "file(shelf_carpenter_ghost.json)",
    "components": {
       "stonehearth:entity_forms": {
          "iconic_form": "file(shelf_carpenter_iconic.json)",

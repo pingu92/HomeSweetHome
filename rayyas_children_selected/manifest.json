@@ -8,6 +8,8 @@
 		"homesweethome/jobs/carpenter/recipes/corbel_recipe.json":"file(jobs/carpenter/recipes/corbel_recipe.json)",
 		"homesweethome/jobs/carpenter/recipes/shelf_carpenter_recipe.json":"file(jobs/carpenter/recipes/shelf_carpenter_recipe.json)",
 
+		"homesweethome/jobs/cook/recipes/barrels_berrie_recipe.json":"file(jobs/cook/recipes/barrels_berrie_recipe.json)",
+		"homesweethome/jobs/cook/recipes/corbel_cook_recipe.json":"file(jobs/cook/recipes/corbel_cook_recipe.json)",
 		"homesweethome/jobs/cook/recipes/dishes-cabinet_recipe.json":"file(jobs/cook/recipes/dishes-cabinet_recipe.json)",
 		"homesweethome/jobs/cook/recipes/dishes-cabinet_rayya_recipe.json":"file(jobs/cook/recipes/dishes-cabinet_rayya_recipe.json)",
 		"homesweethome/jobs/cook/recipes/pantry_cook_recipe.json":"file(jobs/cook/recipes/pantry_cook_recipe.json)",
@@ -28,6 +30,7 @@
 		"homesweethome/jobs/cook/recipes/tavern_table_small_fiber_rayya_recipe.json":"file(jobs/cook/recipes/tavern_table_small_fiber_rayya_recipe.json)",
 		"homesweethome/jobs/cook/recipes/tavern_table_small_fur_recipe.json":"file(jobs/cook/recipes/tavern_table_small_fur_recipe.json)",
 		"homesweethome/jobs/cook/recipes/tavern_table_small_fur_rayya_recipe.json":"file(jobs/cook/recipes/tavern_table_small_fur_rayya_recipe.json)",
+		"homesweethome/jobs/cook/recipes/utensils_holder_cook_recipe.json":"file(jobs/cook/recipes/utensils_holder_cook_recipe.json)",
 		"homesweethome/jobs/cook/recipes/wash_barrel_recipe.json":"file(jobs/cook/recipes/wash_barrel_recipe.json)",
 		"homesweethome/jobs/cook/recipes/wash_barrel_rayya_recipe.json":"file(jobs/cook/recipes/wash_barrel_rayya_recipe.json)",
 
