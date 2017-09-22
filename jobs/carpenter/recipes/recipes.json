@@ -16,14 +16,14 @@
 
      "furniture": {
        "recipes" : {
-         "shelf" : {
+         "carpenter_shelf" : {
             "recipe" : "file(shelf_carpenter_recipe.json)"
          },
-         "pantry" : {
-            "recipe" : "file(pantry_recipe.json)"
+         "carpenter_pantry" : {
+            "recipe" : "file(pantry_carpenter_recipe.json)"
          },
-         "table" : {
-            "recipe" : "file(table_recipe.json)"
+         "carpenter_table" : {
+            "recipe" : "file(table_carpenter_recipe.json)"
          }
        }
      }
