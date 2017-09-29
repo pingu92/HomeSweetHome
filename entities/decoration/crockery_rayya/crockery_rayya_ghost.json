@@ -19,7 +19,7 @@
 				"description": "i18n(homesweethome:entities.decoration.crockery_ghost.description)",
 				"icon": "file(crockery_rayya.png)",
 				"category": "decoration",
-				"material_tags": "clay decoration crafted"
+				"material_tags": "clay decoration stockpile_decoration crafted"
 		}
 	}
 }

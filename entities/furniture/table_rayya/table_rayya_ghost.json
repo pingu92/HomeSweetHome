@@ -19,7 +19,7 @@
 				"description": "i18n(homesweethome:entities.furniture.table_rayya_ghost.description)",
 				"icon": "file(table_rayya.png)",
 				"category": "furniture",
-				"material_tags": "clay furniture crafted crate furniture"
+				"material_tags": "clay furniture crafted crate stockpile_furniture"
 		}
 	}
 }

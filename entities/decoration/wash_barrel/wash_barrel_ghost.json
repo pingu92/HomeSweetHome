@@ -19,7 +19,7 @@
 				"description": "i18n(homesweethome:entities.decoration.wash_barrel_ghost.description)",
 				"icon": "file(wash_barrel.png)",
 				"category": "decoration",
-				"material_tags": "wood decoration crafted"
+				"material_tags": "wood decoration stockpile_decoration crafted"
 		}
 	}
 }

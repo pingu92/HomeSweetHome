@@ -20,7 +20,7 @@
 				"description": "i18n(homesweethome:entities.furniture.table_herbalist_ghost.description)",
 				"icon": "file(table_herbalist_rayya.png)",
 				"category": "furniture",
-				"material_tags": "wood furniture crafted crate furniture"
+				"material_tags": "wood furniture crafted crate stockpile_furniture"
 		}
 	}
 }

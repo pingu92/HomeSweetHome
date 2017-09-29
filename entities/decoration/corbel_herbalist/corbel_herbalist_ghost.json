@@ -21,7 +21,7 @@
          "description": "i18n(homesweethome:entities.decoration.corbel_herbalist_ghost.description)",
          "icon": "file(corbel_herbalist.png)",
          "category": "decoration",
-         "material_tags": "wood decorations crafted herb"
+         "material_tags": "wood decoration stockpile_decoration crafted herb"
       }
    }
 }

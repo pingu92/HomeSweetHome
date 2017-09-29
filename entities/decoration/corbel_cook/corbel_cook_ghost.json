@@ -20,7 +20,7 @@
          "description": "i18n(homesweethome:entities.decoration.corbel_cook_ghost.description)",
          "icon": "file(corbel_cook.png)",
          "category": "decoration",
-         "material_tags": "wood decorations crafted herb"
+         "material_tags": "wood decoration stockpile_decoration crafted herb"
       }
    }
 }

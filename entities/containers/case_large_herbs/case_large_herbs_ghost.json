@@ -24,7 +24,7 @@
 				"description": "i18n(homesweethome:entities.storage.case_large_herbs_ghost.description)",
 				"icon": "file(case_large_herbs.png)",
 				"category": "storage",
-				"material_tags": "wood furniture crafted crate stockpile_furniture"
+				"material_tags": "wood storage crafted crate stockpile_storage"
 		}
 	}
 }

@@ -19,7 +19,7 @@
 				"description": "i18n(homesweethome:entities.furniture.table_ghost.description)",
 				"icon": "file(table.png)",
 				"category": "furniture",
-				"material_tags": "wood furniture crafted crate furniture"
+				"material_tags": "wood furniture crafted crate stockpile_furniture"
 		}
 	}
 }

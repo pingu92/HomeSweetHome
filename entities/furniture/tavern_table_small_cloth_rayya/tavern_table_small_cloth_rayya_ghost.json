@@ -20,7 +20,7 @@
 				"description": "i18n(homesweethome:entities.furniture.tavern_table_small_cloth_ghost.description)",
 				"icon": "file(tavern_table_small_cloth_rayya.png)",
 				"category": "furniture",
-				"material_tags": "clay furniture crafted crate furniture"
+				"material_tags": "clay furniture crafted crate stockpile_furniture"
 		}
 	}
 }

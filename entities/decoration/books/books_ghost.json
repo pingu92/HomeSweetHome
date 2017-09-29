@@ -19,7 +19,7 @@
 				"description": "i18n(homesweethome:entities.decoration.books_ghost.description)",
 				"icon": "file(books.png)",
 				"category": "decoration",
-				"material_tags": "fiber decoration crafted"
+				"material_tags": "fiber decoration stockpile_decoration crafted"
 		}
 	}
 }
