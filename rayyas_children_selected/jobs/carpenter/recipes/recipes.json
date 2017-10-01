@@ -142,12 +142,6 @@
          "ordinal": 6,
          "name": "i18n(stonehearth:jobs.carpenter.recipes.furniture_name)",
          "recipes": {
-           "carpenter_shelf" : {
-              "recipe" : "file(shelf_carpenter_recipe.json)"
-           },
-           "carpenter_pantry" : {
-              "recipe" : "file(pantry_carpenter_recipe.json)"
-           },
            "carpenter_table" : {
               "recipe" : "file(table_carpenter_recipe.json)"
            },

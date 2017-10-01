@@ -1,3 +1,25 @@
 {
-	"manual_unlock": false
+	"type" : "recipe",
+	"work_units" : 3,
+	"recipe_name" : "i18n(homesweethome:jobs.cook.recipes.tavern_table_small_cloth_recipe.recipe_name)",
+	"description" : "i18n(homesweethome:jobs.cook.recipes.tavern_table_small_cloth_recipe.description)",
+	"flavor" : "i18n(homesweethome:jobs.cook.recipes.tavern_table_small_cloth_recipe.flavor)",
+	"portrait" : "/homesweethome/entities/furniture/tavern_table_small_cloth_rayya/tavern_table_small_cloth_rayya.png",
+	"level_requirement" : 1,
+	"workshop" : "homesweethome:workbench:cook:dishes-cabinet_rayya",
+	"ingredients" : [
+		{
+			"uri": "stonehearth:furniture:clay_dining_table",
+			"count" : 1
+		},
+		{
+			 "material": "cloth resource",
+			 "count": 1
+		}
+	],
+	"produces" : [
+		{
+			"item" : "homesweethome:furniture:cook_tavern_table_small_cloth_rayya"
+		}
+	]
 }

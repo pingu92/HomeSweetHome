@@ -5,7 +5,7 @@
          "name": "i18n(stonehearth:jobs.herbalist.recipes.workbenches_name)",
          "recipes": {
            "gardener_bench":{
-             "recipe":"file(gardener-bench_recipe.json)"
+             "recipe":"file(/homesweethome/jobs/herbalist/recipes/gardener-bench_recipe.json)"
            },
             "herbalist_workbench": {
                "recipe": "file(herbalist_workbench_recipe.json)"
@@ -76,11 +76,11 @@
          "ordinal": 6,
          "name": "i18n(stonehearth:jobs.carpenter.recipes.furniture_name)",
          "recipes" : {
-            "herbalist_shelf_library" : {
-               "recipe" : "file(shelf_herbalist_library_recipe.json)"
+            "herbalist_shelf_library_rayya" : {
+               "recipe" : "file(shelf_herbalist_library_rayya_recipe.json)"
             },
-            "herbalist_table" : {
-               "recipe" : "file(table_herbalist_recipe.json)"
+            "herbalist_table_rayya" : {
+               "recipe" : "file(table_herbalist_rayya_recipe.json)"
             }
          }
       },
@@ -91,8 +91,8 @@
            "books_herbalist" : {
               "recipe" : "file(books_recipe.json)"
            },
-            "corbel_herbalist" : {
-               "recipe" : "file(corbel_herbalist_recipe.json)"
+            "corbel_herbalist_rayya" : {
+               "recipe" : "file(corbel_herbalist_rayya_recipe.json)"
             },
             "wooden_sign_herbalist": {
                "recipe": "file(wooden_sign_herbalist_recipe.json)"
@@ -103,14 +103,11 @@
         "ordinal": 8,
         "name": "i18n(homesweethome:jobs.herbalist.recipes.plants_name)",
         "recipes" : {
-          "herbalist_planter-box_small_brightbell" : {
-             "recipe" : "file(planter-box_small_brightbell_recipe.json)"
+          "herbalist_planter-box_small_cactus_rayya" : {
+             "recipe" : "file(planter-box_small_cactus_rayya_recipe.json)"
           },
-          "herbalist_planter-box_small_frostsnap" : {
-             "recipe" : "file(planter-box_small_frostsnap_recipe.json)"
-          },
-          "herbalist_planter-box_large" : {
-             "recipe" : "file(planter-box_large_recipe.json)"
+          "herbalist_planter-box_large_rayya" : {
+             "recipe" : "file(planter-box_large_rayya_recipe.json)"
           }
         }
       }

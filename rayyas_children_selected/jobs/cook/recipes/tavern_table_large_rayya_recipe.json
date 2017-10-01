@@ -1,3 +1,21 @@
 {
-	"manual_unlock": false
+	"type" : "recipe",
+	"work_units" : 5,
+	"recipe_name" : "i18n(homesweethome:jobs.cook.recipes.tavern_table_large_recipe.recipe_name)",
+	"description" : "i18n(homesweethome:jobs.cook.recipes.tavern_table_large_recipe.description)",
+	"flavor" : "i18n(homesweethome:jobs.cook.recipes.tavern_table_large_recipe.flavor)",
+	"portrait" : "/homesweethome/entities/furniture/tavern_table_large_rayya/tavern_table_large_rayya.png",
+	"level_requirement" : 2,
+	"workshop" : "homesweethome:workbench:cook:dishes-cabinet_rayya",
+	"ingredients" : [
+		{
+			"uri": "stonehearth:furniture:clay_dining_table",
+			"count" : 2
+		}
+	],
+	"produces" : [
+		{
+			"item" : "homesweethome:furniture:cook_tavern_table_large_rayya"
+		}
+	]
 }

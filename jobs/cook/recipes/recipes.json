@@ -1,12 +1,83 @@
 {
    "craftable_recipes": {
       "workbenches": {
+         "ordinal": 1,
+         "name": "i18n(stonehearth:jobs.cook.recipes.workbenches_name)",
          "recipes": {
-            "dishes-cabinet": {
-               "recipe": "file(dishes-cabinet_recipe.json)"
+           "dishes-cabinet": {
+              "recipe": "file(dishes-cabinet_recipe.json)"
+           },
+            "cook_workbench": {
+               "recipe": "file(cook_workbench_recipe.json)"
             },
-            "dishes-cabinet_rayya": {
-               "recipe": "file(dishes-cabinet_rayya_recipe.json)"
+            "cook_mill": {
+               "recipe": "file(cook_mill_recipe.json)"
+            },
+            "cook_oven": {
+               "recipe": "file(cook_oven_recipe.json)"
+            }
+         }
+      },
+      "ingredients": {
+         "ordinal": 2,
+         "name": "i18n(stonehearth:jobs.cook.recipes.ingredients_name)",
+         "recipes": {
+            "flour": {
+               "recipe": "file(flour_recipe.json)"
+            },
+            "corn_meal": {
+               "recipe": "file(corn_meal_recipe.json)"
+            }
+         }
+      },
+      "food": {
+         "ordinal": 2,
+         "name": "i18n(stonehearth:jobs.cook.recipes.food_name)",
+         "recipes": {
+            "veggie_stew": {
+               "recipe": "file(veggie_stew_recipe.json)"
+            },
+            "meat_stew": {
+               "recipe": "file(meat_stew_recipe.json)"
+            },
+            "peasant_bread": {
+               "recipe": "file(peasant_bread_recipe.json)"
+            },
+            "corn_bread": {
+               "recipe": "file(corn_bread_recipe.json)"
+            },
+            "poyo_pot_pie": {
+               "recipe": "file(poyo_pot_pie_recipe.json)"
+            },
+            "omelette": {
+               "recipe": "file(omelette_recipe.json)"
+            },
+            "roast_poyo": {
+               "recipe": "file(roast_poyo_recipe.json)"
+            },
+            "fried_eggs": {
+               "recipe": "file(fried_eggs_recipe.json)"
+            },
+            "roast_mutton": {
+               "recipe": "file(roast_mutton_recipe.json)"
+            },
+            "donation_box": {
+               "recipe": "file(donation_box_recipe.json)"
+            }
+         }
+      },
+      "animal_feed": {
+         "ordinal": 3,
+         "name": "i18n(stonehearth:jobs.cook.recipes.animal_feed_name)",
+         "recipes": {
+            "sheep_feed": {
+               "recipe": "file(sheep_feed_recipe.json)"
+            },
+            "poyo_feed": {
+               "recipe": "file(poyo_feed_recipe.json)"
+            },
+            "rabbit_feed": {
+               "recipe": "file(rabbit_feed_recipe.json)"
             }
          }
       },
@@ -19,9 +90,6 @@
            },
             "pantry_cook": {
                "recipe": "file(pantry_cook_recipe.json)"
-            },
-            "pantry_cook_rayya": {
-               "recipe": "file(pantry_cook_rayya_recipe.json)"
             }
          }
       },
@@ -32,55 +100,32 @@
            "shelf_cook": {
               "recipe": "file(shelf_cook_recipe.json)"
            },
-           "shelf_cook_rayya": {
-              "recipe": "file(shelf_cook_rayya_recipe.json)"
-           },
            "tavern_table_large": {
               "recipe": "file(tavern_table_large_recipe.json)"
-           },
-           "tavern_table_large_rayya": {
-              "recipe": "file(tavern_table_large_rayya_recipe.json)"
            },
            "tavern_table_large_cloth": {
               "recipe": "file(tavern_table_large_cloth_recipe.json)"
            },
-           "tavern_table_large_cloth_rayya": {
-              "recipe": "file(tavern_table_large_cloth_rayya_recipe.json)"
-           },
            "tavern_table_large_fiber": {
               "recipe": "file(tavern_table_large_fiber_recipe.json)"
-           },
-           "tavern_table_large_fiber_rayya": {
-              "recipe": "file(tavern_table_large_fiber_rayya_recipe.json)"
            },
            "tavern_table_large_fur": {
               "recipe": "file(tavern_table_large_fur_recipe.json)"
            },
-           "tavern_table_large_fur_rayya": {
-              "recipe": "file(tavern_table_large_fur_rayya_recipe.json)"
-           },
            "tavern_table_small_cloth": {
               "recipe": "file(tavern_table_small_cloth_recipe.json)"
-           },
-           "tavern_table_small_cloth_rayya": {
-              "recipe": "file(tavern_table_small_cloth_rayya_recipe.json)"
            },
            "tavern_table_small_fiber": {
               "recipe": "file(tavern_table_small_fiber_recipe.json)"
            },
-           "tavern_table_small_fiber_rayya": {
-              "recipe": "file(tavern_table_small_fiber_rayya_recipe.json)"
-           },
            "tavern_table_small_fur": {
               "recipe": "file(tavern_table_small_fur_recipe.json)"
-           },
-           "tavern_table_small_fur_rayya": {
-              "recipe": "file(tavern_table_small_fur_rayya_recipe.json)"
            }
          }
       },
       "decoration": {
          "ordinal": 6,
+         "name": "i18n(stonehearth:jobs.cook.recipes.decoration_name)",
          "recipes": {
            "corbel_cook": {
               "recipe": "file(corbel_cook_recipe.json)"
@@ -91,9 +136,12 @@
            "wash_barrel": {
               "recipe": "file(wash_barrel_recipe.json)"
            },
-           "wash_barrel_rayya": {
-              "recipe": "file(wash_barrel_rayya_recipe.json)"
-           }
+            "wooden_sign_cook": {
+               "recipe": "file(wooden_sign_cook_recipe.json)"
+            },
+            "wheat_pile": {
+               "recipe": "file(wheat_pile_recipe.json)"
+            }
          }
       }
    }
