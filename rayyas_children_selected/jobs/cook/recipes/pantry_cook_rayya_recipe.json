@@ -7,6 +7,7 @@
 	"portrait" : "/homesweethome/entities/containers/pantry_cook_rayya/pantry_cook_rayya.png",
 	"level_requirement" : 1,
 	"workshop" : "homesweethome:workbench:cook:dishes-cabinet_rayya",
+	"manual_unlock": true,
 	"ingredients" : [
 		{
 			"uri": "homesweethome:furniture:potter_pantry_rayya",

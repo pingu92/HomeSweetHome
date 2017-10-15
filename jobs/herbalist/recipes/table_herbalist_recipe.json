@@ -7,7 +7,7 @@
 	"portrait" : "/homesweethome/entities/furniture/table_herbalist/table_herbalist.png",
 	"level_requirement" : 1,
 	"workshop" : "stonehearth:herbalist:workbench",
-	"manual_unlock": false,
+	"manual_unlock": true,
 	"ingredients" : [
 		{
 			"uri" : "homesweethome:furniture:carpenter_table",

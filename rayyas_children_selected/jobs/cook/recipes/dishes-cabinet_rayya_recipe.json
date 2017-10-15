@@ -6,6 +6,7 @@
    "flavor": "i18n(homesweethome:jobs.cook.recipes.dishes-cabinet_recipe.flavor)",
    "portrait": "/homesweethome/jobs/cook/dishes-cabinet_rayya/dishes-cabinet_rayya.png",
    "level_requirement" : 1,
+   "manual_unlock": true,
    "work_effect": "work",
    "ingredients": [
       {

@@ -6,7 +6,7 @@
 	"flavor" : "i18n(homesweethome:jobs.cook.recipes.wash_barrel_recipe.flavor)",
 	"portrait" : "/homesweethome/entities/decoration/wash_barrel/wash_barrel.png",
 	"level_requirement" : 2,
-	"manual_unlock": false,
+	"manual_unlock": true,
 	"workshop" : "homesweethome:workbench:cook:dishes-cabinet",
 	"ingredients" : [
 		{

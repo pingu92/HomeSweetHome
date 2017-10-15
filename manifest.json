@@ -64,19 +64,23 @@
 
     "workbench:cook:dishes-cabinet" : "file(jobs/cook/dishes-cabinet)",
     "workbench:cook:dishes-cabinet_rayya" : "file(rayyas_children_selected/jobs/cook/dishes-cabinet_rayya)",
-    "workbench:herbalist:gardener-bench" : "file(jobs/herbalist/gardener-bench)"
+    "workbench:herbalist:gardener-bench" : "file(jobs/herbalist/gardener-bench)",
+
+    "data:gm_index": "file(data/gm/gm_index.json)"
   },
 
-  "overrides" : {
+  "mixintos" : {
+    "stonehearth:data:gm_index": "homesweethome:data:gm_index",
+
     "/stonehearth/jobs/blacksmith/recipes/recipes.json" : "file(jobs/blacksmith/recipes/recipes.json)",
     "/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(jobs/carpenter/recipes/recipes.json)",
-    "/rayyas_children/jobs/carpenter/recipes/recipes.json" : "file(rayyas_children_selected/jobs/carpenter/recipes/recipes.json)",
     "/stonehearth/jobs/cook/recipes/recipes.json" : "file(jobs/cook/recipes/recipes.json)",
-    "/rayyas_children/jobs/cook/recipes/recipes.json" : "file(rayyas_children_selected/jobs/cook/recipes/recipes.json)",
     "/stonehearth/jobs/herbalist/recipes/recipes.json" : "file(jobs/herbalist/recipes/recipes.json)",
-    "/rayyas_children/jobs/herbalist/recipes/recipes.json" : "file(rayyas_children_selected/jobs/herbalist/recipes/recipes.json)",
-    "/stonehearth/jobs/potter/recipes/recipes.json" : "file(jobs/potter/recipes/recipes.json)",
-    "/rayyas_children/jobs/potter/recipes/recipes.json" : "file((rayyas_children_selectedjobs/potter/recipes/recipes.json)"
+    "/stonehearth/jobs/potter/recipes/recipes.json" : "file(jobs/potter/recipes/recipes.json)"
+  },
+
+  "controllers" : {
+     "game_master:encounters:unlock_kingdom_recipe": "file(services/server/game_master/controllers/encounters/unlock_kingdom_recipe_encounter.lua)"
   }
 
 }

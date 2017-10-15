@@ -1,0 +1,15 @@
+{
+   "type": "encounter",
+   "mod_root": "homesweethome",
+   "encounter_type": "unlock_kingdom_recipe",
+   "in_edge":        "unlock_carpenter",
+   "out_edge": "",
+   "unlock_kingdom_recipe_info": {
+      "job": "stonehearth:jobs:carpenter",
+      "recipe_keys": [
+	     "containers:carpenter_barrel",
+       "containers:carpenter_case_small",
+       "containers:carpenter_case_large"
+	   ]
+   }
+}

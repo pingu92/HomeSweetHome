@@ -1,83 +1,9 @@
 {
    "craftable_recipes": {
       "workbenches": {
-         "ordinal": 1,
-         "name": "i18n(stonehearth:jobs.cook.recipes.workbenches_name)",
          "recipes": {
-           "dishes-cabinet": {
-              "recipe": "file(dishes-cabinet_recipe.json)"
-           },
-            "cook_workbench": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/cook_workbench_recipe.json)"
-            },
-            "cook_mill": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/cook_mill_recipe.json)"
-            },
-            "cook_oven": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/cook_oven_recipe.json)"
-            }
-         }
-      },
-      "ingredients": {
-         "ordinal": 2,
-         "name": "i18n(stonehearth:jobs.cook.recipes.ingredients_name)",
-         "recipes": {
-            "flour": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/flour_recipe.json)"
-            },
-            "corn_meal": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/corn_meal_recipe.json)"
-            }
-         }
-      },
-      "food": {
-         "ordinal": 2,
-         "name": "i18n(stonehearth:jobs.cook.recipes.food_name)",
-         "recipes": {
-            "veggie_stew": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/veggie_stew_recipe.json)"
-            },
-            "meat_stew": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/meat_stew_recipe.json)"
-            },
-            "peasant_bread": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/peasant_bread_recipe.json)"
-            },
-            "corn_bread": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/corn_bread_recipe.json)"
-            },
-            "poyo_pot_pie": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/poyo_pot_pie_recipe.json)"
-            },
-            "omelette": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/omelette_recipe.json)"
-            },
-            "roast_poyo": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/roast_poyo_recipe.json)"
-            },
-            "fried_eggs": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/fried_eggs_recipe.json)"
-            },
-            "roast_mutton": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/roast_mutton_recipe.json)"
-            },
-            "donation_box": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/donation_box_recipe.json)"
-            }
-         }
-      },
-      "animal_feed": {
-         "ordinal": 3,
-         "name": "i18n(stonehearth:jobs.cook.recipes.animal_feed_name)",
-         "recipes": {
-            "sheep_feed": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/sheep_feed_recipe.json)"
-            },
-            "poyo_feed": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/poyo_feed_recipe.json)"
-            },
-            "rabbit_feed": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/rabbit_feed_recipe.json)"
+            "dishes-cabinet": {
+               "recipe": "file(dishes-cabinet_recipe.json)"
             }
          }
       },
@@ -125,7 +51,6 @@
       },
       "decoration": {
          "ordinal": 6,
-         "name": "i18n(stonehearth:jobs.cook.recipes.decoration_name)",
          "recipes": {
            "corbel_cook": {
               "recipe": "file(corbel_cook_recipe.json)"
@@ -135,13 +60,7 @@
            },
            "wash_barrel": {
               "recipe": "file(wash_barrel_recipe.json)"
-           },
-            "wooden_sign_cook": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/wooden_sign_cook_recipe.json)"
-            },
-            "wheat_pile": {
-               "recipe": "file(stonehearth/jobs/cook/recipes/wheat_pile_recipe.json)"
-            }
+           }
          }
       }
    }

@@ -7,7 +7,7 @@
 	"portrait" : "/homesweethome/entities/plants/planter-box_large/planter-box_large.png",
 	"level_requirement" : 3,
 	"workshop" : "homesweethome:workbench:herbalist:gardener-bench",
-	"manual_unlock": false,
+	"manual_unlock": true,
 	"ingredients" : [
 		{
       "material": "wood resource",

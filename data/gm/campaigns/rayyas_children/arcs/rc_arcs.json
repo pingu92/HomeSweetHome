@@ -1,0 +1,12 @@
+{
+   "type": "arc",
+   "rarity": "common",
+   "encounters": {
+     "unlock_recipes": "file(encounters/unlock_recipes.json)",
+     "unlock_blacksmith_rayya": "file(encounters/unlock_blacksmith_rayya.json)",
+     "unlock_carpenter_rayya": "file(encounters/unlock_carpenter_rayya.json)",
+     "unlock_cook_rayya": "file(encounters/unlock_cook_rayya.json)",
+     "unlock_herbalist_rayya": "file(encounters/unlock_herbalist_rayya.json)",
+     "unlock_potter_rayya": "file(encounters/unlock_potter_rayya.json)"
+   }
+}

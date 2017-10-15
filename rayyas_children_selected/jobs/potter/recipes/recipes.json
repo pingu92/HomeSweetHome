@@ -1,151 +1,22 @@
 {
-   "craftable_recipes": {
-      "workbenches": {
-         "ordinal": 1,
-         "name": "i18n(stonehearth:jobs.potter.recipes.workbench_name)",
-         "recipes": {
-            "potter_workbench": {
-               "recipe": "file(potter_workbench_recipe.json)"
-            },
-            "potter_kiln": {
-               "recipe": "file(potter_kiln_recipe.json)"
-            }
+   "craftable_recipes" : {
+     "furniture": {
+       "recipes" : {
+         "shelf_rayya" : {
+            "recipe" : "file(shelf_rayya_recipe.json)"
+         },
+         "table_rayya" : {
+            "recipe" : "file(table_rayya_recipe.json)"
+         },
+         "crockery": {
+         "crockery_rayya": {
+            "recipe": "file(crockery_rayya_recipe.json)"
+         },
+         "pantry_rayya": {
+            "recipe": "file(pantry_rayya_recipe.json)"
          }
-      },
-      "storage": {
-         "ordinal": 3,
-         "name": "i18n(stonehearth:jobs.potter.recipes.storage_name)",
-         "recipes": {
-            "small_crate": {
-               "recipe": "file(small_urn_recipe.json)"
-            },
-            "large_crate": {
-               "recipe": "file(large_urn_recipe.json)"
-            },
-            "clay_pile": {
-               "recipe": "file(clay_pile_recipe.json)"
-            }
-         }
-      },
-      "utility": {
-         "ordinal": 4,
-         "name": "i18n(stonehearth:jobs.potter.recipes.utility_name)",
-         "recipes": {
-            "safety_standard": {
-               "recipe": "file(clay_safety_standard_recipe.json)"
-            },
-            "clay_market_stall": {
-               "recipe": "file(clay_market_stall_recipe.json)"
-            }
-         }
-      },
-      "building_parts": {
-         "ordinal": 5,
-         "name": "i18n(stonehearth:jobs.potter.recipes.building_parts_name)",
-         "recipes": {
-            "clay_bricks": {
-               "recipe": "file(clay_bricks_recipe.json)"
-            },
-            "red_clay_door": {
-               "recipe": "file(red_clay_door_recipe.json)"
-            },
-            "red_clay_window_frame": {
-               "recipe": "file(red_clay_window_frame_recipe.json)"
-            },
-            "green_clay_door": {
-               "recipe": "file(green_clay_door_recipe.json)"
-            },
-            "blue_clay_door": {
-               "recipe": "file(blue_clay_door_recipe.json)"
-            },
-            "blue_clay_window_frame": {
-               "recipe": "file(blue_clay_window_frame_recipe.json)"
-            },
-            "green_clay_window_frame": {
-               "recipe": "file(green_clay_window_frame_recipe.json)"
-            },
-            "latticed_clay_window_frame": {
-               "recipe": "file(latticed_clay_window_frame_recipe.json)"
-            },
-            "clay_lamp": {
-               "recipe": "file(clay_lamp_recipe.json)"
-            },
-            "clay_wall_lamp": {
-               "recipe": "file(clay_wall_lamp_recipe.json)"
-            },
-            "golden_clay_wall_planter": {
-               "recipe": "file(golden_clay_wall_planter_recipe.json)"
-            },
-            "clay_tunnel_door": {
-               "recipe": "file(clay_tunnel_door_recipe.json)"
-            },
-            "wooden_sign_potter": {
-               "recipe": "file(wooden_sign_potter_recipe.json)"
-            },
-            "tall_clay_window": {
-               "recipe": "file(tall_clay_window_recipe.json)"
-            },
-            "tan_latticed_window": {
-               "recipe": "file(tan_latticed_window_recipe.json)"
-            },
-            "tan_clay_window_frame": {
-               "recipe": "file(tan_clay_window_frame_recipe.json)"
-            },
-            "green_latticed_window": {
-               "recipe": "file(green_latticed_window_recipe.json)"
-            },
-            "blue_latticed_window": {
-               "recipe": "file(blue_latticed_window_recipe.json)"
-            }
-         }
-      },
-      "furniture": {
-         "ordinal": 6,
-         "name": "i18n(stonehearth:jobs.potter.recipes.furniture_name)",
-         "recipes": {
-           "shelf_rayya" : {
-              "recipe" : "file(shelf_rayya_recipe.json)"
-           },
-           "table_rayya" : {
-              "recipe" : "file(table_rayya_recipe.json)"
-           },
-           "crockery_rayya": {
-              "recipe": "file(crockery_rayya_recipe.json)"
-           },
-            "clay_bed": {
-               "recipe": "file(clay_bed_recipe.json)"
-            },
-            "clay_dining_table": {
-               "recipe": "file(clay_dining_table_recipe.json)"
-            },
-            "simple_clay_chair": {
-               "recipe": "file(simple_clay_chair_recipe.json)"
-            },
-            "garden_gnome": {
-               "recipe": "file(garden_gnome_recipe.json)"
-            },
-            "decorative_tray": {
-               "recipe": "file(decorative_tray_recipe.json)"
-            },
-            "potted_cactus": {
-               "recipe": "file(potted_cactus_recipe.json)"
-            },
-            "tile_wall_mosaic": {
-               "recipe": "file(tile_wall_mosaic_recipe.json)"
-            },
-            "tile_floor_mosaic": {
-               "recipe": "file(tile_floor_mosaic_recipe.json)"
-            },
-            "decorative_vase": {
-               "recipe": "file(decorative_vase_recipe.json)"
-            },
-            "blown_glass_vase": {
-               "recipe": "file(blown_glass_vase_recipe.json)"
-            },
-            "unfired_clay_vase": {
-               "recipe": "file(unfired_clay_vase_recipe.json)"
-            }
-         }
-      }
+       }
+     }
    }
+ }
 }

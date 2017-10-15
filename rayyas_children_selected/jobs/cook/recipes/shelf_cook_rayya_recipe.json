@@ -6,6 +6,7 @@
 	"flavor" : "i18n(homesweethome:jobs.cook.recipes.shelf_cook_recipe.flavor)",
 	"portrait" : "/homesweethome/entities/furniture/shelf_cook_rayya/shelf_cook_rayya.png",
 	"level_requirement" : 2,
+	"manual_unlock": true,
 	"workshop" : "homesweethome:workbench:cook:dishes-cabinet_rayya",
 	"ingredients" : [
 		{

@@ -1,0 +1,12 @@
+{
+   "type": "arc",
+   "rarity": "common",
+   "encounters": {
+     "unlock_recipes":   "file(encounters/unlock_recipes.json)",
+     "unlock_blacksmith": "file(encounters/unlock_blacksmith.json)",
+     "unlock_carpenter": "file(encounters/unlock_carpenter.json)",
+     "unlock_cook": "file(encounters/unlock_cook.json)",
+     "unlock_herbalist": "file(encounters/unlock_herbalist.json)",
+     "unlock_potter": "file(encounters/unlock_potter.json)"
+   }
+}

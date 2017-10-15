@@ -6,7 +6,7 @@
 	"flavor" : "i18n(homesweethome:jobs.cook.recipes.shelf_cook_recipe.flavor)",
 	"portrait" : "/homesweethome/entities/furniture/shelf_cook/shelf_cook.png",
 	"level_requirement" : 2,
-	"manual_unlock": false,
+	"manual_unlock": true,
 	"workshop" : "homesweethome:workbench:cook:dishes-cabinet",
 	"ingredients" : [
 		{

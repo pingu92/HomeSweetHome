@@ -1,0 +1,15 @@
+{
+   "type": "encounter",
+   "mod_root": "homesweethome",
+   "encounter_type": "unlock_kingdom_recipe",
+   "in_edge":        "unlock_potter_rayya",
+   "out_edge": "",
+   "unlock_kingdom_recipe_info": {
+      "job":        "stonehearth:jobs:potter",
+      "recipe_keys": [
+        "furniture:potter_shelf_rayya",
+        "furniture:potter_table_rayya",
+        "decoration:potter_crockery_rayya"
+	   ]
+   }
+}

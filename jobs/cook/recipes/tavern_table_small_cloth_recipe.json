@@ -7,7 +7,7 @@
 	"portrait" : "/homesweethome/entities/furniture/tavern_table_small_cloth/tavern_table_small_cloth.png",
 	"level_requirement" : 1,
 	"workshop" : "homesweethome:workbench:cook:dishes-cabinet",
-	"manual_unlock": false,
+	"manual_unlock": true,
 	"ingredients" : [
 		{
 			"uri": "stonehearth:furniture:dining_table",

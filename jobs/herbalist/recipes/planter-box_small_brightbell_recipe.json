@@ -7,7 +7,7 @@
 	"portrait" : "/homesweethome/entities/plants/planter-box_small_brightbell/planter-box_small_brightbell.png",
 	"level_requirement" : 1,
 	"workshop" : "homesweethome:workbench:herbalist:gardener-bench",
-	"manual_unlock": false,
+	"manual_unlock": true,
 	"ingredients" : [
 		{
       "material": "wood resource",
