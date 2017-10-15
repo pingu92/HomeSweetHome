@@ -8,7 +8,6 @@
          "table_rayya" : {
             "recipe" : "file(table_rayya_recipe.json)"
          },
-         "crockery": {
          "crockery_rayya": {
             "recipe": "file(crockery_rayya_recipe.json)"
          },
@@ -18,5 +17,4 @@
        }
      }
    }
- }
 }
