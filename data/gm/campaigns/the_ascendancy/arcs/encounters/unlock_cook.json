@@ -7,21 +7,20 @@
    "unlock_kingdom_recipe_info": {
       "job": "stonehearth:jobs:cook",
       "recipe_keys": [
-	     "containers:cook_barrels_berrie",
-       "containers:cook_pantry",
-       "furniture:cook_shelf",
-       "furniture:cook_tavern_table_large",
-       "furniture:cook_tavern_table_large_cloth",
-       "furniture:cook_tavern_table_large_fiber",
-       "furniture:cook_tavern_table_large_fur",
-       "furniture:cook_tavern_table_small_cloth",
-       "furniture:cook_tavern_table_small_fiber",
-       "furniture:cook_tavern_table_small_fur",
-       "decoration:cook_corbel",
-       "decoration:cook_utensils_holder",
-       "decoration:cook_wash_barrel",
-       "workbench:cook:dishes-cabinet"
-
+	     "workbenches:dishes-cabinet",
+       "storage:barrels_berrie",
+       "storage:pantry_cook",
+       "furniture:shelf_cook",
+       "furniture:tavern_table_large",
+       "furniture:tavern_table_large_cloth",
+       "furniture:tavern_table_large_fiber",
+       "furniture:tavern_table_large_fur",
+       "furniture:tavern_table_small_cloth",
+       "furniture:tavern_table_small_fiber",
+       "furniture:tavern_table_small_fur",
+       "decoration:corbel_cook",
+       "decoration:utensils_holder",
+       "decoration:wash_barrel"
 	   ]
    }
 }

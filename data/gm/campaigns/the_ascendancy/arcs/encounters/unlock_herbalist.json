@@ -7,17 +7,17 @@
    "unlock_kingdom_recipe_info": {
       "job": "stonehearth:jobs:herbalist",
       "recipe_keys": [
-	     "containers:herbalist_case_large_herbs",
-       "containers:herbalist_jar_small",
-       "containers:herbalist_jar_large",
+	     "workbenches:gardener_bench",
+       "storage:case_large_herbs",
+       "storage:herbalist_jar_small",
+       "storage:herbalist_jar_large",
        "furniture:herbalist_shelf_library",
        "furniture:herbalist_table",
-       "decoration:herbalist_books",
-       "decoration:herbalist_corbel",
+       "decorations:books_herbalist",
+       "decorations:corbel_herbalist",
        "plants:herbalist_planter-box_small_brightbell",
        "plants:herbalist_planter-box_small_frostsnap",
-       "plants:herbalist_planter-box_large",
-       "workbench:herbalist:gardener-bench"
+       "plants:herbalist_planter-box_large"
 	   ]
    }
 }

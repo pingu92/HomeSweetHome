@@ -7,9 +7,10 @@
    "unlock_kingdom_recipe_info": {
       "job":        "stonehearth:jobs:potter",
       "recipe_keys": [
-        "furniture:potter_shelf_rayya",
-        "furniture:potter_table_rayya",
-        "decoration:potter_crockery_rayya"
+        "furniture:shelf_rayya",
+        "furniture:table_rayya",
+        "furniture:crockery_rayya",
+        "furniture:pantry_rayya"
 	   ]
    }
 }

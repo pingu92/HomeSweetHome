@@ -7,21 +7,20 @@
    "unlock_kingdom_recipe_info": {
       "job": "stonehearth:jobs:cook",
       "recipe_keys": [
-	     "containers:cook_barrels_berrie",
-       "containers:cook_pantry_rayya",
-       "furniture:cook_shelf_rayya",
-       "furniture:cook_tavern_table_large_rayya",
-       "furniture:cook_tavern_table_large_cloth_rayya",
-       "furniture:cook_tavern_table_large_fiber_rayya",
-       "furniture:cook_tavern_table_large_fur_rayya",
-       "furniture:cook_tavern_table_small_cloth_rayya",
-       "furniture:cook_tavern_table_small_fiber_rayya",
-       "furniture:cook_tavern_table_small_fur_rayya",
-       "decoration:cook_corbel",
-       "decoration:cook_utensils_holder",
-       "decoration:cook_wash_barrel_rayya",
-       "workbench:cook:dishes-cabinet_rayya"
-
+        "workbenches:dishes-cabinet_rayya",
+        "storage:barrels_berrie",
+        "storage:pantry_cook_rayya",
+        "furniture:shelf_cook_rayya",
+        "furniture:tavern_table_large_rayya",
+        "furniture:tavern_table_large_cloth_rayya",
+        "furniture:tavern_table_large_fiber_rayya",
+        "furniture:tavern_table_large_fur_rayya",
+        "furniture:tavern_table_small_cloth_rayya",
+        "furniture:tavern_table_small_fiber_rayya",
+        "furniture:tavern_table_small_fur_rayya",
+        "decoration:corbel_cook",
+        "decoration:utensils_holder",
+        "decoration:wash_barrel_rayya"
 	   ]
    }
 }

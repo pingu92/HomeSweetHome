@@ -7,12 +7,12 @@
    "unlock_kingdom_recipe_info": {
       "job": "stonehearth:jobs:carpenter",
       "recipe_keys": [
-	     "containers:carpenter_barrel",
-       "containers:carpenter_case_small",
-       "containers:carpenter_case_large",
-       "furniture:carpenter_pantry",
-       "furniture:carpenter_shelf",
-       "furniture:carpenter_table"
+	     "storage:barrel",
+       "storage:small_case",
+       "storage:case_large",
+       "furniture:shelf",
+       "furniture:pantry",
+       "furniture:table"
 	   ]
    }
 }

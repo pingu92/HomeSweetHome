@@ -7,16 +7,16 @@
    "unlock_kingdom_recipe_info": {
       "job": "stonehearth:jobs:herbalist",
       "recipe_keys": [
-	     "containers:herbalist_case_large_herbs",
-       "containers:herbalist_jar_small",
-       "containers:herbalist_jar_large",
-       "furniture:herbalist_shelf_library_rayya",
-       "furniture:herbalist_table_rayya",
-       "decoration:herbalist_books",
-       "decoration:herbalist_corbel_rayya",
-       "plants:herbalist_planter-box_small_cactus_rayya",
-       "plants:herbalist_planter-box_large_rayya",
-       "workbench:herbalist:gardener-bench"
+        "workbenches:gardener_bench",
+        "storage:case_large_herbs",
+        "storage:herbalist_jar_small",
+        "storage:herbalist_jar_large",
+        "furniture:herbalist_shelf_library_rayya",
+        "furniture:herbalist_table_rayya",
+        "decorations:books_herbalist",
+        "decorations:corbel_herbalist_rayya",
+        "plants:herbalist_planter-box_small_cactus_rayya",
+        "plants:herbalist_planter-box_large_rayya"
 	   ]
    }
 }

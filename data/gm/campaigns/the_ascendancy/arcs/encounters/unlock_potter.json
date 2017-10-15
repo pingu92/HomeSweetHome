@@ -7,7 +7,7 @@
    "unlock_kingdom_recipe_info": {
       "job": "stonehearth:jobs:potter",
       "recipe_keys": [
-	     "decoration:potter_crockery"
+	     "furniture:crockery"
 	   ]
    }
 }
