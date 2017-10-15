@@ -6,6 +6,7 @@
    "flavor": "i18n(homesweethome:jobs.blacksmith.recipes.utensils_recipe.flavor)",
    "portrait": "/homesweethome/entities/decoration/utensils/utensils.png",
    "workshop": "stonehearth:blacksmith:workbench",
+   "manual_unlock": true,
    "level_requirement": 1,
    "ingredients": [
       {
