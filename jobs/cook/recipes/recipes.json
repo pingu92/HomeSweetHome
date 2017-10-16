@@ -4,6 +4,9 @@
          "recipes": {
             "dishes-cabinet": {
                "recipe": "file(dishes-cabinet_recipe.json)"
+            },
+            "dishes-cabinet_rayya": {
+               "recipe": "file(dishes-cabinet_rayya_recipe.json)"
             }
          }
       },
@@ -16,6 +19,9 @@
            },
             "pantry_cook": {
                "recipe": "file(pantry_cook_recipe.json)"
+            },
+            "pantry_cook_rayya": {
+               "recipe": "file(pantry_cook_rayya_recipe.json)"
             }
          }
       },
@@ -25,6 +31,9 @@
          "recipes": {
            "shelf_cook": {
               "recipe": "file(shelf_cook_recipe.json)"
+           },
+           "shelf_cook_rayya": {
+              "recipe": "file(shelf_cook_rayya_recipe.json)"
            },
            "tavern_table_large": {
               "recipe": "file(tavern_table_large_recipe.json)"
@@ -46,6 +55,27 @@
            },
            "tavern_table_small_fur": {
               "recipe": "file(tavern_table_small_fur_recipe.json)"
+           },
+           "tavern_table_large_rayya": {
+              "recipe": "file(tavern_table_large_rayya_recipe.json)"
+           },
+           "tavern_table_large_cloth_rayya": {
+              "recipe": "file(tavern_table_large_cloth_rayya_recipe.json)"
+           },
+           "tavern_table_large_fiber_rayya": {
+              "recipe": "file(tavern_table_large_fiber_rayya_recipe.json)"
+           },
+           "tavern_table_large_fur_rayya": {
+              "recipe": "file(tavern_table_large_fur_rayya_recipe.json)"
+           },
+           "tavern_table_small_cloth_rayya": {
+              "recipe": "file(tavern_table_small_cloth_rayya_recipe.json)"
+           },
+           "tavern_table_small_fiber_rayya": {
+              "recipe": "file(tavern_table_small_fiber_rayya_recipe.json)"
+           },
+           "tavern_table_small_fur_rayya": {
+              "recipe": "file(tavern_table_small_fur_rayya_recipe.json)"
            }
          }
       },
@@ -60,6 +90,9 @@
            },
            "wash_barrel": {
               "recipe": "file(wash_barrel_recipe.json)"
+           },
+           "wash_barrel_rayya": {
+              "recipe": "file(wash_barrel_rayya_recipe.json)"
            }
          }
       }

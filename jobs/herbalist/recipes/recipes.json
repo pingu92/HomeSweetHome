@@ -31,6 +31,12 @@
             },
             "herbalist_table" : {
                "recipe" : "file(table_herbalist_recipe.json)"
+            },
+            "herbalist_shelf_library_rayya" : {
+               "recipe" : "file(shelf_herbalist_library_rayya_recipe.json)"
+            },
+            "herbalist_table_rayya" : {
+               "recipe" : "file(table_herbalist_rayya_recipe.json)"
             }
          }
       },
@@ -42,6 +48,9 @@
            },
             "corbel_herbalist" : {
                "recipe" : "file(corbel_herbalist_recipe.json)"
+            },
+            "corbel_herbalist_rayya" : {
+               "recipe" : "file(corbel_herbalist_rayya_recipe.json)"
             }
          }
       },
@@ -57,6 +66,12 @@
           },
           "herbalist_planter-box_large" : {
              "recipe" : "file(planter-box_large_recipe.json)"
+          },
+          "herbalist_planter-box_small_cactus_rayya" : {
+             "recipe" : "file(planter-box_small_cactus_rayya_recipe.json)"
+          },
+          "herbalist_planter-box_large_rayya" : {
+             "recipe" : "file(planter-box_large_rayya_recipe.json)"
           }
         }
       }

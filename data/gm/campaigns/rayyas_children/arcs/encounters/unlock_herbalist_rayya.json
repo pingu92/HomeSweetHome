@@ -2,7 +2,7 @@
    "type": "encounter",
    "mod_root": "homesweethome",
    "encounter_type": "unlock_kingdom_recipe",
-   "in_edge":        "unlock_herbalist",
+   "in_edge":        "unlock_herbalist_rayya",
    "out_edge": "",
    "unlock_kingdom_recipe_info": {
       "job": "stonehearth:jobs:herbalist",

@@ -77,12 +77,6 @@
     "/stonehearth/jobs/cook/recipes/recipes.json" : "file(jobs/cook/recipes/recipes.json)",
     "/stonehearth/jobs/herbalist/recipes/recipes.json" : "file(jobs/herbalist/recipes/recipes.json)",
     "/stonehearth/jobs/potter/recipes/recipes.json" : "file(jobs/potter/recipes/recipes.json)",
-
-    "/rayyas_children/jobs/blacksmith/recipes/recipes.json" : "file(rayyas_children_selected/jobs/blacksmith/recipes/recipes.json)",
-    "/rayyas_children/jobs/carpenter/recipes/recipes.json" : "file(rayyas_children_selected/jobs/carpenter/recipes/recipes.json)",
-    "/rayyas_children/jobs/cook/recipes/recipes.json" : "file(rayyas_children_selected/jobs/cook/recipes/recipes.json)",
-    "/rayyas_children/jobs/herbalist/recipes/recipes.json" : "file(rayyas_children_selected/jobs/herbalist/recipes/recipes.json)",
-    "/rayyas_children/jobs/potter/recipes/recipes.json" : "file(rayyas_children_selected/jobs/potter/recipes/recipes.json)",
   },
 
   "controllers" : {
