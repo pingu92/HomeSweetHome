@@ -10,9 +10,6 @@
          },
          "crockery_rayya": {
             "recipe": "file(crockery_rayya_recipe.json)"
-         },
-         "pantry_rayya": {
-            "recipe": "file(pantry_rayya_recipe.json)"
          }
        }
      }
