@@ -197,6 +197,16 @@
 			}
 		},
 
+		"mason": {
+			"recipes" : {
+				"sculpture_hamnisu_recipe" : {
+					"recipe_name" : "Monument to Hamnisu",
+		      "description" : "A decorative monument dedicated to Hamnisu for his essential help for the Update 2.2",
+		      "flavor" : "Ohh see the bling bling!!"
+				}
+			}
+		},
+
 		"potter": {
 			"recipes" : {
 				"decoration_name" : "Decorations",
@@ -353,6 +363,10 @@
 				"display_name": "Crockery",
         "description" : "Beautiful porcellan crockery."
       },
+			"sculpture_hamnisu_ghost" : {
+				"display_name": "Monument to Hamnisu",
+				"description" : "For his help in the Update 2.2"
+			},
 			"utensils_ghost" : {
 				"display_name": "Bronze Utensils",
 				"description" : "Useful Utensils for your Workshop."

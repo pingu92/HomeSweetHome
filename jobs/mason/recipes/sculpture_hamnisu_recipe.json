@@ -1,0 +1,26 @@
+{
+	"type" : "recipe",
+
+	"work_units" : 4,
+	"recipe_name" : "i18n(homesweethome:jobs.mason.recipes.sculpture_hamnisu_recipe.recipe_name)",
+	"description" : "i18n(homesweethome:jobs.mason.recipes.sculpture_hamnisu_recipe.description)",
+	"flavor" : "i18n(homesweethome:jobs.mason.recipes.sculpture_hamnisu_recipe.flavor)",
+	"portrait" : "/homesweethome/entities/decoration/sculpture_hamnisu/sculpture_hamnisu.png",
+	"level_requirement" : 3,
+	"workshop": "stonehearth:mason:pedestal",
+	"manual_unlock": true,
+	"ingredients" : [
+		{
+			 "material": "stone resource",
+			 "count": 2
+		},
+		{
+			"uri": "stonehearth:refined:gold_ingot",
+			"count" : 1
+		}
+	],
+	"produces" : [{
+			"item" : "homesweethome:decoration:mason_sculpture_hamnisu"
+		}
+	]
+}

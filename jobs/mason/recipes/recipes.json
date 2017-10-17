@@ -1,0 +1,15 @@
+{
+   "craftable_recipes" : {
+
+      "signage_decoration" : {
+         "recipes" : {
+           "sculpture_hamnisu" : {
+              "recipe" : "file(sculpture_hamnisu_recipe.json)"
+           },
+           "sculpture_hamnisu_rayya" : {
+              "recipe" : "file(sculpture_hamnisu_rayya_recipe.json)"
+           }
+         }
+      }
+   }
+}
