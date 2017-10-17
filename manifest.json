@@ -13,6 +13,7 @@
     "containers:carpenter_case_small" : "file(entities/containers/case_small)",
     "containers:carpenter_case_large" : "file(entities/containers/case_large)",
     "containers:cook_barrels_berrie" : "file(entities/containers/barrels_berrie)",
+    "containers:cook_barrels_berrie_rayya" : "file(entities/containers/barrels_berrie)",
     "containers:cook_pantry" : "file(entities/containers/pantry_cook)",
     "containers:cook_pantry_rayya" : "file(entities/containers/pantry_cook_rayya)",
     "containers:herbalist_case_large_herbs" : "file(entities/containers/case_large_herbs)",
@@ -47,7 +48,9 @@
 
     "decoration:blacksmith_utensils" : "file(entities/decoration/utensils)",
     "decoration:cook_corbel" : "file(entities/decoration/corbel_cook)",
+    "decoration:cook_corbel_rayya" : "file(entities/decoration/corbel_cook)",
     "decoration:cook_utensils_holder" : "file(entities/decoration/utensils_holder_cook)",
+    "decoration:cook_utensils_holder_rayya" : "file(entities/decoration/utensils_holder_cook)",
     "decoration:cook_wash_barrel" : "file(entities/decoration/wash_barrel)",
     "decoration:cook_wash_barrel_rayya" : "file(entities/decoration/wash_barrel_rayya)",
     "decoration:herbalist_books" : "file(entities/decoration/books)",

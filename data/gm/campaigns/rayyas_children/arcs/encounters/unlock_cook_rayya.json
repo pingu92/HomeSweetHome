@@ -8,7 +8,7 @@
       "job": "stonehearth:jobs:cook",
       "recipe_keys": [
         "workbenches:dishes-cabinet_rayya",
-        "storage:barrels_berrie",
+        "storage:barrels_berrie_rayya",
         "storage:pantry_cook_rayya",
         "furniture:shelf_cook_rayya",
         "furniture:tavern_table_large_rayya",
@@ -18,8 +18,8 @@
         "furniture:tavern_table_small_cloth_rayya",
         "furniture:tavern_table_small_fiber_rayya",
         "furniture:tavern_table_small_fur_rayya",
-        "decoration:corbel_cook",
-        "decoration:utensils_holder",
+        "decoration:corbel_cook_rayya",
+        "decoration:utensils_holder_rayya",
         "decoration:wash_barrel_rayya"
 	   ]
    }
