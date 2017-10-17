@@ -15,6 +15,17 @@
               "recipe": "file(crockery_rayya_recipe.json)"
            }
         }
+     },
+
+     "monument" : {
+       "ordinal": 7,
+       "name": "i18n(stonehearth:jobs.potter.recipes.monument_name)",
+        "recipes" : {
+          "sculpture_hamnisu_rayya" : {
+             "recipe" : "file(sculpture_hamnisu_rayya_recipe.json)"
+          }
+        }
      }
+
    }
 }

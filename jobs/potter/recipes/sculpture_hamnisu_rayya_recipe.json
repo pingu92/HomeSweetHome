@@ -6,8 +6,8 @@
 	"description" : "i18n(homesweethome:jobs.mason.recipes.sculpture_hamnisu_recipe.description)",
 	"flavor" : "i18n(homesweethome:jobs.mason.recipes.sculpture_hamnisu_recipe.flavor)",
 	"portrait" : "/homesweethome/entities/decoration/sculpture_hamnisu_rayya/sculpture_hamnisu_rayya.png",
-	"level_requirement" : 3,
-	"workshop": "stonehearth:mason:pedestal",
+	"level_requirement" : 4,
+	"workshop": "stonehearth:potter:workbench",
 	"manual_unlock": true,
 	"ingredients" : [
 		{
@@ -20,7 +20,7 @@
 		}
 	],
 	"produces" : [{
-			"item" : "homesweethome:decoration:mason_sculpture_hamnisu_rayya"
+			"item" : "homesweethome:decoration:potter_sculpture_hamnisu_rayya"
 		}
 	]
 }

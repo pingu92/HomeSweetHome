@@ -59,6 +59,7 @@
     "decoration:mason_sculpture_hamnisu" : "file(entities/decoration/sculpture_hamnisu)",
     "decoration:potter_crockery" : "file(entities/decoration/crockery)",
     "decoration:potter_crockery_rayya" : "file(entities/decoration/crockery_rayya)",
+    "decoration:potter_sculpture_hamnisu_rayya" : "file(entities/decoration/sculpture_hamnisu_rayya)",
 
     "plants:herbalist_planter-box_small_brightbell" : "file(entities/plants/planter-box_small_brightbell)",
     "plants:herbalist_planter-box_small_frostsnap" : "file(entities/plants/planter-box_small_frostsnap)",

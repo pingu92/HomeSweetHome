@@ -199,6 +199,9 @@
 
 		"mason": {
 			"recipes" : {
+
+				"monument_name" : "Statues & Monuments",
+
 				"sculpture_hamnisu_recipe" : {
 					"recipe_name" : "Monument to Hamnisu",
 		      "description" : "A decorative monument dedicated to Hamnisu for his essential help for the Update 2.2",
@@ -210,6 +213,7 @@
 		"potter": {
 			"recipes" : {
 				"decoration_name" : "Decorations",
+				"monument_name" : "Statues & Monuments",
 
 				"crockery_recipe" : {
 					"recipe_name" : "Crockery",

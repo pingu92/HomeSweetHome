@@ -4,7 +4,7 @@
 		"model_variants": {
 			"default": {
 				"models": [
-					"file(sculpture_hamnisu.qb)"
+					"file(sculpture_hamnisu_rayya.qb)"
 				]
 			}
 		},
@@ -17,9 +17,9 @@
 			"stonehearth:catalog": {
 				"display_name": "i18n(homesweethome:entities.decoration.sculpture_hamnisu_ghost.display_name)",
 				"description": "i18n(homesweethome:entities.decoration.sculpture_hamnisu_ghost.description)",
-				"icon": "file(sculpture_hamnisu.png)",
+				"icon": "file(sculpture_hamnisu_rayya.png)",
 				"category": "decoration",
-				"material_tags": "stone decoration stockpile_decoration crafted"
+				"material_tags": "clay decoration stockpile_decoration crafted"
 		}
 	}
 }

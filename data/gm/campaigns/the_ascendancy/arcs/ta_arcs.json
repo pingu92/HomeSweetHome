@@ -7,6 +7,7 @@
      "unlock_carpenter": "file(encounters/unlock_carpenter.json)",
      "unlock_cook": "file(encounters/unlock_cook.json)",
      "unlock_herbalist": "file(encounters/unlock_herbalist.json)",
+     "unlock_mason": "file(encounters/unlock_mason.json)",
      "unlock_potter": "file(encounters/unlock_potter.json)"
    }
 }

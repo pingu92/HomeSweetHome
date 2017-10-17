@@ -9,6 +9,7 @@
          "unlock_carpenter",
          "unlock_cook",
          "unlock_herbalist",
+         "unlock_mason",
          "unlock_potter"
       ]
    },
