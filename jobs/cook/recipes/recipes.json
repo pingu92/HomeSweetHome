@@ -89,7 +89,7 @@
               "recipe": "file(corbel_cook_recipe.json)"
            },
            "corbel_cook_rayya": {
-              "recipe": "file(corbel_cook__rayya_recipe.json)"
+              "recipe": "file(corbel_cook_rayya_recipe.json)"
            },
            "utensils_holder": {
               "recipe": "file(utensils_holder_cook_recipe.json)"

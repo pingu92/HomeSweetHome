@@ -16,8 +16,8 @@
 
      "furniture": {
        "recipes" : {
-         "shelf" : {
-            "recipe" : "file(shelf_recipe.json)"
+         "shelf_carpenter" : {
+            "recipe" : "file(shelf_carpenter_recipe.json)"
          },
          "pantry" : {
             "recipe" : "file(pantry_recipe.json)"

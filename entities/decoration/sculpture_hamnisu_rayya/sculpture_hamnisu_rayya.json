@@ -1,6 +1,6 @@
 {
    "type": "entity",
-   "mixins": "file(sculpture_hamnisu_ghost.json)",
+   "mixins": "file(sculpture_hamnisu_rayya_ghost.json)",
    "components": {
       "stonehearth:entity_forms": {
          "iconic_form": "file(sculpture_hamnisu_rayya_iconic.json)",
@@ -12,7 +12,7 @@
       "region": [
          {
             "min": { "x": -1, "y": 0, "z": -1 },
-            "max": { "x": 1, "y": 1.9, "z": 1 }
+            "max": { "x": 1, "y": 3, "z": 1 }
          }
       ]
    }

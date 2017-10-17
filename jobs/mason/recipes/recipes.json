@@ -3,7 +3,7 @@
 
       "monument" : {
         "ordinal": 9,
-        "name": "i18n(stonehearth:jobs.mason.recipes.monument_name)",
+        "name": "i18n(homesweethome:jobs.mason.recipes.monument_name)",
          "recipes" : {
            "sculpture_hamnisu" : {
               "recipe" : "file(sculpture_hamnisu_recipe.json)"
