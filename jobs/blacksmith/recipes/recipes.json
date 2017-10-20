@@ -3,6 +3,9 @@
 
       "decoration": {
          "recipes": {
+           "bronze_brazier": {
+              "recipe": "file(bronze_brazier_recipe.json)"
+           },
            "utensils": {
               "recipe": "file(utensils_recipe.json)"
            }

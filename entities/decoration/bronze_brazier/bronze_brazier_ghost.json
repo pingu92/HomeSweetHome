@@ -1,0 +1,25 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(bronze_brazier.qb)"
+            ]
+         }
+      },
+      "mob": {
+         "model_origin": { "x": 0.075, "y": 0, "z": 0.075 },
+         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 }
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(homesweethome:entities.decoration.bronze_brazier.bronze_brazier_ghost.display_name)",
+         "description": "i18n(homesweethome:entities.decoration.bronze_brazier.bronze_brazier_ghost.description)",
+         "icon": "file(bronze_brazier.png)",
+         "category": "decoration",
+         "material_tags": "light_source crafted bronze stockpile_decoration"
+      }
+   }
+}

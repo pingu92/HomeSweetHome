@@ -2,6 +2,11 @@
 	"jobs": {
 		"blacksmith": {
 			"recipes" : {
+				"bronze_brazier_recipe" : {
+					"recipe_name" : "Bronze Brazier",
+		      "description" : "Brings light to dark nights.",
+		      "flavor" : "I love how the fire is dancing!"
+				},
 				"utensils_recipe" : {
 					"recipe_name" : "Bronze Utensils",
 		      "description" : "Useful Utensils for your Workshop.",
@@ -364,6 +369,10 @@
 			"books_ghost" : {
 				"display_name": "Books",
         "description" : "Decorative and useful."
+      },
+			"bronze_brazier_ghost" : {
+				"display_name": "Bronze Brazier",
+        "description" : "Brings light to dark nights."
       },
 			"corbel_cook_ghost" : {
 				"display_name": "Spice Corbel",
