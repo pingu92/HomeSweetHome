@@ -8,7 +8,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(bronze_brazier.qb)"
+               "file(iron_brazier.qb)"
             ]
          }
       }

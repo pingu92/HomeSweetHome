@@ -46,7 +46,7 @@
     "furniture:potter_shelf_rayya" : "file(entities/furniture/shelf_rayya)",
     "furniture:potter_table_rayya" : "file(entities/furniture/table_rayya)",
 
-    "decoration:blacksmith_bronze_brazier" : "file(entities/decoration/bronze_brazier)",
+    "decoration:blacksmith_iron_brazier" : "file(entities/decoration/iron_brazier)",
     "decoration:blacksmith_utensils" : "file(entities/decoration/utensils)",
     "decoration:cook_corbel" : "file(entities/decoration/corbel_cook)",
     "decoration:cook_corbel_rayya" : "file(entities/decoration/corbel_cook)",

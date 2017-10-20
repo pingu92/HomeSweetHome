@@ -2,8 +2,8 @@
 	"jobs": {
 		"blacksmith": {
 			"recipes" : {
-				"bronze_brazier_recipe" : {
-					"recipe_name" : "Bronze Brazier",
+				"iron_brazier_recipe" : {
+					"recipe_name" : "Iron Brazier",
 		      "description" : "Brings light to dark nights.",
 		      "flavor" : "I love how the fire is dancing!"
 				},
@@ -370,8 +370,8 @@
 				"display_name": "Books",
         "description" : "Decorative and useful."
       },
-			"bronze_brazier_ghost" : {
-				"display_name": "Bronze Brazier",
+			"iron_brazier_ghost" : {
+				"display_name": "Iron Brazier",
         "description" : "Brings light to dark nights."
       },
 			"corbel_cook_ghost" : {

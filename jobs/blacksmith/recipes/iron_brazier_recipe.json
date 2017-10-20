@@ -1,0 +1,22 @@
+{
+   "type": "recipe",
+   "work_units": 4,
+   "recipe_name": "i18n(homesweethome:jobs.blacksmith.recipes.iron_brazier_recipe.recipe_name)",
+   "description": "i18n(homesweethome:jobs.blacksmith.recipes.iron_brazier_recipe.description)",
+   "flavor": "i18n(homesweethome:jobs.blacksmith.recipes.iron_brazier_recipe.flavor)",
+   "portrait": "/homesweethome/entities/decoration/iron_brazier/iron_brazier.png",
+   "workshop": "stonehearth:blacksmith:workbench",
+   "manual_unlock": true,
+   "level_requirement": 2,
+   "ingredients": [
+      {
+         "uri": "stonehearth:refined:iron_ingot",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "homesweethome:decoration:blacksmith_iron_brazier"
+      }
+   ]
+}
