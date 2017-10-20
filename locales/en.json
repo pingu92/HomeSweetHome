@@ -26,6 +26,12 @@
 		      "flavor" : "Cheers my Friends!"
 				},
 
+				"barrels_pear_rayya_recipe" : {
+					"recipe_name" : "Pear Barrels",
+		      "description" : "Serving fresh prickly pear juice makes Hearthlings happier. Place for 92 Items.",
+		      "flavor" : "Cheers my Friends!"
+				},
+
 				"dishes-cabinet_recipe" : {
 					"recipe_name" : "Dishes Cabinet",
 		      "description" : "Workbench to decorate you Tavern.",
@@ -257,6 +263,10 @@
       },
 			"barrels_berrie_ghost" : {
         "display_name": "Berrie Barrels",
+        "description" : "Collect over 96 Items."
+      },
+			"barrels_pear_rayya_ghost" : {
+        "display_name": "Pear Barrels",
         "description" : "Collect over 96 Items."
       },
 			"case_small_ghost" : {

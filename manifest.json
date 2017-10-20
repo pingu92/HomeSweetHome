@@ -13,7 +13,7 @@
     "containers:carpenter_case_small" : "file(entities/containers/case_small)",
     "containers:carpenter_case_large" : "file(entities/containers/case_large)",
     "containers:cook_barrels_berrie" : "file(entities/containers/barrels_berrie)",
-    "containers:cook_barrels_berrie_rayya" : "file(entities/containers/barrels_berrie)",
+    "containers:cook_barrels_pear_rayya" : "file(entities/containers/barrels_pear_rayya)",
     "containers:cook_pantry" : "file(entities/containers/pantry_cook)",
     "containers:cook_pantry_rayya" : "file(entities/containers/pantry_cook_rayya)",
     "containers:herbalist_case_large_herbs" : "file(entities/containers/case_large_herbs)",
