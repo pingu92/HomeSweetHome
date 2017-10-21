@@ -19,7 +19,7 @@
          "description": "i18n(homesweethome:entities.decoration.iron_brazier.iron_brazier_ghost.description)",
          "icon": "file(iron_brazier.png)",
          "category": "decoration",
-         "material_tags": "light_source crafted bronze stockpile_decoration"
+         "material_tags": "light_source crafted iron stockpile_decoration"
       }
    }
 }

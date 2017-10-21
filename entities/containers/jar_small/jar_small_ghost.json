@@ -19,11 +19,11 @@
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "display_name": "i18n(homesweethome:entities.storage.jar_small_ghost.display_name)",
-         "description": "i18n(homesweethome:entities.storage.jar_small_ghost.description)",
+         "display_name": "i18n(homesweethome:entities.containers.jar_small_ghost.display_name)",
+         "description": "i18n(homesweethome:entities.containers.jar_small_ghost.description)",
          "icon": "file(jar_small.png)",
          "category": "storage",
-         "material_tags": "storage crafted clay crate stockpile_storage"
+         "material_tags": "furniture crafted clay crate stockpile_furniture"
       }
    }
 }

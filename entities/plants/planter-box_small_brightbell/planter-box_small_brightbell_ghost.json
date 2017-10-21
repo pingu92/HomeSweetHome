@@ -22,7 +22,7 @@
 				"description": "i18n(homesweethome:entities.plants.planter-box_small_brightbell_ghost.description)",
 				"icon": "file(planter-box_small_brightbell.png)",
 				"category": "plants",
-				"material_tags": "fiber plants crafted"
+				"material_tags": "plants"
 		}
 	}
 }

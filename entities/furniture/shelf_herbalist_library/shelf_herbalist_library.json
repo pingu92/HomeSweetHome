@@ -11,7 +11,7 @@
       "model_variants": {
   			 "default": {
   					"models": [
-  						"file(../shelf/shelf.qb)",
+  						"file(../shelf_carpenter/shelf_carpenter.qb)",
   						 {
   								"type": "one_of",
   								"items": [

@@ -4,7 +4,7 @@
 		"model_variants": {
 			 "default": {
 					"models": [
-						"file(../shelf/shelf.qb)",
+						"file(../shelf_carpenter/shelf_carpenter.qb)",
 						"file(shelf_herbalist_library1.qb)"
 					]
 			 }

@@ -20,11 +20,11 @@
 		},
 		"entity_data": {
 			"stonehearth:catalog": {
-				"display_name": "i18n(i18n(homesweethome:entities.storage.case_large_herbs_ghost.display_name))",
-				"description": "i18n(homesweethome:entities.storage.case_large_herbs_ghost.description)",
+				"display_name": "i18n(i18n(homesweethome:entities.containers.case_large_herbs_ghost.display_name))",
+				"description": "i18n(homesweethome:entities.containers.case_large_herbs_ghost.description)",
 				"icon": "file(case_large_herbs.png)",
 				"category": "storage",
-				"material_tags": "wood storage crafted crate stockpile_storage"
+				"material_tags": "wood furniture crafted crate stockpile_furniture"
 		}
 	}
 }
