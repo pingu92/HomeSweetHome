@@ -7,7 +7,7 @@
    "unlock_kingdom_recipe_info": {
       "job": "stonehearth:jobs:blacksmith",
       "recipe_keys": [
-	     "decoration:utensils"
+        "decoration:utensils"
 	   ]
    }
 }

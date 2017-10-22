@@ -38,7 +38,7 @@
         "description": "i18n(homesweethome:entities.decoration.utensils_holder_cook_ghost.description)",
         "icon": "file(utensils_holder_cook.png)",
         "category": "decoration",
-        "material_tags": "wood decorations crafted herb"
+        "material_tags": "decoration crafted stockpile_decoration"
      },
 
       "stonehearth:net_worth": {
