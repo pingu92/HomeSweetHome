@@ -18,8 +18,8 @@
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "display_name": "i18n(homesweethome:entities.decoration.iron_brazier.iron_brazier_ghost.display_name)",
-         "description": "i18n(homesweethome:entities.decoration.iron_brazier.iron_brazier_ghost.description)",
+         "display_name": "i18n(homesweethome:entities.decoration.iron_brazier_ghost.display_name)",
+         "description": "i18n(homesweethome:entities.decoration.iron_brazier_ghost.description)",
          "icon": "file(iron_brazier.png)",
          "category": "decoration",
          "material_tags": "light_source crafted iron stockpile_decoration"
