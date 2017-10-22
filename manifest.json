@@ -6,7 +6,6 @@
   },
 
   "default_locale" : "en",
-  "client_init_script": "file(homesweethome_client)",
 
   "aliases" : {
     "containers:carpenter_barrel" : "file(entities/containers/barrel)",
