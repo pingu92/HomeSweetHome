@@ -1,0 +1,28 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(iron_brazier_patrol-point.qb)"
+            ]
+         }
+      },
+      "mob": {
+         "model_origin": { "x": 0.075, "y": 0, "z": 0.075 },
+         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 }
+      },
+      "render_info": {
+         "scale": 0.15
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(homesweethome:entities.decoration.iron_brazier.iron_brazier_ghost.display_name)",
+         "description": "i18n(homesweethome:entities.decoration.iron_brazier.iron_brazier_ghost.description)",
+         "icon": "file(iron_brazier_patrol-point.png)",
+         "category": "decoration",
+         "material_tags": "light_source crafted iron stockpile_decoration"
+      }
+   }
+}
