@@ -11,7 +11,7 @@
          ]
       },
       "stonehearth:lamp": {
-         "light_effect": "stonehearth:effects:lamp_effect_wall",
+         "light_effect": "homesweethome:effects:candle_effect",
          "light_origin": { "x": 0, "y": 0, "z": 0 }
       },
       "stonehearth:entity_forms": {

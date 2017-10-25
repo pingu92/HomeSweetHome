@@ -9,6 +9,7 @@
 
   "aliases" : {
     "effects:candle_effect" : "file(data/effects/candle_effect)",
+    "effects:candelaber_effect" : "file(data/effects/candelaber_effect)",
 
     "containers:carpenter_barrel" : "file(entities/containers/barrel)",
     "containers:carpenter_case_small" : "file(entities/containers/case_small)",
