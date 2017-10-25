@@ -2,11 +2,26 @@
 	"jobs": {
 		"blacksmith": {
 			"recipes" : {
+				"bronze_wall_candle_recipe" : {
+		      "recipe_name" : "Bronze Candle Holder",
+		      "description" : "A small decorative light source for your rooms.",
+		      "flavor" : "Lovely details…"
+		    },
+				"gold_wall_candle_recipe" : {
+		      "recipe_name" : "Golden Candle Holder",
+		      "description" : "A small decorative light source for your rooms.",
+		      "flavor" : "Oh gosh! I like the bling bling"
+		    },
 				"iron_brazier_recipe" : {
 					"recipe_name" : "Iron Brazier",
 		      "description" : "Brings light to dark nights.",
 		      "flavor" : "I love how the fire is dancing!"
 				},
+				"iron_wall_candle_recipe" : {
+		      "recipe_name" : "Iron Candle Holder",
+		      "description" : "A small decorative light source for your rooms.",
+		      "flavor" : "Very rustical…"
+		    },
 				"utensils_recipe" : {
 					"recipe_name" : "Bronze Utensils",
 		      "description" : "Useful Utensils for your Workshop.",
@@ -235,6 +250,11 @@
 					"description" : "Beautiful porcellan crockery for special Events.",
 					"flavor" : "Lovely Tea Service."
 				},
+				"clay_wall_candle_recipe" : {
+		      "recipe_name" : "Clay Candle Holder",
+		      "description" : "A small decorative light source for your rooms.",
+		      "flavor" : "Lovely details…"
+		    },
 				"pantry_rayya_recipe" : {
 					"recipe_name" : "Clay Pantry",
 					"description" : "Decorative empty clay Pantry.",
@@ -377,9 +397,13 @@
 				"display_name": "Books",
         "description" : "Decorative and useful."
       },
-			"iron_brazier_ghost" : {
-				"display_name": "Iron Brazier",
-        "description" : "Brings light to dark nights."
+			"bronze_wall_candle_ghost" : {
+				"display_name": "Bronze Candle Holder",
+        "description" : "A small decorative light source."
+      },
+			"clay_wall_candle_ghost" : {
+				"display_name": "Clay Candle Holder",
+        "description" : "A small decorative light source."
       },
 			"corbel_cook_ghost" : {
 				"display_name": "Spice Corbel",
@@ -392,6 +416,18 @@
 			"crockery_ghost" : {
 				"display_name": "Crockery",
         "description" : "Beautiful porcellan crockery."
+      },
+			"gold_wall_candle_ghost" : {
+				"display_name": "Golden Candle Holder",
+        "description" : "A small decorative light source."
+      },
+			"iron_brazier_ghost" : {
+				"display_name": "Iron Brazier",
+        "description" : "Brings light to dark nights."
+      },
+			"iron_wall_candle_ghost" : {
+				"display_name": "Iron Candle Holder",
+        "description" : "A small decorative light source."
       },
 			"sculpture_hamnisu_ghost" : {
 				"display_name": "Monument to Hamnisu",
