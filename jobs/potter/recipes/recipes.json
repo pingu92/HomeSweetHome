@@ -17,6 +17,14 @@
         }
      },
 
+     "building_parts" : {
+        "recipes" : {
+          "clay_wall_candle" : {
+             "recipe" : "file(clay_wall_candle_recipe.json)"
+          }
+        }
+     },
+
      "monument" : {
        "ordinal": 7,
        "name": "i18n(homesweethome:jobs.potter.recipes.monument_name)",

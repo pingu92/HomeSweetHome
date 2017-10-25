@@ -4,7 +4,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(wood_wall_candle.qb)"
+               "file(clay_wall_candle.qb)"
             ]
          }
       },
@@ -19,11 +19,11 @@
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "display_name": "i18n(homesweethome:entities.decoration.wood_wall_candle_ghost.display_name)",
-         "description": "i18n(homesweethome:entities.decoration.wood_wall_candle_ghost.description)",
-         "icon": "file(wood_wall_candle.png)",
+         "display_name": "i18n(homesweethome:entities.decoration.clay_wall_candle_ghost.display_name)",
+         "description": "i18n(homesweethome:entities.decoration.clay_wall_candle_ghost.description)",
+         "icon": "file(clay_wall_candle.png)",
          "category": "decoration",
-         "material_tags": "light_source crafted wood stockpile_decoration"
+         "material_tags": "light_source crafted clay stockpile_decoration"
       }
    }
 }

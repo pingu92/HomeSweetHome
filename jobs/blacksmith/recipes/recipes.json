@@ -3,8 +3,17 @@
 
       "decoration": {
          "recipes": {
+           "bronze_wall_candle": {
+              "recipe": "file(bronze_wall_candle_recipe.json)"
+           },
+           "gold_wall_candle": {
+              "recipe": "file(gold_wall_candle_recipe.json)"
+           },
            "iron_brazier": {
               "recipe": "file(iron_brazier_recipe.json)"
+           },
+           "iron_wall_candle": {
+              "recipe": "file(iron_wall_candle_recipe.json)"
            },
            "utensils": {
               "recipe": "file(utensils_recipe.json)"
