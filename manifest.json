@@ -8,6 +8,8 @@
   "default_locale" : "en",
 
   "aliases" : {
+    "effects:candle_effect" : "file(data/effects/candle_effect)",
+
     "containers:carpenter_barrel" : "file(entities/containers/barrel)",
     "containers:carpenter_case_small" : "file(entities/containers/case_small)",
     "containers:carpenter_case_large" : "file(entities/containers/case_large)",
