@@ -1,6 +1,12 @@
 {
    "craftable_recipes" : {
-
+     "building_parts" : {
+        "recipes" : {
+          "stone_wall_candle" : {
+             "recipe" : "file(stone_wall_candle_recipe.json)"
+          }
+        }
+     },
       "monument" : {
         "ordinal": 9,
         "name": "i18n(homesweethome:jobs.mason.recipes.monument_name)",

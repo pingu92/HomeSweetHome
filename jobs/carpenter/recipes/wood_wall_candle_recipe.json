@@ -1,0 +1,21 @@
+{
+   "type": "recipe",
+   "work_units": 3,
+   "recipe_name": "i18n(homesweethome:jobs.carpenter.recipes.wood_wall_lantern_recipe.recipe_name)",
+   "description": "i18n(homesweethome:jobs.carpenter.recipes.wood_wall_lantern_recipe.description)",
+   "flavor": "i18n(homesweethome:jobs.carpenter.recipes.wood_wall_lantern_recipe.flavor)",
+   "portrait": "/homesweethome/entities/decoration/wood_wall_candle/wood_wall_candle.png",
+   "workshop": "stonehearth:carpenter:workbench",
+   "level_requirement": 1,
+   "ingredients": [
+      {
+         "material": "wood resource",
+         "count": 1
+      }
+   ],
+   "produces": [
+      {
+         "item": "homesweethome:decoration:wood_wall_candle"
+      }
+   ]
+}

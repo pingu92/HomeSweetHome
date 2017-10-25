@@ -24,25 +24,21 @@
 		      "description" : "Spicy food is more delicious.",
 		      "flavor" : "Let me add a little bit coriander…"
 				},
-
 				"barrels_berrie_recipe" : {
 					"recipe_name" : "Berrie Barrels",
 		      "description" : "Serving fresh Berrie juice makes Hearthlings happier. Place for 92 Items.",
 		      "flavor" : "Cheers my Friends!"
 				},
-
 				"barrels_pear_rayya_recipe" : {
 					"recipe_name" : "Pear Barrels",
 		      "description" : "Serving fresh prickly pear juice makes Hearthlings happier. Place for 92 Items.",
 		      "flavor" : "Cheers my Friends!"
 				},
-
 				"dishes-cabinet_recipe" : {
 					"recipe_name" : "Dishes Cabinet",
 		      "description" : "Workbench to decorate you Tavern.",
 		      "flavor" : "Another Decoration on this wall please!"
 				},
-
 				"pantry_cook_recipe" : {
 					"recipe_name" : "Ingredients Pantry",
 					"description" : "Useful storage for 64 cooking ingredients.",
@@ -132,6 +128,11 @@
 		      "recipe_name" : "Wooden Table",
 		      "description" : "A large wooden table for your Workshop.",
 		      "flavor" : "How useful! A nice wooden table."
+		    },
+				"wood_wall_candle_recipe" : {
+		      "recipe_name" : "Wooden Candle Holder",
+		      "description" : "A small decorative light source for your rooms.",
+		      "flavor" : "I hope the wood doesn't burn…"
 		    }
 			}
 		},
@@ -146,7 +147,6 @@
 		      "description" : "Plants don't have only healing attributes.",
 		      "flavor" : "Helpful and decorative. A nice combi."
 		    },
-
 				"books_recipe" : {
 		      "recipe_name" : "Books",
 		      "description" : "Sometimes is useful to write down your knowledge.",
@@ -184,7 +184,6 @@
 		      "description" : "The savest place for Tonics and Herbs. Contains up to 32 Items.",
 		      "flavor" : "It's a really big storage… Awful!"
 		    },
-
 				"planter-box_small_brightbell_recipe" : {
 		      "recipe_name" : "Brightbell Planter Box",
 		      "description" : "Let grow needed herbs in your Workshop.",
@@ -217,7 +216,12 @@
 					"recipe_name" : "Monument to Hamnisu",
 		      "description" : "A decorative monument dedicated to Hamnisu for his essential help for the Update 2.2",
 		      "flavor" : "Ohh see the bling bling!!"
-				}
+				},
+				"stone_wall_candle_recipe" : {
+		      "recipe_name" : "Stone Candle Holder",
+		      "description" : "A small decorative light source for your rooms.",
+		      "flavor" : "Burn baby, burn…"
+		    }
 			}
 		},
 
@@ -261,6 +265,7 @@
         "description" : "Helpful and decorative."
 			}
 		},
+
 		"containers" : {
 			"barrel_ghost" : {
         "display_name": "Wooden Barrel",
@@ -299,6 +304,7 @@
 				"description" : "Useful storage for 64 cooking ingredients."
 			}
 		},
+
     "furniture" : {
 			"pantry_ghost" : {
 				"display_name": "Wooden Pantry",
@@ -365,6 +371,7 @@
 				"description" : "A small table with a fur Tablecloth."
 			}
     },
+
 		"decoration" : {
 			"books_ghost" : {
 				"display_name": "Books",
@@ -390,6 +397,10 @@
 				"display_name": "Monument to Hamnisu",
 				"description" : "For his help in the Update 2.2"
 			},
+			"stone_wall_candle_ghost" : {
+				"display_name": "Stone Candle Holder",
+        "description" : "A small decorative light source."
+      },
 			"utensils_ghost" : {
 				"display_name": "Bronze Utensils",
 				"description" : "Useful Utensils for your Workshop."
@@ -401,6 +412,10 @@
 			"wash_barrel_ghost" : {
 				"display_name": "Wash Barrel",
         "description" : "Let shine your Crockery."
+      },
+			"wood_wall_candle_ghost" : {
+				"display_name": "Wooden Candle Holder",
+        "description" : "A small decorative light source."
       }
     },
 		"plants" : {
