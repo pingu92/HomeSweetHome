@@ -6,7 +6,7 @@
          "cubemitter": "particles/fire/tiny_fire.cubemitter.json",
          "loop": true,
          "transforms": {
-            "x":-0.3,
+            "x":-0.45,
             "y":1.25,
             "z":0,
             "rx":90,
@@ -19,7 +19,7 @@
          "cubemitter": "particles/fire/tiny_fire.cubemitter.json",
          "loop": true,
          "transforms": {
-            "x":0.3,
+            "x":0.45,
             "y":1.25,
             "z":0,
             "rx":90,
