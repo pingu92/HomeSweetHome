@@ -1,0 +1,19 @@
+{
+   "mixins": "woodhearth:mixins:item_properties",
+   "type": "entity",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(wood_wall_double_candle.qb)"
+            ]
+         }
+      }
+   },
+   "entity_data": {
+      "woodhearth:catalog": {
+         "is_item": true,
+         "category": "decoration"
+      }
+   }
+}

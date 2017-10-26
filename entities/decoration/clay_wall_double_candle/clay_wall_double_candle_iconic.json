@@ -1,0 +1,19 @@
+{
+   "mixins": "clayhearth:mixins:item_properties",
+   "type": "entity",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(clay_wall_double_candle.qb)"
+            ]
+         }
+      }
+   },
+   "entity_data": {
+      "clayhearth:catalog": {
+         "is_item": true,
+         "category": "decoration"
+      }
+   }
+}
