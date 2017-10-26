@@ -6,7 +6,7 @@
    "flavor": "i18n(homesweethome:jobs.carpenter.recipes.wood_wall_double_lantern_recipe.flavor)",
    "portrait": "/homesweethome/entities/decoration/wood_wall_double_candle/wood_wall_double_candle.png",
    "workshop": "stonehearth:carpenter:workbench",
-   "level_requirement": 1,
+   "level_requirement": 2,
    "ingredients": [
       {
          "material": "wood resource",

@@ -6,7 +6,7 @@
    "flavor": "i18n(homesweethome:jobs.blacksmith.recipes.silver_wall_lantern_recipe.flavor)",
    "portrait": "/homesweethome/entities/decoration/silver_wall_candle/silver_wall_candle.png",
    "workshop": "stonehearth:blacksmith:workbench",
-   "level_requirement": 2,
+   "level_requirement": 5,
    "ingredients": [
       {
          "uri": "stonehearth:refined:silver_ingot",

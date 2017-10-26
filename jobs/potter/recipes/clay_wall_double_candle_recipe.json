@@ -6,7 +6,7 @@
    "flavor": "i18n(homesweethome:jobs.potter.recipes.clay_wall_double_lantern_recipe.flavor)",
    "portrait": "/homesweethome/entities/decoration/clay_wall_double_candle/clay_wall_double_candle.png",
    "workshop" : "stonehearth:potter:workbench",
-   "level_requirement": 1,
+   "level_requirement": 2,
    "ingredients": [
       {
          "material": "clay resource",

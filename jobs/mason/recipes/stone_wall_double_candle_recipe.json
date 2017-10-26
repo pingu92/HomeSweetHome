@@ -6,7 +6,7 @@
    "flavor": "i18n(homesweethome:jobs.mason.recipes.stone_wall_double_candle_recipe.flavor)",
    "portrait": "/homesweethome/entities/decoration/stone_wall_double_candle/stone_wall_double_candle.png",
    "workshop": "stonehearth:mason:workbench",
-   "level_requirement": 2,
+   "level_requirement": 3,
    "ingredients": [
       {
          "material": "stone resource",

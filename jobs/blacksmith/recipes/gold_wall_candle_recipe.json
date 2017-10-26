@@ -6,7 +6,7 @@
    "flavor": "i18n(homesweethome:jobs.blacksmith.recipes.gold_wall_lantern_recipe.flavor)",
    "portrait": "/homesweethome/entities/decoration/gold_wall_candle/gold_wall_candle.png",
    "workshop": "stonehearth:blacksmith:workbench",
-   "level_requirement": 3,
+   "level_requirement": 6,
    "ingredients": [
       {
          "uri": "stonehearth:refined:gold_ingot",
