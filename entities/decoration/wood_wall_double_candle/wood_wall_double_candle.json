@@ -3,7 +3,7 @@
    "mixins": "file(wood_wall_double_candle_ghost.json)",
    "components": {
       "woodhearth:lamp": {
-         "light_effect": "homesweethome:effects:candle_effect",
+         "light_effect": "homesweethome:effects:candle_twins_effect",
          "light_origin": { "x": 0, "y": 1.2, "z": 0 }
       },
       "woodhearth:entity_forms": {

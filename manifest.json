@@ -9,6 +9,7 @@
 
   "aliases" : {
     "effects:candle_effect" : "file(data/effects/candle_effect)",
+    "effects:candle_twins_effect" : "file(data/effects/candle_twins_effect)",
     "effects:candelaber_effect" : "file(data/effects/candelaber_effect)",
 
     "containers:carpenter_barrel" : "file(entities/containers/barrel)",
@@ -28,8 +29,8 @@
     "decoration:blacksmith_gold_wall_double_candle" : "file(entities/decoration/gold_wall_double_candle)",
     "decoration:blacksmith_iron_brazier" : "file(entities/decoration/iron_brazier)",
     "decoration:blacksmith_iron_brazier_patrol-point" : "file(entities/decoration/iron_brazier_patrol-point)",
-    "decoration:blacksmith_iron_wall_candle" : "file(entities/decoration/iron_wall_candle)",
-    "decoration:carpenter_iron_wall_double_candle" : "file(entities/decoration/iron_wall_double_candle)",
+    "decoration:blacksmith_silver_wall_candle" : "file(entities/decoration/silver_wall_candle)",
+    "decoration:carpenter_silver_wall_double_candle" : "file(entities/decoration/silver_wall_double_candle)",
     "decoration:blacksmith_utensils" : "file(entities/decoration/utensils)",
     "decoration:carpenter_wood_wall_candle" : "file(entities/decoration/wood_wall_candle)",
     "decoration:carpenter_wood_wall_double_candle" : "file(entities/decoration/wood_wall_double_candle)",

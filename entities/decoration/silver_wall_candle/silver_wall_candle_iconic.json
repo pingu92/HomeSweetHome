@@ -5,7 +5,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(iron_wall_candle.qb)"
+               "file(silver_wall_candle.qb)"
             ]
          }
       }

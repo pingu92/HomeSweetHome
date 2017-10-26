@@ -15,27 +15,27 @@
 				"gold_wall_candle_recipe" : {
 		      "recipe_name" : "Golden Candle Holder",
 		      "description" : "A small decorative light source for your rooms.",
-		      "flavor" : "Oh gosh! I like the bling bling"
+		      "flavor" : "Beware of orcs!"
 		    },
 				"gold_wall_double_candle_recipe" : {
 		      "recipe_name" : "Golden-Twins Candle Holder",
 		      "description" : "A small decorative light source for your rooms.",
-		      "flavor" : "Oh gosh! I like the bling bling"
+		      "flavor" : "Beware of orcs!"
 		    },
 				"iron_brazier_recipe" : {
 					"recipe_name" : "Iron Brazier",
 		      "description" : "Brings light to dark nights.",
 		      "flavor" : "I love how the fire is dancing!"
 				},
-				"iron_wall_candle_recipe" : {
-		      "recipe_name" : "Iron Candle Holder",
+				"silver_wall_candle_recipe" : {
+		      "recipe_name" : "Silver Candle Holder",
 		      "description" : "A small decorative light source for your rooms.",
-		      "flavor" : "Very rustical…"
+		      "flavor" : "Oh gosh! I like the bling bling"
 		    },
-				"iron_wall_double_candle_recipe" : {
-		      "recipe_name" : "Iron-Twins Candle Holder",
+				"silver_wall_double_candle_recipe" : {
+		      "recipe_name" : "Silver-Twins Candle Holder",
 		      "description" : "A small decorative light source for your rooms.",
-		      "flavor" : "Very rustical…"
+		      "flavor" : "Oh gosh! I like the bling bling"
 		    },
 				"utensils_recipe" : {
 					"recipe_name" : "Bronze Utensils",
@@ -467,18 +467,18 @@
 				"display_name": "Iron Brazier",
         "description" : "Brings light to dark nights."
       },
-			"iron_wall_candle_ghost" : {
-				"display_name": "Iron Candle Holder",
-        "description" : "A small decorative light source."
-      },
-			"iron_wall_double_candle_ghost" : {
-				"display_name": "Iron-Twins Candle Holder",
-        "description" : "A small decorative light source."
-      },
 			"sculpture_hamnisu_ghost" : {
 				"display_name": "Monument to Hamnisu",
 				"description" : "For his help in the Update 2.2"
 			},
+			"silver_wall_candle_ghost" : {
+				"display_name": "Silver Candle Holder",
+        "description" : "A small decorative light source."
+      },
+			"silver_wall_double_candle_ghost" : {
+				"display_name": "Silver-Twins Candle Holder",
+        "description" : "A small decorative light source."
+      },
 			"stone_wall_candle_ghost" : {
 				"display_name": "Stone Candle Holder",
         "description" : "A small decorative light source."

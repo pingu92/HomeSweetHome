@@ -18,11 +18,11 @@
            "iron_brazier": {
               "recipe": "file(iron_brazier_recipe.json)"
            },
-           "iron_wall_candle": {
-              "recipe": "file(iron_wall_candle_recipe.json)"
+           "silver_wall_candle": {
+              "recipe": "file(silver_wall_candle_recipe.json)"
            },
-           "iron_wall_double_candle": {
-              "recipe": "file(iron_wall_double_candle_recipe.json)"
+           "silver_wall_double_candle": {
+              "recipe": "file(silver_wall_double_candle_recipe.json)"
            },
            "utensils": {
               "recipe": "file(utensils_recipe.json)"
