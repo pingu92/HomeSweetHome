@@ -1,0 +1,21 @@
+{
+   "type": "recipe",
+   "work_units": 3,
+   "recipe_name": "i18n(homesweethome:jobs.potter.recipes.clay_wall_double_lantern_recipe.recipe_name)",
+   "description": "i18n(homesweethome:jobs.potter.recipes.clay_wall_double_lantern_recipe.description)",
+   "flavor": "i18n(homesweethome:jobs.potter.recipes.clay_wall_double_lantern_recipe.flavor)",
+   "portrait": "/homesweethome/entities/decoration/clay_wall_double_candle/clay_wall_double_candle.png",
+   "workshop" : "stonehearth:potter:workbench",
+   "level_requirement": 1,
+   "ingredients": [
+      {
+         "material": "clay resource",
+         "count": 2
+      }
+   ],
+   "produces": [
+      {
+         "item": "homesweethome:decoration:potter_clay_wall_double_candle"
+      }
+   ]
+}

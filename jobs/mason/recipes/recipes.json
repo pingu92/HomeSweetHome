@@ -4,6 +4,9 @@
         "recipes" : {
           "stone_wall_candle" : {
              "recipe" : "file(stone_wall_candle_recipe.json)"
+          },
+          "stone_wall_double_candle" : {
+             "recipe" : "file(stone_wall_double_candle_recipe.json)"
           }
         }
      },

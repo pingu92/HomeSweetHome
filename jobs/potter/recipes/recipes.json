@@ -21,6 +21,9 @@
         "recipes" : {
           "clay_wall_candle" : {
              "recipe" : "file(clay_wall_candle_recipe.json)"
+          },
+          "clay_wall_double_candle" : {
+             "recipe" : "file(clay_wall_double_candle_recipe.json)"
           }
         }
      },

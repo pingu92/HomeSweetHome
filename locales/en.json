@@ -7,8 +7,18 @@
 		      "description" : "A small decorative light source for your rooms.",
 		      "flavor" : "Lovely details…"
 		    },
+				"bronze_wall_double_candle_recipe" : {
+		      "recipe_name" : "Bronze-Twins Candle Holder",
+		      "description" : "A small decorative light source for your rooms.",
+		      "flavor" : "Lovely details…"
+		    },
 				"gold_wall_candle_recipe" : {
 		      "recipe_name" : "Golden Candle Holder",
+		      "description" : "A small decorative light source for your rooms.",
+		      "flavor" : "Oh gosh! I like the bling bling"
+		    },
+				"gold_wall_double_candle_recipe" : {
+		      "recipe_name" : "Golden-Twins Candle Holder",
 		      "description" : "A small decorative light source for your rooms.",
 		      "flavor" : "Oh gosh! I like the bling bling"
 		    },
@@ -19,6 +29,11 @@
 				},
 				"iron_wall_candle_recipe" : {
 		      "recipe_name" : "Iron Candle Holder",
+		      "description" : "A small decorative light source for your rooms.",
+		      "flavor" : "Very rustical…"
+		    },
+				"iron_wall_double_candle_recipe" : {
+		      "recipe_name" : "Iron-Twins Candle Holder",
 		      "description" : "A small decorative light source for your rooms.",
 		      "flavor" : "Very rustical…"
 		    },
@@ -148,6 +163,11 @@
 		      "recipe_name" : "Wooden Candle Holder",
 		      "description" : "A small decorative light source for your rooms.",
 		      "flavor" : "I hope the wood doesn't burn…"
+		    },
+				"wood_wall_double_candle_recipe" : {
+		      "recipe_name" : "Wooden-Twins Candle Holder",
+		      "description" : "A small decorative light source for your rooms.",
+		      "flavor" : "I hope the wood doesn't burn…"
 		    }
 			}
 		},
@@ -236,6 +256,11 @@
 		      "recipe_name" : "Stone Candle Holder",
 		      "description" : "A small decorative light source for your rooms.",
 		      "flavor" : "Burn baby, burn…"
+		    },
+				"stone_wall_double_candle_recipe" : {
+		      "recipe_name" : "Stone-Twins Candle Holder",
+		      "description" : "A small decorative light source for your rooms.",
+		      "flavor" : "Burn baby, burn…"
 		    }
 			}
 		},
@@ -252,6 +277,11 @@
 				},
 				"clay_wall_candle_recipe" : {
 		      "recipe_name" : "Clay Candle Holder",
+		      "description" : "A small decorative light source for your rooms.",
+		      "flavor" : "Lovely details…"
+		    },
+				"clay_wall_double_candle_recipe" : {
+		      "recipe_name" : "Clay-Twins Candle Holder",
 		      "description" : "A small decorative light source for your rooms.",
 		      "flavor" : "Lovely details…"
 		    },
@@ -401,8 +431,16 @@
 				"display_name": "Bronze Candle Holder",
         "description" : "A small decorative light source."
       },
+			"bronze_wall_double_candle_ghost" : {
+				"display_name": "Bronze-Twins Candle Holder",
+        "description" : "A small decorative light source."
+      },
 			"clay_wall_candle_ghost" : {
 				"display_name": "Clay Candle Holder",
+        "description" : "A small decorative light source."
+      },
+			"clay_wall_double_candle_ghost" : {
+				"display_name": "Clay-Twins Candle Holder",
         "description" : "A small decorative light source."
       },
 			"corbel_cook_ghost" : {
@@ -421,6 +459,10 @@
 				"display_name": "Golden Candle Holder",
         "description" : "A small decorative light source."
       },
+			"gold_wall_double_candle_ghost" : {
+				"display_name": "Golden-Twins Candle Holder",
+        "description" : "A small decorative light source."
+      },
 			"iron_brazier_ghost" : {
 				"display_name": "Iron Brazier",
         "description" : "Brings light to dark nights."
@@ -429,12 +471,20 @@
 				"display_name": "Iron Candle Holder",
         "description" : "A small decorative light source."
       },
+			"iron_wall_double_candle_ghost" : {
+				"display_name": "Iron-Twins Candle Holder",
+        "description" : "A small decorative light source."
+      },
 			"sculpture_hamnisu_ghost" : {
 				"display_name": "Monument to Hamnisu",
 				"description" : "For his help in the Update 2.2"
 			},
 			"stone_wall_candle_ghost" : {
 				"display_name": "Stone Candle Holder",
+        "description" : "A small decorative light source."
+      },
+			"stone_wall_double_candle_ghost" : {
+				"display_name": "Stone-Twins Candle Holder",
         "description" : "A small decorative light source."
       },
 			"utensils_ghost" : {
@@ -451,6 +501,10 @@
       },
 			"wood_wall_candle_ghost" : {
 				"display_name": "Wooden Candle Holder",
+        "description" : "A small decorative light source."
+      },
+			"wood_wall_double_candle_ghost" : {
+				"display_name": "Wooden-Twins Candle Holder",
         "description" : "A small decorative light source."
       }
     },

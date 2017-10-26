@@ -1,0 +1,21 @@
+{
+   "type": "recipe",
+   "work_units": 3,
+   "recipe_name": "i18n(homesweethome:jobs.blacksmith.recipes.bronze_wall_double_lantern_recipe.recipe_name)",
+   "description": "i18n(homesweethome:jobs.blacksmith.recipes.bronze_wall_double_lantern_recipe.description)",
+   "flavor": "i18n(homesweethome:jobs.blacksmith.recipes.bronze_wall_double_lantern_recipe.flavor)",
+   "portrait": "/homesweethome/entities/decoration/bronze_wall_double_candle/bronze_wall_double_candle.png",
+   "workshop": "stonehearth:blacksmith:workbench",
+   "level_requirement": 1,
+   "ingredients": [
+      {
+         "uri": "stonehearth:refined:bronze_ingot",
+         "count": 2
+      }
+   ],
+   "produces": [
+      {
+         "item": "homesweethome:decoration:blacksmith_bronze_wall_double_candle"
+      }
+   ]
+}

@@ -18,6 +18,9 @@
        "recipes" : {
          "wood_wall_candle" : {
             "recipe" : "file(wood_wall_candle_recipe.json)"
+         },
+         "wood_wall_double_candle" : {
+            "recipe" : "file(wood_wall_double_candle_recipe.json)"
          }
        }
      },
