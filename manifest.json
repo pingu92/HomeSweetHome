@@ -24,6 +24,7 @@
 
     "decoration:blacksmith_bronze_wall_candle" : "file(entities/decoration/bronze_wall_candle)",
     "decoration:blacksmith_gold_wall_candle" : "file(entities/decoration/gold_wall_candle)",
+    "decoration:blacksmith_gold_wall_double_candle" : "file(entities/decoration/gold_wall_double_candle)",
     "decoration:blacksmith_iron_brazier" : "file(entities/decoration/iron_brazier)",
     "decoration:blacksmith_iron_brazier_patrol-point" : "file(entities/decoration/iron_brazier_patrol-point)",
     "decoration:blacksmith_iron_wall_candle" : "file(entities/decoration/iron_wall_candle)",
