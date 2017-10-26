@@ -1,6 +1,6 @@
 {
    "type": "recipe",
-   "work_units": 3,
+   "work_units": 6,
    "recipe_name": "i18n(homesweethome:jobs.blacksmith.recipes.gold_wall_lantern_recipe.recipe_name)",
    "description": "i18n(homesweethome:jobs.blacksmith.recipes.gold_wall_lantern_recipe.description)",
    "flavor": "i18n(homesweethome:jobs.blacksmith.recipes.gold_wall_lantern_recipe.flavor)",
