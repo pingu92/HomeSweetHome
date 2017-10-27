@@ -1,9 +1,9 @@
 {
    "type": "recipe",
    "work_units": 5,
-   "recipe_name": "i18n(homesweethome:jobs.blacksmith.recipes.silver_wall_lantern_recipe.recipe_name)",
-   "description": "i18n(homesweethome:jobs.blacksmith.recipes.silver_wall_lantern_recipe.description)",
-   "flavor": "i18n(homesweethome:jobs.blacksmith.recipes.silver_wall_lantern_recipe.flavor)",
+   "recipe_name": "i18n(homesweethome:jobs.blacksmith.recipes.silver_wall_candle_recipe.recipe_name)",
+   "description": "i18n(homesweethome:jobs.blacksmith.recipes.silver_wall_candle_recipe.description)",
+   "flavor": "i18n(homesweethome:jobs.blacksmith.recipes.silver_wall_candle_recipe.flavor)",
    "portrait": "/homesweethome/entities/decoration/silver_wall_candle/silver_wall_candle.png",
    "workshop": "stonehearth:blacksmith:workbench",
    "level_requirement": 5,

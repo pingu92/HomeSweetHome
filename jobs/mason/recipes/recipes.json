@@ -1,6 +1,6 @@
 {
    "craftable_recipes" : {
-     "building_parts" : {
+     "signage_decoration" : {
         "recipes" : {
           "stone_wall_candle" : {
              "recipe" : "file(stone_wall_candle_recipe.json)"

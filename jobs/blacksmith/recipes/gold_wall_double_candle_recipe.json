@@ -1,9 +1,9 @@
 {
    "type": "recipe",
    "work_units": 6,
-   "recipe_name": "i18n(homesweethome:jobs.blacksmith.recipes.gold_wall_double_lantern_recipe.recipe_name)",
-   "description": "i18n(homesweethome:jobs.blacksmith.recipes.gold_wall_double_lantern_recipe.description)",
-   "flavor": "i18n(homesweethome:jobs.blacksmith.recipes.gold_wall_double_lantern_recipe.flavor)",
+   "recipe_name": "i18n(homesweethome:jobs.blacksmith.recipes.gold_wall_double_candle_recipe.recipe_name)",
+   "description": "i18n(homesweethome:jobs.blacksmith.recipes.gold_wall_double_candle_recipe.description)",
+   "flavor": "i18n(homesweethome:jobs.blacksmith.recipes.gold_wall_double_candle_recipe.flavor)",
    "portrait": "/homesweethome/entities/decoration/gold_wall_double_candle/gold_wall_double_candle.png",
    "workshop": "stonehearth:blacksmith:workbench",
    "level_requirement": 6,
