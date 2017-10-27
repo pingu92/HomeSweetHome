@@ -2,18 +2,18 @@
    "type": "entity",
    "mixins": "file(wood_wall_double_candle_ghost.json)",
    "components": {
-      "woodhearth:lamp": {
+      "stonehearth:lamp": {
          "light_effect": "homesweethome:effects:candle_twins_effect",
          "light_origin": { "x": 0, "y": 1.2, "z": 0 }
       },
-      "woodhearth:entity_forms": {
+      "stonehearth:entity_forms": {
          "iconic_form": "file(wood_wall_double_candle_iconic.json)",
          "ghost_form": "file(wood_wall_double_candle_ghost.json)",
          "placeable_on_walls": true
       }
    },
    "entity_data": {
-      "woodhearth:net_worth": {
+      "stonehearth:net_worth": {
          "value_in_gold": 35,
          "rarity": "common",
          "shop_info": {

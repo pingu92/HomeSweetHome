@@ -1,5 +1,5 @@
 {
-   "mixins": "woodhearth:mixins:item_properties",
+   "mixins": "stonehearth:mixins:item_properties",
    "type": "entity",
    "components": {
       "model_variants": {
@@ -11,7 +11,7 @@
       }
    },
    "entity_data": {
-      "woodhearth:catalog": {
+      "stonehearth:catalog": {
          "is_item": true,
          "category": "decoration"
       }
