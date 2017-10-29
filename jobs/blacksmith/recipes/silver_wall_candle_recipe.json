@@ -6,6 +6,7 @@
    "flavor": "i18n(homesweethome:jobs.blacksmith.recipes.silver_wall_candle_recipe.flavor)",
    "portrait": "/homesweethome/entities/decoration/silver_wall_candle/silver_wall_candle.png",
    "workshop": "stonehearth:blacksmith:workbench",
+   "manual_unlock": true,
    "level_requirement": 5,
    "ingredients": [
       {

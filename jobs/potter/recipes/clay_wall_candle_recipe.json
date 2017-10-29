@@ -7,6 +7,7 @@
    "portrait": "/homesweethome/entities/decoration/clay_wall_candle/clay_wall_candle.png",
    "workshop" : "stonehearth:potter:workbench",
    "level_requirement": 1,
+   "manual_unlock": true,
    "ingredients": [
       {
          "material": "clay resource",

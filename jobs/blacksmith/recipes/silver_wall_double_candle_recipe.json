@@ -7,6 +7,7 @@
    "portrait": "/homesweethome/entities/decoration/silver_wall_double_candle/silver_wall_double_candle.png",
    "workshop": "stonehearth:blacksmith:workbench",
    "level_requirement": 5,
+   "manual_unlock": true,
    "ingredients": [
       {
          "uri": "stonehearth:refined:silver_ingot",

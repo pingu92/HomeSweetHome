@@ -7,7 +7,9 @@
    "unlock_kingdom_recipe_info": {
       "job": "stonehearth:jobs:potter",
       "recipe_keys": [
-	     "furniture:crockery"
+        "building_parts:clay_wall_candle",
+        "building_parts:clay_wall_double_candle",
+        "furniture:crockery"
 	   ]
    }
 }
