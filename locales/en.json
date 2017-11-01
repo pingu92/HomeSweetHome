@@ -27,6 +27,11 @@
 		      "description" : "Brings light to dark nights.",
 		      "flavor" : "I love how the fire is dancing!"
 				},
+				"oil_lamp_large_rayya_recipe" : {
+		      "recipe_name" : "Large Oil Brazier",
+		      "description" : "Useful light source for dark nights.",
+		      "flavor" : "Uff this Brazier is really heavy"
+		    },
 				"silver_wall_candle_recipe" : {
 		      "recipe_name" : "Silver Candle Holder",
 		      "description" : "A small decorative light source for your rooms.",
@@ -465,6 +470,10 @@
       },
 			"iron_brazier_ghost" : {
 				"display_name": "Iron Brazier",
+        "description" : "Brings light to dark nights."
+      },
+			"oil_lamp_large_rayya_ghost" : {
+				"display_name": "Large Oil Brazier",
         "description" : "Brings light to dark nights."
       },
 			"sculpture_hamnisu_ghost" : {

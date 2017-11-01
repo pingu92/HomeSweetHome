@@ -7,6 +7,7 @@
    "unlock_kingdom_recipe_info": {
       "job": "stonehearth:jobs:blacksmith",
       "recipe_keys": [
+        "decoration:oil_lamp_large_rayya",
         "decoration:utensils"
 	   ]
    }
