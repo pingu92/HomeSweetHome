@@ -7,10 +7,10 @@
    "portrait": "/homesweethome/entities/decoration/oil_lamp_large_rayya/oil_lamp_large_rayya.png",
    "workshop": "stonehearth:blacksmith:workbench",
    "manual_unlock": true,
-   "level_requirement": 2,
+   "level_requirement": 3,
    "ingredients": [
       {
-         "uri": "stonehearth:refined:iron_ingot",
+         "uri": "stonehearth:refined:bronze_ingot",
          "count": 1
       }
    ],

@@ -18,6 +18,15 @@
            "iron_brazier": {
               "recipe": "file(iron_brazier_recipe.json)"
            },
+           "iron_brazier_patrol-point": {
+              "recipe": "file(iron_brazier_patrol-point_recipe.json)"
+           },
+           "oil_lamp_height_rayya": {
+              "recipe": "file(oil_lamp_height_rayya_recipe.json)"
+           },
+           "oil_lamp_height_patrol-point_rayya": {
+              "recipe": "file(oil_lamp_height_patrol-point_rayya_recipe.json)"
+           },
            "oil_lamp_large_rayya": {
               "recipe": "file(oil_lamp_large_rayya_recipe.json)"
            },

@@ -12,6 +12,7 @@
     "effects:candle_twins_effect" : "file(data/effects/candle_twins_effect)",
     "effects:candelaber_effect" : "file(data/effects/candelaber_effect)",
     "effects:oil_brazier_effect" : "file(data/effects/oil_brazier_effect)",
+    "effects:oil_brazier_height_effect" : "file(data/effects/oil_brazier_height_effect)",
 
     "containers:carpenter_barrel" : "file(entities/containers/barrel)",
     "containers:carpenter_case_small" : "file(entities/containers/case_small)",
@@ -31,6 +32,8 @@
     "decoration:blacksmith_iron_brazier" : "file(entities/decoration/iron_brazier)",
     "decoration:blacksmith_iron_brazier_patrol-point" : "file(entities/decoration/iron_brazier_patrol-point)",
     "decoration:blacksmith_oil_lamp_large_rayya" : "file(entities/decoration/oil_lamp_large_rayya)",
+    "decoration:blacksmith_oil_lamp_height_rayya" : "file(entities/decoration/oil_lamp_height_rayya)",
+    "decoration:blacksmith_oil_lamp_height_patrol-point_rayya" : "file(entities/decoration/oil_lamp_height_patrol-point_rayya)",
     "decoration:blacksmith_silver_wall_candle" : "file(entities/decoration/silver_wall_candle)",
     "decoration:blacksmith_silver_wall_double_candle" : "file(entities/decoration/silver_wall_double_candle)",
     "decoration:blacksmith_utensils" : "file(entities/decoration/utensils)",

@@ -11,6 +11,8 @@
         "decoration:bronze_wall_double_candle",
         "decoration:gold_wall_candle",
         "decoration:gold_wall_double_candle",
+        "decoration:iron_brazier",
+        "decoration:iron_brazier_patrol-point",
         "decoration:utensils"
 	   ]
    }

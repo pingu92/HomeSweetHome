@@ -27,6 +27,21 @@
 		      "description" : "Brings light to dark nights.",
 		      "flavor" : "I love how the fire is dancing!"
 				},
+				"iron_brazier_patrol-point_recipe" : {
+					"recipe_name" : "Patrol Iron Brazier",
+		      "description" : "Light souce for soldiers.",
+		      "flavor" : "Keeps also warm on cold nights"
+				},
+				"oil_lamp_height_rayya_recipe" : {
+		      "recipe_name" : "Height Oil Brazier",
+		      "description" : "Useful light source for dark nights.",
+		      "flavor" : "Looks nice in my living room"
+		    },
+				"oil_lamp_height_patrol-point_rayya_recipe" : {
+		      "recipe_name" : "Patrol Oil Brazier",
+		      "description" : "Light souce for soldiers.",
+		      "flavor" : "Keeps also warm on cold nights"
+		    },
 				"oil_lamp_large_rayya_recipe" : {
 		      "recipe_name" : "Large Oil Brazier",
 		      "description" : "Useful light source for dark nights.",
@@ -470,6 +485,10 @@
       },
 			"iron_brazier_ghost" : {
 				"display_name": "Iron Brazier",
+        "description" : "Brings light to dark nights."
+      },
+			"oil_lamp_height_rayya_ghost" : {
+				"display_name": "Height Oil Brazier",
         "description" : "Brings light to dark nights."
       },
 			"oil_lamp_large_rayya_ghost" : {
