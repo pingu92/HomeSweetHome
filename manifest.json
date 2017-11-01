@@ -11,6 +11,7 @@
     "effects:candle_effect" : "file(data/effects/candle_effect)",
     "effects:candle_twins_effect" : "file(data/effects/candle_twins_effect)",
     "effects:candelaber_effect" : "file(data/effects/candelaber_effect)",
+    "effects:oil_brazier_effect" : "file(data/effects/oil_brazier_effect)",
 
     "containers:carpenter_barrel" : "file(entities/containers/barrel)",
     "containers:carpenter_case_small" : "file(entities/containers/case_small)",

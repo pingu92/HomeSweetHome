@@ -3,7 +3,7 @@
    "tracks": {
       "cubemitter": {
          "type": "cubemitter",
-         "cubemitter": "particles/fire/large_fire.cubemitter.json",
+         "cubemitter": "particles/fire/small_fire.cubemitter.json",
          "loop": true,
          "transforms": {
             "x":0,
@@ -25,10 +25,10 @@
       },
       "light": {
          "type": "light",
-         "light": "animatedlights/lamp/lamp_large.animatedlight.json",
+         "light": "/homesweethome/data/horde/animatedlights/lamp/oil_lamp_large.animatedlight.json",
          "transforms": {
             "x":0,
-            "y":1.50,
+            "y":2.2,
             "z":0
          },
          "shadows": true
