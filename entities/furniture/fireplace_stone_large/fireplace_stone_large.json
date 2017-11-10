@@ -1,0 +1,100 @@
+{
+   "type": "entity",
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+      "stonehearth:entity_forms": {
+         "iconic_form": "file(shelf_herbalist_library_iconic.json)",
+         "ghost_form": "file(shelf_herbalist_library_ghost.json)",
+         "placeable_on_ground": true
+      },
+
+      "model_variants": {
+  			 "default": {
+  					"models": [
+  						 {
+  								"type": "one_of",
+  								"items": [
+  									 "file(fireplace_base_part1_01.qb)",
+  									 "file(fireplace_base_part1_02.qb)",
+                     "file(fireplace_base_part1_03.qb)"
+  								]
+  						 },
+               {
+  								"type": "one_of",
+  								"items": [
+  									 "file(fireplace_base_part2_01.qb)",
+  									 "file(fireplace_base_part2_02.qb)",
+                     "file(fireplace_base_part2_03.qb)",
+  									 "file(fireplace_base_part2_04.qb)",
+                     "file(fireplace_base_part2_05.qb)"
+  								]
+  						 },
+               {
+  								"type": "one_of",
+  								"items": [
+  									 "file(fireplace_part1_01.qb)"
+  								]
+  						 },
+               {
+  								"type": "one_of",
+  								"items": [
+  									 "file(fireplace_part2_01.qb)",
+  									 "file(fireplace_part2_02.qb)",
+                     "file(fireplace_part2_03.qb)",
+                     "file(fireplace_part2_04.qb)"
+  								]
+  						 },
+               {
+  								"type": "one_of",
+  								"items": [
+  									 "file(fireplace_part3_01.qb)",
+  									 "file(fireplace_part3_02.qb)",
+                     "file(fireplace_part3_03.qb)",
+                     "file(fireplace_part3_04.qb)"
+  								]
+  						 }
+  					]
+  			 }
+  		},
+
+      "mob": {
+         "model_origin": { "x": -0.5, "y": 0, "z": 0.3 },
+         "region_origin": { "x": 0.05, "y": 0, "z": 0.05 }
+			},
+
+     "region_collision_shape": {
+        "region": [
+           {
+              "min": { "x": -1, "y": 0, "z": -0.6 },
+              "max": { "x": 3, "y": 5, "z": 1 }
+           }
+        ]
+      },
+      "stonehearth:lamp": {
+         "light_effect": "stonehearth:effects:brazier_effect",
+         "light_origin": { "x": 0, "y": 1, "z": 0 }
+      },
+   },
+
+   "entity_data": {
+
+     "stonehearth:catalog": {
+       "display_name": "i18n(homesweethome:entities.furniture.fireplace_stone_large_ghost.display_name)",
+       "description": "i18n(homesweethome:entities.furniture.fireplace_stone_large_ghost.description)",
+       "icon": "file(fireplace_stone_large.png)",
+       "category": "furniture",
+       "material_tags": "wood furniture crafted crate stockpile_furniture"
+   },
+
+      "stonehearth:net_worth": {
+         "value_in_gold": 14,
+         "rarity": "common",
+         "shop_info": {
+            "buyable": false,
+            "sellable": true,
+            "shopkeeper_level": 1,
+            "shopkeeper_type": "caravan"
+         }
+      }
+   }
+}

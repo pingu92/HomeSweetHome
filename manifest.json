@@ -80,6 +80,7 @@
     "furniture:herbalist_shelf_library_rayya" : "file(entities/furniture/shelf_herbalist_library_rayya)",
     "furniture:herbalist_table" : "file(entities/furniture/table_herbalist)",
     "furniture:herbalist_table_rayya" : "file(entities/furniture/table_herbalist_rayya)",
+    "furniture:mason_fireplace_stone_large" : "file(entities/furniture/fireplace_stone_large)",
     "furniture:potter_shelf_rayya" : "file(entities/furniture/shelf_rayya)",
     "furniture:potter_table_rayya" : "file(entities/furniture/table_rayya)",
 

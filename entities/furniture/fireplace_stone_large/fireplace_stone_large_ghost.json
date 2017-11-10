@@ -1,0 +1,31 @@
+{
+	"mixins": "stonehearth:mixins:placed_object",
+	"components": {
+		"model_variants": {
+			 "default": {
+					"models": [
+						"file(fireplace_base_part1_01.qb)",
+						"file(fireplace_base_part2_01.qb)",
+						"file(fireplace_part1_01.qb)",
+						"file(fireplace_part2_01.qb)",
+						"file(fireplace_part3_01.qb)"
+					]
+			 }
+		},
+
+      "mob": {
+         "model_origin": { "x": -0.5, "y": 0, "z": 0.3 },
+         "region_origin": { "x": 0.05, "y": 0, "z": 0.05 }
+			}
+		},
+
+		"entity_data": {
+			"stonehearth:catalog": {
+				"display_name": "i18n(homesweethome:entities.furniture.fireplace_stone_large_ghost.display_name)",
+				"description": "i18n(homesweethome:entities.furniture.fireplace_stone_large_ghost.description)",
+				"icon": "file(fireplace_stone_large.png)",
+				"category": "furniture",
+				"material_tags": "wood furniture crafted crate stockpile_furniture"
+		}
+	}
+}
