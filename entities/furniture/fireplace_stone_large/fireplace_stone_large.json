@@ -11,6 +11,7 @@
       "model_variants": {
   			 "default": {
   					"models": [
+              "file(fireplace_part1_01.qb)",
   						 {
   								"type": "one_of",
   								"items": [
@@ -27,12 +28,6 @@
                      "file(fireplace_base_part2_03.qb)",
   									 "file(fireplace_base_part2_04.qb)",
                      "file(fireplace_base_part2_05.qb)"
-  								]
-  						 },
-               {
-  								"type": "one_of",
-  								"items": [
-  									 "file(fireplace_part1_01.qb)"
   								]
   						 },
                {
@@ -73,7 +68,7 @@
       "stonehearth:lamp": {
          "light_effect": "stonehearth:effects:brazier_effect",
          "light_origin": { "x": 0, "y": 1, "z": 0 }
-      },
+      }
    },
 
    "entity_data": {

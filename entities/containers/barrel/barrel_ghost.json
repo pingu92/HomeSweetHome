@@ -20,7 +20,7 @@
 		},
 		"entity_data": {
 			"stonehearth:catalog": {
-				"display_name": "i18n(i18n(homesweethome:entities.containers.barrel_ghost.display_name))",
+				"display_name": "i18n(homesweethome:entities.containers.barrel_ghost.display_name)",
 				"description": "i18n(homesweethome:entities.containers.barrel_ghost.description)",
 				"icon": "file(barrel.png)",
 				"category": "storage",
