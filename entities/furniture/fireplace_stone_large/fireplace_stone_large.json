@@ -78,7 +78,7 @@
        "description": "i18n(homesweethome:entities.furniture.fireplace_stone_large_ghost.description)",
        "icon": "file(fireplace_stone_large.png)",
        "category": "furniture",
-       "material_tags": "wood furniture crafted crate stockpile_furniture"
+       "material_tags": "stone furniture crafted crate stockpile_furniture"
    },
 
       "stonehearth:net_worth": {

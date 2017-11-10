@@ -105,7 +105,7 @@
     "/stonehearth/jobs/cook/recipes/recipes.json" : "file(jobs/cook/recipes/recipes.json)",
     "/stonehearth/jobs/herbalist/recipes/recipes.json" : "file(jobs/herbalist/recipes/recipes.json)",
     "/stonehearth/jobs/mason/recipes/recipes.json" : "file(jobs/mason/recipes/recipes.json)",
-    "/stonehearth/jobs/potter/recipes/recipes.json" : "file(jobs/potter/recipes/recipes.json)",
+    "/stonehearth/jobs/potter/recipes/recipes.json" : "file(jobs/potter/recipes/recipes.json)"
   },
 
   "controllers" : {
