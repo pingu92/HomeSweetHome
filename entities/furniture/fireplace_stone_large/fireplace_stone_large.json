@@ -3,8 +3,8 @@
    "mixins": "stonehearth:mixins:placed_object",
    "components": {
       "stonehearth:entity_forms": {
-         "iconic_form": "file(shelf_herbalist_library_iconic.json)",
-         "ghost_form": "file(shelf_herbalist_library_ghost.json)",
+         "iconic_form": "file(fireplace_stone_large_iconic.json)",
+         "ghost_form": "file(fireplace_stone_large_ghost.json)",
          "placeable_on_ground": true
       },
 
