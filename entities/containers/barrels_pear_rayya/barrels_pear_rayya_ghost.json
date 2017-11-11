@@ -20,7 +20,7 @@
 		},
 		"entity_data": {
 			"stonehearth:catalog": {
-				"display_name": "i18n(i18n(homesweethome:entities.containers.barrels_pear_rayya_ghost.display_name))",
+				"display_name": "i18n(homesweethome:entities.containers.barrels_pear_rayya_ghost.display_name)",
 				"description": "i18n(homesweethome:entities.containers.barrels_pear_rayya_ghost.description)",
 				"icon": "file(../barrels_berrie/barrels_berrie.png)",
 				"category": "storage",
