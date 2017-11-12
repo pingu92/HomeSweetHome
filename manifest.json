@@ -11,6 +11,7 @@
     "effects:candle_effect" : "file(data/effects/candle_effect)",
     "effects:candle_twins_effect" : "file(data/effects/candle_twins_effect)",
     "effects:candelaber_effect" : "file(data/effects/candelaber_effect)",
+    "effects:fireplace_effect" : "file(data/effects/fireplace_effect)",
     "effects:oil_brazier_effect" : "file(data/effects/oil_brazier_effect)",
     "effects:oil_brazier_height_effect" : "file(data/effects/oil_brazier_height_effect)",
 
