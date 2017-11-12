@@ -1,5 +1,12 @@
 {
    "craftable_recipes" : {
+     "furniture" : {
+        "recipes" : {
+          "fireplace_stone_large" : {
+             "recipe" : "file(fireplace_stone_large_recipe.json)"
+          }
+        }
+     },
      "signage_decoration" : {
         "recipes" : {
           "stone_wall_candle" : {

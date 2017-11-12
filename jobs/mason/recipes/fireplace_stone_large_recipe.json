@@ -1,0 +1,26 @@
+{
+	"type" : "recipe",
+
+	"work_units" : 6,
+	"recipe_name" : "i18n(homesweethome:jobs.mason.recipes.fireplace_stone_large_recipe.recipe_name)",
+	"description" : "i18n(homesweethome:jobs.mason.recipes.fireplace_stone_large_recipe.description)",
+	"flavor" : "i18n(homesweethome:jobs.mason.recipes.fireplace_stone_large_recipe.flavor)",
+	"portrait" : "/homesweethome/entities/furniture/fireplace_stone_large/fireplace_stone_large.png",
+	"level_requirement" : 4,
+	"workshop": "stonehearth:mason:pedestal",
+	"manual_unlock": true,
+	"ingredients" : [
+		{
+			 "material": "stone resource",
+			 "count": 4
+		},
+		{
+			"material": "wood resource",
+			"count" : 2
+		}
+	],
+	"produces" : [{
+			"item" : "homesweethome:furniture:mason_fireplace_stone_large"
+		}
+	]
+}

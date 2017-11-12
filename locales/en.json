@@ -267,6 +267,11 @@
 
 				"monument_name" : "Statues & Monuments",
 
+				"fireplace_stone_large_recipe" : {
+					"recipe_name" : "Stone Fireplace",
+		      "description" : "A rustic fireplace for your home sweet home.",
+		      "flavor" : "It fit's perfectly in my living room."
+				},
 				"sculpture_hamnisu_recipe" : {
 					"recipe_name" : "Monument to Hamnisu",
 		      "description" : "A decorative monument dedicated to Hamnisu for his essential help for the Update 2.2",
@@ -376,6 +381,10 @@
 		},
 
     "furniture" : {
+			"fireplace_stone_large_ghost" : {
+				"display_name": "Stone Fireplace",
+        "description" : "Rustic fireplace for your home."
+      },
 			"pantry_ghost" : {
 				"display_name": "Wooden Pantry",
         "description" : "An empty storage for new Items."

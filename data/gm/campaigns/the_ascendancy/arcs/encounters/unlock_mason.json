@@ -7,6 +7,7 @@
    "unlock_kingdom_recipe_info": {
       "job": "stonehearth:jobs:mason",
       "recipe_keys": [
+        "furniture:fireplace_stone_large",
         "signage_decoration:stone_wall_candle",
         "signage_decoration:stone_wall_double_candle",
         "monument:sculpture_hamnisu"
