@@ -38,7 +38,7 @@
       ]
    }
    },
-   
+
    "entity_data": {
 
      "stonehearth:catalog": {
@@ -58,6 +58,12 @@
             "shopkeeper_level": 1,
             "shopkeeper_type": "caravan"
          }
+      },
+      "stonehearth:appeal": {
+         "appeal": 18
+      },
+      "stonehearth:item_quality": {
+         "variable_quality": true
       }
    }
 }

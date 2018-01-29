@@ -48,7 +48,7 @@
          "ghost_form": "file(planter-box_large_ghost.json)",
          "placeable_on_ground": true
       },
-      
+
    "region_collision_shape": {
       "region": [
          {
@@ -76,6 +76,12 @@
             "shopkeeper_level": 1,
             "shopkeeper_type": "caravan"
          }
+      },
+      "stonehearth:appeal": {
+         "appeal": 32
+      },
+      "stonehearth:item_quality": {
+         "variable_quality": true
       }
    }
 }
