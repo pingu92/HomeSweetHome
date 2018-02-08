@@ -10,6 +10,9 @@
          "iconic_form": "file(gold_wall_candle_iconic.json)",
          "ghost_form": "file(gold_wall_candle_ghost.json)",
          "placeable_on_walls": true
+      },
+      "mob": {
+         "mob_collision_type": "tiny"
       }
    },
    "entity_data": {

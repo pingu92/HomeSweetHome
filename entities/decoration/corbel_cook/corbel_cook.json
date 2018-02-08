@@ -6,6 +6,9 @@
          "iconic_form": "file(corbel_cook_iconic.json)",
          "ghost_form": "file(corbel_cook_ghost.json)",
          "placeable_on_walls": true
+      },
+      "mob": {
+         "mob_collision_type": "tiny"
       }
 
    },
