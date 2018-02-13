@@ -2,9 +2,16 @@
    "type": "entity",
    "mixins": "file(cook_workbench_ghost.json)",
    "components": {
+
      "effect_list": {
         "default": "file(/data/rigs/jobs/cook/cook_pot/effects/idle.json)"
      },
+
+      "stonehearth:entity_forms": {
+         "ghost_form": "file(cook_workbench_ghost.json)",
+         "iconic_form": "file(cook_workbench_iconic.json)",
+         "placeable_on_ground": true
+      },
       "destination": {
          "region": [
             {
@@ -30,6 +37,22 @@
       "stonehearth:table": {
          "drop_effect": "carry_putdown_on_table",
          "drop_offset": { "x": -0.5, "y": 1.5, "z": -0.5 }
+      },
+      "stonehearth:net_worth": {
+         "value_in_gold": 11,
+         "rarity": "common",
+         "shop_info": {
+            "buyable": false,
+            "sellable": true,
+            "shopkeeper_level": 1,
+            "shopkeeper_type": "caravan"
+         }
+      },
+      "stonehearth:appeal": {
+         "appeal": 6
+      },
+      "stonehearth:item_quality": {
+         "variable_quality": true
       }
    }
 }

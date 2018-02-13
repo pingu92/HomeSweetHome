@@ -103,10 +103,6 @@
   "mixintos" : {
     "stonehearth:data:gm_index": "homesweethome:data:gm_index",
 
-    "/stonehearth/jobs/cook/cook_workbench/cook_workbench.json" : "file(jobs/cook/cook_workbench/cook_workbench.json)",
-    "/stonehearth/jobs/cook/cook_workbench/cook_workbench_ghost.json" : "file(jobs/cook/cook_workbench/cook_workbench_ghost.json)",
-    "/stonehearth/jobs/cook/cook_workbench/cook_workbench_iconic.json" : "file(jobs/cook/cook_workbench/cook_workbench_iconic.json)",
-
     "/stonehearth/jobs/blacksmith/recipes/recipes.json" : "file(jobs/blacksmith/recipes/recipes.json)",
     "/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(jobs/carpenter/recipes/recipes.json)",
     "/stonehearth/jobs/cook/recipes/recipes.json" : "file(jobs/cook/recipes/recipes.json)",
@@ -114,6 +110,12 @@
     "/stonehearth/jobs/mason/recipes/recipes.json" : "file(jobs/mason/recipes/recipes.json)",
     "/stonehearth/jobs/potter/recipes/recipes.json" : "file(jobs/potter/recipes/recipes.json)"
   },
+
+  "overrides" : {
+    "/stonehearth/jobs/cook/cook_workbench/cook_workbench.json" : "file(jobs/cook/cook_workbench/cook_workbench.json)",
+    "/stonehearth/jobs/cook/cook_workbench/cook_workbench_ghost.json" : "file(jobs/cook/cook_workbench/cook_workbench_ghost.json)",
+    "/stonehearth/jobs/cook/cook_workbench/cook_workbench_iconic.json" : "file(jobs/cook/cook_workbench/cook_workbench_iconic.json)",
+    },
 
   "controllers" : {
      "game_master:encounters:unlock_kingdom_recipe": "file(services/server/game_master/controllers/encounters/unlock_kingdom_recipe_encounter.lua)"
