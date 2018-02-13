@@ -1,0 +1,11 @@
+{
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(cook_workbench_pedestal_iconic.qb)"
+            ]
+         }
+      }
+   }
+}

@@ -95,11 +95,17 @@
     "workbench:cook:dishes-cabinet_rayya" : "file(jobs/cook/dishes-cabinet_rayya)",
     "workbench:herbalist:gardener-bench" : "file(jobs/herbalist/gardener-bench)",
 
+    "sounds:pot_work" : "file(data/sounds/effects/hsh_bowl_pot.wav)",
+
     "data:gm_index": "file(data/gm/gm_index.json)"
   },
 
   "mixintos" : {
     "stonehearth:data:gm_index": "homesweethome:data:gm_index",
+
+    "/stonehearth/jobs/cook/cook_workbench/cook_workbench.json" : "file(jobs/cook/cook_workbench/cook_workbench.json)",
+    "/stonehearth/jobs/cook/cook_workbench/cook_workbench_ghost.json" : "file(jobs/cook/cook_workbench/cook_workbench_ghost.json)",
+    "/stonehearth/jobs/cook/cook_workbench/cook_workbench_iconic.json" : "file(jobs/cook/cook_workbench/cook_workbench_iconic.json)",
 
     "/stonehearth/jobs/blacksmith/recipes/recipes.json" : "file(jobs/blacksmith/recipes/recipes.json)",
     "/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(jobs/carpenter/recipes/recipes.json)",

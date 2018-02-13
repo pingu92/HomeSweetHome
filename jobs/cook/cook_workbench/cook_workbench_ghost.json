@@ -1,0 +1,11 @@
+{
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(cook_bench_pedestal.qb)"
+            ]
+         }
+      }
+   }
+}
