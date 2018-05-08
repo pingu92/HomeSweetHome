@@ -1,13 +1,12 @@
 {
-
-"info" : {
-   "name" : "homesweethome",
-   "version" : 3
-  },
-
-  "default_locale" : "en",
-
-  "aliases" : {
+	"info" : {
+		"name" : "Home sweet home",
+		"namespace" : "homesweethome",
+		"version" : 3,
+		"steam_file_id" : "1366853767"
+	},
+	"default_locale" : "en",
+	"aliases" : {
     "effects:candle_effect" : "file(data/effects/candle_effect)",
     "effects:candle_twins_effect" : "file(data/effects/candle_twins_effect)",
     "effects:candelaber_effect" : "file(data/effects/candelaber_effect)",
