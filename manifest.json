@@ -96,6 +96,8 @@
 
     "sounds:pot_work" : "file(data/sounds/effects/hsh_bowl_pot.wav)",
 
+		"task_groups:gathering": "file(ai/task_groups/gathering_task_group.lua)",
+
     "data:gm_index": "file(data/gm/gm_index.json)"
   },
 
