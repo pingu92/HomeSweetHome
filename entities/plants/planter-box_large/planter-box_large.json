@@ -15,7 +15,7 @@
         }
      },
      "stonehearth:renewable_resource_node": {
-        "category": "harvest",
+        "category": "gathering",
         "harvest_overlay_effect": "stonehearth:effects:harvest_plant_overlay_effect",
         "unripe_description": "i18n(stonehearth:entities.plants.brightbell_plant.unripe_description)",
         "resource_loot_table": {
