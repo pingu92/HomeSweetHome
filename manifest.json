@@ -94,8 +94,6 @@
     "workbench:cook:dishes-cabinet_rayya" : "file(jobs/cook/dishes-cabinet_rayya)",
     "workbench:herbalist:gardener-bench" : "file(jobs/herbalist/gardener-bench)",
 
-    "sounds:pot_work" : "file(data/sounds/effects/hsh_bowl_pot.wav)",
-
 		"task_groups:gathering": "file(ai/task_groups/gathering_task_group.lua)",
 
     "data:gm_index": "file(data/gm/gm_index.json)"
@@ -107,18 +105,18 @@
     "/stonehearth/jobs/blacksmith/recipes/recipes.json" : "file(jobs/blacksmith/recipes/recipes.json)",
     "/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(jobs/carpenter/recipes/recipes.json)",
     "/stonehearth/jobs/cook/recipes/recipes.json" : "file(jobs/cook/recipes/recipes.json)",
-
     "/stonehearth/jobs/herbalist/recipes/recipes.json" : "file(jobs/herbalist/recipes/recipes.json)",
-		"/stonehearth/jobs/herbalist/herbalist_description.json" : "file(jobs/herbalist/herbalist_description.json)",
-
     "/stonehearth/jobs/mason/recipes/recipes.json" : "file(jobs/mason/recipes/recipes.json)",
-    "/stonehearth/jobs/potter/recipes/recipes.json" : "file(jobs/potter/recipes/recipes.json)"
+    "/stonehearth/jobs/potter/recipes/recipes.json" : "file(jobs/potter/recipes/recipes.json)",
+
+		"/stonehearth/services/server/population/data/player_task_groups.json" : "file(services/server/population/data/hsh_task_groups.json)",
+
+		"/stonehearth/jobs/herbalist/herbalist_description.json" : "file(jobs/add_gathering.json)",
+		"/stonehearth/jobs/cook/cook_description.json" : "file(jobs/add_gathering.json)"
   },
 
   "overrides" : {
-    "/stonehearth/jobs/cook/cook_workbench/cook_workbench.json" : "file(jobs/cook/cook_workbench/cook_workbench.json)",
-    "/stonehearth/jobs/cook/cook_workbench/cook_workbench_ghost.json" : "file(jobs/cook/cook_workbench/cook_workbench_ghost.json)",
-    "/stonehearth/jobs/cook/cook_workbench/cook_workbench_iconic.json" : "file(jobs/cook/cook_workbench/cook_workbench_iconic.json)",
+
     },
 
   "controllers" : {
