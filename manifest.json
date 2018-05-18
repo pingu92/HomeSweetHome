@@ -90,6 +90,8 @@
     "plants:herbalist_planter-box_large" : "file(entities/plants/planter-box_large)",
     "plants:herbalist_planter-box_large_rayya" : "file(entities/plants/planter-box_large_rayya)",
 
+		"plants:tulip" : "file(entities/plants/tulip_plant)",
+
     "workbench:cook:dishes-cabinet" : "file(jobs/cook/dishes-cabinet)",
     "workbench:cook:dishes-cabinet_rayya" : "file(jobs/cook/dishes-cabinet_rayya)",
     "workbench:herbalist:gardener-bench" : "file(jobs/herbalist/gardener-bench)",
@@ -101,6 +103,8 @@
 
   "mixintos" : {
     "stonehearth:data:gm_index": "homesweethome:data:gm_index",
+
+		"/stonehearth/data/biome/temperate_generation_data.json" : "file(data/biome/temperate_hsh_addon.json)",
 
     "/stonehearth/jobs/blacksmith/recipes/recipes.json" : "file(jobs/blacksmith/recipes/recipes.json)",
     "/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(jobs/carpenter/recipes/recipes.json)",

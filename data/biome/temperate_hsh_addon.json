@@ -1,0 +1,45 @@
+{
+
+   "landscape": {
+      "placement_table": {
+
+         "homesweethome:plants:tulip": {
+            "placement_type": "dense",
+            "parameters": {
+               "grid_multiple": 2,
+               "item_density": 0.2,
+               "exclusion_radius": 1
+            }
+         }
+      },
+      "scattered": {
+         "plants": {
+            "__comment": "for example, a small probability with a large density would be more clustered than a large probability with small density.",
+            "weights": {
+               "plains": {
+                  "1": {
+                     "homesweethome:plants:tulip": 1
+                  }
+               },
+               "foothills": {
+                  "1": {
+                     "homesweethome:plants:tulip": 7
+                  },
+                  "2": {
+                     "homesweethome:plants:tulip": 8
+                  }
+               },
+               "mountains": {
+                  "1": {
+                     "homesweethome:plants:tulip": 1
+                  },
+                  "3": {
+                     "homesweethome:plants:tulip": 1
+                  }
+               }
+            }
+
+         }
+      }
+   }
+}
