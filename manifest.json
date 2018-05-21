@@ -91,6 +91,9 @@
     "plants:herbalist_planter-box_large_rayya" : "file(entities/plants/planter-box_large_rayya)",
 
 		"plants:tulip" : "file(entities/plants/tulip_plant)",
+		"plants:grass:large" : "file(entities/plants/gras_large)",
+		"plants:grass:medium" : "file(entities/plants/gras_medium)",
+		"plants:grass:small" : "file(entities/plants/gras_small)",
 
     "workbench:cook:dishes-cabinet" : "file(jobs/cook/dishes-cabinet)",
     "workbench:cook:dishes-cabinet_rayya" : "file(jobs/cook/dishes-cabinet_rayya)",

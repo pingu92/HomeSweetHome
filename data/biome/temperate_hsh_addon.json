@@ -10,6 +10,14 @@
                "item_density": 0.2,
                "exclusion_radius": 1
             }
+         },
+         "homesweethome:plants:grass:large": {
+            "placement_type": "dense",
+            "parameters": {
+               "grid_multiple": 4,
+               "item_density": 0.6,
+               "exclusion_radius": 1
+            }
          }
       },
       "scattered": {
@@ -18,15 +26,18 @@
             "weights": {
                "plains": {
                   "1": {
-                     "homesweethome:plants:tulip": 1
+                     "homesweethome:plants:tulip": 1,
+                     "homesweethome:plants:grass:large": 5
                   }
                },
                "foothills": {
                   "1": {
-                     "homesweethome:plants:tulip": 7
+                     "homesweethome:plants:tulip": 7,
+                     "homesweethome:plants:grass:large": 2
                   },
                   "2": {
-                     "homesweethome:plants:tulip": 8
+                     "homesweethome:plants:tulip": 8,
+                     "homesweethome:plants:grass:large": 4
                   }
                },
                "mountains": {
