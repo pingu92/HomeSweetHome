@@ -9,33 +9,7 @@
             ]
          }
       },
-      "stonehearth:renewable_resource_node": {
-         "resource": "stonehearth:resources:herb:brightbell",
-         "category": "harvest",
-         "harvest_overlay_effect": "stonehearth:effects:harvest_plant_overlay_effect",
-         "unripe_description": "i18n(homesweethome:entities.plants.grass_large.unripe_description)",
-         "renewal_time": "22h+2h",
-         "resource_loot_table": {
-            "entries": {
-               "optional": {
-                  "num_rolls": {
-                     "min": 1,
-                     "max": 1
-                  },
-                  "items": {
-                     "none": {
-                        "uri": "",
-                        "weight": 4
-                     },
-                     "pelt": {
-                        "uri": "homesweethome:plants:brightbell:seed",
-                        "weight": 1
-                     }
-                  }
-               }
-            }
-         }
-      },
+
       "stonehearth:entity_forms": {
          "iconic_form": "file(grass_large_iconic.json)",
          "ghost_form": "file(grass_large_ghost.json)",
