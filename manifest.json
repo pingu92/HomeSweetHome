@@ -92,6 +92,8 @@
 
 		"plants:tulip" : "file(entities/plants/tulip_plant)",
 		"plants:grass:large" : "file(entities/plants/grass_large)",
+		"plants:grass:medium" : "file(entities/plants/grass_medium)",
+		"plants:grass:small" : "file(entities/plants/grass_small)",
 
     "workbench:cook:dishes-cabinet" : "file(jobs/cook/dishes-cabinet)",
     "workbench:cook:dishes-cabinet_rayya" : "file(jobs/cook/dishes-cabinet_rayya)",

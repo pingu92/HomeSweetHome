@@ -18,6 +18,22 @@
                "item_density": 0.6,
                "exclusion_radius": 1
             }
+         },
+         "homesweethome:plants:grass:medium": {
+            "placement_type": "dense",
+            "parameters": {
+               "grid_multiple": 4,
+               "item_density": 1,
+               "exclusion_radius": 0.4
+            }
+         },
+         "homesweethome:plants:grass:small": {
+            "placement_type": "dense",
+            "parameters": {
+               "grid_multiple": 4,
+               "item_density": 0.2,
+               "exclusion_radius": 0.5
+            }
          }
       },
       "scattered": {
@@ -27,17 +43,23 @@
                "plains": {
                   "1": {
                      "homesweethome:plants:tulip": 1,
-                     "homesweethome:plants:grass:large": 5
+                     "homesweethome:plants:grass:large": 5,
+                     "homesweethome:plants:grass:medium": 3,
+                     "homesweethome:plants:grass:small": 6
                   }
                },
                "foothills": {
                   "1": {
                      "homesweethome:plants:tulip": 7,
-                     "homesweethome:plants:grass:large": 2
+                     "homesweethome:plants:grass:large": 2,
+                     "homesweethome:plants:grass:medium": 4,
+                     "homesweethome:plants:grass:small": 2
                   },
                   "2": {
                      "homesweethome:plants:tulip": 8,
-                     "homesweethome:plants:grass:large": 4
+                     "homesweethome:plants:grass:large": 4,
+                     "homesweethome:plants:grass:medium": 2,
+                     "homesweethome:plants:grass:small": 4
                   }
                },
                "mountains": {
