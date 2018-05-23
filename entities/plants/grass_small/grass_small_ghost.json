@@ -8,15 +8,7 @@
       "model_variants": {
          "default": {
             "models": [
-              {
-             "type" : "one_of",
-              "items" : [
-                "file(grass_small_01.qb)",
-                "file(grass_small_02.qb)",
-                "file(grass_small_03.qb)",
-                "file(grass_small_04.qb)"
-              ]
-             }
+                "file(grass_small.qb)"
             ]
          }
       },

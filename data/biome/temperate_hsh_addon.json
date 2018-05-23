@@ -14,16 +14,16 @@
          "homesweethome:plants:grass:large": {
             "placement_type": "dense",
             "parameters": {
-               "grid_multiple": 4,
-               "item_density": 0.6,
-               "exclusion_radius": 1
+              "grid_multiple": 4,
+              "item_density": 0.1,
+              "exclusion_radius": 0.4
             }
          },
          "homesweethome:plants:grass:medium": {
             "placement_type": "dense",
             "parameters": {
                "grid_multiple": 4,
-               "item_density": 1,
+               "item_density": 0.3,
                "exclusion_radius": 0.4
             }
          },
