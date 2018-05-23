@@ -1,20 +1,12 @@
 {
    "type": "entity",
-   "mixins": "file(grass_large_ghost.json)",
+   "mixins": "file(grass_small_ghost.json)",
    "components": {
-      "model_variants": {
-         "depleted": {
-            "models": [
-               "file(grass_large_harvested.qb)"
-            ]
-         }
-      },
-
       "stonehearth:entity_forms": {
-         "iconic_form": "file(grass_large_iconic.json)",
-         "ghost_form": "file(grass_large_ghost.json)",
+         "iconic_form": "file(grass_small_iconic.json)",
+         "ghost_form": "file(grass_small_ghost.json)",
          "placeable_on_ground": true,
-         "hide_undeploy_ui": false
+         "hide_undeploy_ui": true
       }
    },
    "entity_data": {

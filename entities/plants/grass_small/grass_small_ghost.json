@@ -8,7 +8,15 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(grass_large.qb)"
+              {
+             "type" : "one_of",
+              "items" : [
+                "file(grass_small_01.qb)",
+                "file(grass_small_02.qb)",
+                "file(grass_small_03.qb)",
+                "file(grass_small_04.qb)"
+              ]
+             }
             ]
          }
       },
@@ -19,9 +27,9 @@
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "display_name": "i18n(stonehearth:entities.plants.grass_large.display_name)",
-         "description": "i18n(stonehearth:entities.plants.grass_large.description)",
-         "icon": "file(grass_large.png)",
+         "display_name": "i18n(stonehearth:entities.plants.grass_small.display_name)",
+         "description": "i18n(stonehearth:entities.plants.grass_small.description)",
+         "icon": "file(grass_small.png)",
          "category": "plants"
       }
    }
