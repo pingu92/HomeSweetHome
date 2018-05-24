@@ -73,6 +73,20 @@
             }
 
          }
+      },
+
+      "water": {
+        "spawn_opbjects":{
+          "water_1":{
+            "none":1,
+            "homesweethome:plants:tulip": 5
+          },
+          "water_2":{
+            "none":1,
+            "homesweethome:plants:tulip": 2
+          },
+        }
       }
+
    }
 }
