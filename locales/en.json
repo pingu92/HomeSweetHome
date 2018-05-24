@@ -546,6 +546,22 @@
       }
     },
 		"plants" : {
+
+			"grass_large_ghost" : {
+				"display_name": "Grass",
+        "description" : "A large tuft of grass."
+			},
+
+			"grass_medium_ghost" : {
+				"display_name": "Grass",
+        "description" : "A medium tuft of grass."
+			},
+
+			"grass_small_ghost" : {
+				"display_name": "Grass",
+        "description" : "A small tuft of grass."
+			},
+
 			"planter-box_small_brightbell_ghost" : {
 				"display_name": "Brightbell Planter Box",
         "description" : "Plant herbs in your Workshop."
