@@ -19,8 +19,8 @@
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "display_name": "i18n(stonehearth:entities.plants.grass_medium_ghost.display_name)",
-         "description": "i18n(stonehearth:entities.plants.grass_medium_ghost.description)",
+         "display_name": "i18n(homesweethome:entities.plants.grass_medium_ghost.display_name)",
+         "description": "i18n(homesweethome:entities.plants.grass_medium_ghost.description)",
          "icon": "file(grass_medium.png)",
          "category": "plants"
       }
