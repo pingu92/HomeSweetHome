@@ -1,51 +1,30 @@
 {
    "type": "entity",
-   "mixins": "file(planter-box_large_ghost.json)",
+   "mixins": "file(beehive_ghost.json)",
    "components": {
      "model_variants": {
        "default": {
           "models": [
-             "file(planter-box_large.qb)"
+             "file(beehive.qb)"
           ]
        },
         "depleted": {
            "models": [
-              "file(planter-box_large_harvested.qb)"
+              "file(beehive_harvested.qb)"
            ]
         }
      },
      "stonehearth:renewable_resource_node": {
-        "category": "harvest",
+        "category": "gathering",
         "harvest_overlay_effect": "stonehearth:effects:harvest_plant_overlay_effect",
-        "unripe_description": "i18n(stonehearth:entities.plants.brightbell_plant.unripe_description)",
-        "resource_loot_table": {
-      		"entries": {
-      			"multi_herbs": {
-      				"items": {
-      					"brightbell": {
-      						"uri": "stonehearth:resources:herb:brightbell",
-      						"num_rolls": {
-      							"min": 2,
-      							"max": 3
-      						}
-      					},
-                "frostsnap": {
-			             "uri": "stonehearth:resources:herb:frostsnap",
-			             "num_rolls": {
-				           "min": 2,
-    				       "max": 3
-			             }
-		            }
-      				}
-      			}
-      		}
-      	 },
-        "renewal_time": "22h"
+        "unripe_description": "i18n(stonehearth:entities.plants.cactus_plant.unripe_description)",
+        "resource": "stonehearth:resources:herb:cactus_flower",
+        "renewal_time": "48h"
      },
 
       "stonehearth:entity_forms": {
-         "iconic_form": "file(planter-box_large_iconic.json)",
-         "ghost_form": "file(planter-box_large_ghost.json)",
+         "iconic_form": "file(beehive_iconic.json)",
+         "ghost_form": "file(beehive_ghost.json)",
          "placeable_on_ground": true
       },
 
@@ -53,22 +32,23 @@
       "region": [
          {
             "min": {
-               "x": -2,
+               "x": -1,
                "y": 0,
                "z": -1
             },
             "max": {
-               "x": 2,
+               "x": 1,
                "y": 1.8,
                "z": 1
             }
          }
       ]
-   }
+    }
    },
+
    "entity_data": {
       "stonehearth:net_worth": {
-         "value_in_gold": 20,
+         "value_in_gold": 10,
          "rarity": "common",
          "shop_info": {
             "buyable": false,
@@ -78,7 +58,7 @@
          }
       },
       "stonehearth:appeal": {
-         "appeal": 32
+         "appeal": 24
       },
       "stonehearth:item_quality": {
          "variable_quality": true

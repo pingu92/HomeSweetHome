@@ -1,0 +1,25 @@
+{
+	"mixins": "stonehearth:mixins:placed_object",
+	"components": {
+		"model_variants": {
+			"default": {
+				"models": [
+					"file(beehive.qb)"
+				]
+			}
+		},
+      "mob": {
+         "model_origin": { "x": 0.5, "y": 0, "z": 0.5 },
+         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 }
+			}
+		},
+		"entity_data": {
+			"stonehearth:catalog": {
+				"display_name": "i18n(homesweethome:entities.plants.beehive_ghost.display_name)",
+				"description": "i18n(homesweethome:entities.plants.beehive_ghost.description)",
+				"icon": "file(beehive.png)",
+				"category": "plants",
+				"material_tags": "plants"
+		}
+	}
+}

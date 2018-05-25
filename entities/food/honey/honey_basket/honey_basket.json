@@ -1,0 +1,52 @@
+{
+   "mixins": "stonehearth:mixins:food_decay",
+   "type": "entity",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(honey_basket.qb)"
+            ]
+         },
+         "decay_1": {
+            "models": [
+               "file(honey_basket_rotting.qb)"
+            ]
+         }
+      },
+      "mob": {
+         "model_origin": { "x": 0, "y": 0, "z": 0.05 }
+      },
+      "stonehearth:stacks": {
+         "max_stacks": 4
+      }
+   },
+   "entity_data": {
+      "stonehearth:food_container": {
+         "effect": "fiddle",
+         "food": "homesweethome:food:honey:honey_serving",
+         "stacks_per_serving": 6
+      },
+      "stonehearth:net_worth": {
+         "value_in_gold": 4,
+         "rarity": "common",
+         "shop_info": {
+            "buyable": false,
+            "sellable": true,
+            "shopkeeper_level": 1,
+            "shopkeeper_type": "caravan"
+         }
+      },
+      "stonehearth:catalog": {
+         "display_name": "i18n(homesweethome:entities.food.honey.honey_basket.display_name)",
+         "description": "i18n(homesweethome:entities.food.honey.honey_basket.description)",
+         "icon": "file(honey_basket.png)",
+         "is_item": true,
+         "category": "food",
+         "material_tags": "food_container raw_food vegetable vegetarian honey stockpile_raw_food"
+      },
+      "stonehearth:appeal": {
+         "appeal": 0
+      }
+   }
+}
