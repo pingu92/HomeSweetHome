@@ -60,7 +60,9 @@
 		"food:honey_basket" : "file(entities/food/honey/honey_basket/honey_basket.json)",
 		"food:honey_serving" : "file(entities/food/honey/honey_serving/honey_serving.json)",
 
-    "furniture:carpenter_pantry" : "file(entities/furniture/pantry)",
+		"furniture:beehive" : "file(entities/furniture/beehive)",
+
+		"furniture:carpenter_pantry" : "file(entities/furniture/pantry)",
     "furniture:carpenter_shelf" : "file(entities/furniture/shelf_carpenter)",
     "furniture:carpenter_table" : "file(entities/furniture/table)",
     "furniture:cook_shelf" : "file(entities/furniture/shelf_cook)",

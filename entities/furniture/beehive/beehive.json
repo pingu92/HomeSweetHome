@@ -5,7 +5,7 @@
      "model_variants": {
        "default": {
           "models": [
-             "file(beehive.qb)"
+             "file(beehive-model.qb)"
           ]
        },
         "depleted": {
@@ -18,7 +18,7 @@
         "category": "gathering",
         "harvest_overlay_effect": "stonehearth:effects:harvest_plant_overlay_effect",
         "unripe_description": "i18n(stonehearth:entities.plants.cactus_plant.unripe_description)",
-        "resource": "stonehearth:resources:herb:cactus_flower",
+        "resource": "homesweethome:food:honey_basket",
         "renewal_time": "48h"
      },
 
