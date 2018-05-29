@@ -19,7 +19,7 @@
    },
    "entity_data": {
       "stonehearth:net_worth": {
-         "value_in_gold": 12,
+         "value_in_gold": 8,
          "rarity": "common",
          "shop_info": {
             "buyable": false,
@@ -29,7 +29,7 @@
          }
       },
       "stonehearth:appeal": {
-         "appeal": 18
+         "appeal": 14
       },
       "stonehearth:item_quality": {
          "variable_quality": true

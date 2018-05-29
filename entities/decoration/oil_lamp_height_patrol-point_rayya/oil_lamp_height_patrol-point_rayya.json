@@ -38,7 +38,7 @@
          "patrol_pattern": "perimeter"
       },
       "stonehearth:appeal": {
-         "appeal": 22
+         "appeal": 16
       },
       "stonehearth:item_quality": {
          "variable_quality": true

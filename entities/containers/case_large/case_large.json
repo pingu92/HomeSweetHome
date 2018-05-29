@@ -40,7 +40,7 @@
          }
       },
       "stonehearth:appeal": {
-         "appeal": 20
+         "appeal": 4
       },
       "stonehearth:item_quality": {
          "variable_quality": true

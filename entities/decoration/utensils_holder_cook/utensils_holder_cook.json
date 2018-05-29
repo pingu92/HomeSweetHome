@@ -42,7 +42,7 @@
      },
 
       "stonehearth:net_worth": {
-         "value_in_gold": 32,
+         "value_in_gold": 22,
          "rarity": "common",
          "shop_info": {
             "buyable": false,
