@@ -380,6 +380,19 @@
 			}
 		},
 
+		"food" : {
+			"honey" : {
+				"honey_basket" : {
+        	"display_name": "Honey Jar",
+        	"description" : "A small jar filled with deicious honey."
+				},
+				"honey_serving" : {
+        	"display_name": "Delicious Honey",
+        	"description" : "Sweet. Sweeter. Honey. Your people will love it!"
+				}
+			}
+		},
+
     "furniture" : {
 			"fireplace_stone_large_ghost" : {
 				"display_name": "Stone Fireplace",
