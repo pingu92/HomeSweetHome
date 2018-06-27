@@ -5,12 +5,12 @@
      "model_variants": {
        "default": {
           "models": [
-             "file(beehive-model.qb)"
+             "file(beehive.qb)"
           ]
        },
         "depleted": {
            "models": [
-              "file(beehive_harvested.qb)"
+              "file(beehive.qb)"
            ]
         }
      },
