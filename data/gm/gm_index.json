@@ -1,11 +1,14 @@
 {
-   "type": "index",
-   "campaigns": {
-      "rc_hsh_recipes": {
-         "rc_recipes_campaign": "file(campaigns/rayyas_children/rc_recipes_campaign.json)"
+  "type": "index",
+    "campaigns": {
+      "na_hsh_recipes": {
+        "na_recipes_campaign": "file(campaigns/northern_alliance/na_recipes_campaign.json)"
       },
-	  "ta_hsh_recipes": {
-         "ta_recipes_campaign": "file(campaigns/the_ascendancy/ta_recipes_campaign.json)"
+      "rc_hsh_recipes": {
+        "rc_recipes_campaign": "file(campaigns/rayyas_children/rc_recipes_campaign.json)"
+      },
+      "ta_hsh_recipes": {
+        "ta_recipes_campaign": "file(campaigns/the_ascendancy/ta_recipes_campaign.json)"
       }
    }
 }
