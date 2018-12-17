@@ -1,0 +1,23 @@
+{
+   "type": "encounter",
+   "mod_root": "homesweethome",
+   "encounter_type": "unlock_kingdom_recipe",
+   "in_edge":        "unlock_herbalist",
+   "out_edge": "",
+   "unlock_kingdom_recipe_info": {
+      "job": "stonehearth:jobs:herbalist",
+      "recipe_keys": [
+	     "workbenches:gardener_bench",
+       "storage:case_large_herbs",
+       "storage:herbalist_jar_small",
+       "storage:herbalist_jar_large",
+       "furniture:herbalist_shelf_library",
+       "furniture:herbalist_table",
+       "decorations:books_herbalist",
+       "decorations:corbel_herbalist",
+       "plants:herbalist_planter-box_small_brightbell",
+       "plants:herbalist_planter-box_small_frostsnap",
+       "plants:herbalist_planter-box_large"
+	   ]
+   }
+}

@@ -1,0 +1,15 @@
+{
+   "type": "encounter",
+   "mod_root": "homesweethome",
+   "encounter_type": "unlock_kingdom_recipe",
+   "in_edge":        "unlock_potter",
+   "out_edge": "",
+   "unlock_kingdom_recipe_info": {
+      "job": "stonehearth:jobs:potter",
+      "recipe_keys": [
+        "building_parts:clay_wall_candle",
+        "building_parts:clay_wall_double_candle",
+        "furniture:crockery"
+	   ]
+   }
+}

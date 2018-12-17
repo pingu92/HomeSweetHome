@@ -1,0 +1,19 @@
+{
+   "type": "encounter",
+   "mod_root": "homesweethome",
+   "encounter_type": "unlock_kingdom_recipe",
+   "in_edge":        "unlock_blacksmith",
+   "out_edge": "",
+   "unlock_kingdom_recipe_info": {
+      "job": "stonehearth:jobs:blacksmith",
+      "recipe_keys": [
+        "decoration:bronze_wall_candle",
+        "decoration:bronze_wall_double_candle",
+        "decoration:gold_wall_candle",
+        "decoration:gold_wall_double_candle",
+        "decoration:iron_brazier",
+        "decoration:iron_brazier_patrol-point",
+        "decoration:utensils"
+	   ]
+   }
+}

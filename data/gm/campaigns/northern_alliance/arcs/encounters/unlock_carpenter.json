@@ -2,15 +2,19 @@
    "type": "encounter",
    "mod_root": "homesweethome",
    "encounter_type": "unlock_kingdom_recipe",
-   "in_edge":        "unlock_carpenter_rayya",
+   "in_edge":        "unlock_carpenter",
    "out_edge": "",
    "unlock_kingdom_recipe_info": {
       "job": "stonehearth:jobs:carpenter",
       "recipe_keys": [
-        "furniture:pantry",
+        "building_parts:wood_wall_candle",
+        "building_parts:wood_wall_double_candle",
         "storage:barrel",
         "storage:small_case",
-        "storage:case_large"
+        "storage:case_large",
+        "furniture:shelf_carpenter",
+        "furniture:pantry",
+        "furniture:table"
 	   ]
    }
 }
