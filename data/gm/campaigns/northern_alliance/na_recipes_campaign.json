@@ -12,7 +12,7 @@
    },
    "arcs": {
       "trigger": {
-         "rc_arcs": "file(arcs/rc_arcs.json)"
+         "rc_arcs": "file(arcs/na_arcs.json)"
       },
       "challenge": {},
       "climax": {}
