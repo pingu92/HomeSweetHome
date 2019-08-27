@@ -57,11 +57,6 @@
     "decoration:potter_clay_wall_candle" : "file(entities/decoration/clay_wall_candle)",
     "decoration:potter_clay_wall_double_candle" : "file(entities/decoration/clay_wall_double_candle)",
 
-		"food:honey_basket" : "file(entities/food/honey/honey_basket/honey_basket.json)",
-		"food:honey_serving" : "file(entities/food/honey/honey_serving/honey_serving.json)",
-
-		"furniture:beehive" : "file(entities/furniture/beehive)",
-
 		"furniture:carpenter_pantry" : "file(entities/furniture/pantry)",
     "furniture:carpenter_shelf" : "file(entities/furniture/shelf_carpenter)",
     "furniture:carpenter_table" : "file(entities/furniture/table)",
@@ -95,11 +90,6 @@
     "plants:herbalist_planter-box_large" : "file(entities/plants/planter-box_large)",
     "plants:herbalist_planter-box_large_rayya" : "file(entities/plants/planter-box_large_rayya)",
 
-		"plants:tulip" : "file(entities/plants/tulip_plant)",
-		"plants:grass:large" : "file(entities/plants/grass_large)",
-		"plants:grass:medium" : "file(entities/plants/grass_medium)",
-		"plants:grass:small" : "file(entities/plants/grass_small)",
-
     "workbench:cook:dishes-cabinet" : "file(jobs/cook/dishes-cabinet)",
     "workbench:cook:dishes-cabinet_rayya" : "file(jobs/cook/dishes-cabinet_rayya)",
     "workbench:herbalist:gardener-bench" : "file(jobs/herbalist/gardener-bench)",
@@ -111,8 +101,6 @@
 
   "mixintos" : {
     "stonehearth:data:gm_index": "homesweethome:data:gm_index",
-
-		"/stonehearth/data/biome/temperate_generation_data.json" : "file(data/biome/temperate_hsh_addon.json)",
 
     "/stonehearth/jobs/blacksmith/recipes/recipes.json" : "file(jobs/blacksmith/recipes/recipes.json)",
     "/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(jobs/carpenter/recipes/recipes.json)",
